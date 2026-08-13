@@ -1,0 +1,2875 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Oh My Tmux!",
+          "description": "Powerline-like theme, vim bindings, SSH aware, improved maximize pane, ...",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-08T15:52:45Z",
+            "owner": "gpakosz",
+            "repo": ".tmux",
+            "stars": 25294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Example tmux config",
+          "description": "green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-24T01:24:04Z",
+            "owner": "tony",
+            "repo": "tmux-config",
+            "stars": 1870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-extra",
+          "description": "Configuration and scripts for sane Tmux default behavior",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2011-09-03T17:03:36Z",
+            "owner": "brandur",
+            "repo": "tmux-extra",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mooks",
+          "description": "A minimal tmux configuration framework designed for well-structured modular setups",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-07-11T09:16:06Z",
+            "owner": "TomhetArkitektur",
+            "repo": "mooks",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-keybtest",
+          "description": "Check what keys tmux can detect from the terminal being used.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-15T10:36:16Z",
+            "owner": "jaclu",
+            "repo": "tmux-keybtest",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Configuration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "powerline",
+          "description": "Statusline plugin for vim, and provides statuslines and prompts for several other applications including tmux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-11T01:18:21Z",
+            "owner": "powerline",
+            "repo": "powerline",
+            "stars": 14801
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmuxinator",
+          "description": "Manage complex tmux sessions easily",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-10T15:17:11Z",
+            "owner": "tmuxinator",
+            "repo": "tmuxinator",
+            "stars": 13704
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim-tmux-navigator",
+          "description": "Vim and tmux integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-25T19:44:18Z",
+            "owner": "christoomey",
+            "repo": "vim-tmux-navigator",
+            "stars": 6268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmuxp",
+          "description": "computer: tmux session manager and python library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:17:59Z",
+            "owner": "tmux-python",
+            "repo": "tmuxp",
+            "stars": 4556
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-powerline",
+          "description": "A hackable statusbar for tmux consisting of dynamic & beautiful looking segments, inspired by vim-powerline, written purely in bash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-27T15:05:12Z",
+            "owner": "erikw",
+            "repo": "tmux-powerline",
+            "stars": 3832
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ccb",
+          "description": "A CLI tool to orchestrate multiple LLMs (Claude, Gemini, etc.) in tmux panes with cross-agent interaction",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T08:12:13Z",
+            "owner": "SeemSeam",
+            "repo": "claude_codex_bridge",
+            "stars": 3407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sesh",
+          "description": "Smart session manager for the terminal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-04T20:43:21Z",
+            "owner": "joshmedeski",
+            "repo": "sesh",
+            "stars": 2755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "teamocil",
+          "description": "A simple tool used to automatically create windows and panes in tmux with YAML files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2021-03-10T12:26:11Z",
+            "owner": "remi",
+            "repo": "teamocil",
+            "stars": 2407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xpanes",
+          "description": "Awesome tmux-based terminal divider",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-05T03:23:08Z",
+            "owner": "greymd",
+            "repo": "tmux-xpanes",
+            "stars": 2107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmuxifier",
+          "description": "Tmuxify your Tmux. Powerful session, window & pane management for Tmux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-12-02T01:16:14Z",
+            "owner": "jimeh",
+            "repo": "tmuxifier",
+            "stars": 1487
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sessionx",
+          "description": "A Tmux session manager, with preview, fuzzy finding, and MORE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-04-18T20:29:34Z",
+            "owner": "omerxx",
+            "repo": "tmux-sessionx",
+            "stars": 1362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libtmux",
+          "description": "Python API for tmux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:10:19Z",
+            "owner": "tmux-python",
+            "repo": "libtmux",
+            "stars": 1203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "smug",
+          "description": "A session manager for tmux written in Go",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-30T08:20:41Z",
+            "owner": "ivaaaan",
+            "repo": "smug",
+            "stars": 910
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-powerkit",
+          "description": "A tmux framework to create and distribute plugins and themes - Already have 36+ plugins, and 2 themes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-10T20:15:43Z",
+            "owner": "fabioluciano",
+            "repo": "tmux-powerkit",
+            "stars": 598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dmux",
+          "description": "Configurable tmux workspace manager written in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2025-12-21T14:40:16Z",
+            "owner": "zdcthomas",
+            "repo": "dmux",
+            "stars": 371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "t",
+          "description": "The smart tmux session manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-01-18T21:13:44Z",
+            "owner": "joshmedeski",
+            "repo": "t-smart-tmux-session-manager",
+            "stars": 351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mynav",
+          "description": "Workspace and session management TUI built on tmux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-09-28T17:18:54Z",
+            "owner": "GianlucaP106",
+            "repo": "mynav",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-suspend",
+          "description": "Suspend local session for painlessly working with nested remote session.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-01-15T05:38:57Z",
+            "owner": "MunifTanjim",
+            "repo": "tmux-suspend",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tome",
+          "description": "🔁 Playbooks for tmux & vim, replacing your shell history",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-08-11T20:39:36Z",
+            "owner": "laktak",
+            "repo": "tome",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-tmux-exec",
+          "description": "A kubectl plugin that uses tmux to control multiple Kubernetes pods' shells simultaneously, broadcasting commands to all selected containers at once.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-01T04:27:56Z",
+            "owner": "predatorray",
+            "repo": "kubectl-tmux-exec",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmex",
+          "description": "A minimalist tmux layout manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-07-09T05:46:36Z",
+            "owner": "evnp",
+            "repo": "tmex",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-up",
+          "description": "Bootstrap new sessions without complex tools, DSLs, or dependencies",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-01-15T22:05:02Z",
+            "owner": "jamesottaway",
+            "repo": "tmux-up",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-cssh",
+          "description": "Tmux with a \"ClusterSSH\"-like behavior",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-07-30T23:47:52Z",
+            "owner": "zinic",
+            "repo": "tmux-cssh",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-tea",
+          "description": "Session manager with previews, integrations with tmuxinator, fzf, neovim and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-09T16:13:06Z",
+            "owner": "2KAbhishek",
+            "repo": "tmux-tea",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "harpoon",
+          "description": "A tool to bookmark sessions and jump between them in a flash. Like ThePrimeagen/harpoon, but for tmux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-14T15:43:18Z",
+            "owner": "chaitanyabsprip",
+            "repo": "tmux-harpoon",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-assistant-resurrect",
+          "description": "Persist and restore AI assistant sessions (Claude Code, Codex CLI, etc.) across tmux restarts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-10T14:55:22Z",
+            "owner": "timvw",
+            "repo": "tmux-assistant-resurrect",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "twm",
+          "description": "A highly configurable workspace manager that is easy to extend with shell scripts, written in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-23T02:33:13Z",
+            "owner": "vinnymeller",
+            "repo": "twm",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmuxpair",
+          "description": "Command line script for setting up a temporary tmux session for pair programming",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-22T17:34:23Z",
+            "owner": "goerz",
+            "repo": "tmuxpair",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-lazy-restore",
+          "description": "A session manager that allows sessions to be lazily restored in order to save memory and CPU cycles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-29T00:40:49Z",
+            "owner": "bcampolo",
+            "repo": "tmux-lazy-restore",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tat",
+          "description": "Tab completion for tmux sessions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-09-08T00:04:50Z",
+            "owner": "ryansmith3136",
+            "repo": "tat",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-tpad",
+          "description": "A popup window session manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-29T02:03:42Z",
+            "owner": "subbeh",
+            "repo": "tmux-tpad",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-player-ctl",
+          "description": "Minimal tmux popup controller for MPRIS media players via playerctl",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-06T19:41:36Z",
+            "owner": "kesor",
+            "repo": "tmux-player-ctl",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-task-monitor",
+          "description": "a htop-like resource monitor popup that only shows the processes linked to the current session",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-08T23:48:52Z",
+            "owner": "YlanAllouche",
+            "repo": "tmux-task-monitor",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lazyclaude",
+          "description": "A lazygit-inspired TUI for managing multiple Claude Code sessions with live previews, activity tracking, and permission prompts in a tmux popup",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-16T10:19:31Z",
+            "owner": "any-context",
+            "repo": "lazyclaude",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-cookie-cutter",
+          "description": "A YAML based session builder, configuring windows, panes and environments automatically",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-10T08:28:14Z",
+            "owner": "AranBorkum",
+            "repo": "tmux-cookie-cutter",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "disconnected",
+          "description": "A session manager written in Deno with json as the config files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-19T06:00:03Z",
+            "owner": "austinwilcox",
+            "repo": "disconnected",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "automux",
+          "description": "Wrappers to tmux commands, useful for tmux based automation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-03-11T09:15:59Z",
+            "owner": "sriramkandukuri",
+            "repo": "automux",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-underkeys",
+          "description": "Jump to tmux sessions by pressing the underlined letter in their name.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-06T18:52:09Z",
+            "owner": "maxonvim",
+            "repo": "tmux-underkeys",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmuxake",
+          "description": "A side-pane manager for tmux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-03-02T13:53:14Z",
+            "owner": "nkh",
+            "repo": "tmuxake",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "moxide",
+          "description": "A tmux session manager with a modular config",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-09-01T14:23:19Z",
+            "owner": "Dlurak",
+            "repo": "moxide",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-nav-master",
+          "description": "Easy cross-navigation between tmux and other terminal applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-25T08:27:18Z",
+            "owner": "TheSast",
+            "repo": "tmux-nav-master",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-canvas",
+          "description": "Create, save, and automate session layouts using executable shell script blueprints.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-21T00:15:26Z",
+            "owner": "juancruzfl",
+            "repo": "tmux-layouts",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-project",
+          "description": "Search projects and open them in a new session",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-15T05:59:57Z",
+            "owner": "sei40kr",
+            "repo": "tmux-project",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-conf",
+          "description": "Meant for users running tmux on multiple hosts, not always running the same version. Generates tmux config files using version checks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-15T14:37:33Z",
+            "owner": "jaclu",
+            "repo": "tmux-conf",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tuimux",
+          "description": "A fast Rust TUI for everything tmux, with full CRUD support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-04T01:26:36Z",
+            "owner": "AlextheYounga",
+            "repo": "tuimux",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-tab",
+          "description": "Alt-tab for tmux sessions with MRU ordering and live previews.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-08T14:24:20Z",
+            "owner": "leohenon",
+            "repo": "tmux-tab",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-grip",
+          "description": "Pin tmux sessions to fixed numbered slots with direct key jumps and a popup manager",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-08T16:08:44Z",
+            "owner": "leohenon",
+            "repo": "tmux-grip",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-poltergeist",
+          "description": "Clipboard-like popup for injecting up to 10 text buffers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-18T03:56:05Z",
+            "owner": "dianoga-theory",
+            "repo": "tmux-poltergeist",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-pocket-pane",
+          "description": "Easily toggle named side panes in tmux. Launch on demand, hide when done, recall with the same shell session intact.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-17T22:13:21Z",
+            "owner": "nickdiego",
+            "repo": "tmux-pocket-pane",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Tools and session management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gruvbox-tmux",
+          "description": "A clean Tmux theme that follows the gruvbox colors",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-06-08T16:29:56Z",
+            "owner": "morhetz",
+            "repo": "gruvbox",
+            "stars": 15675
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "catppuccin",
+          "description": "Catppuccin , , , and themes for tmux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-18T19:10:58Z",
+            "owner": "catppuccin",
+            "repo": "tmux",
+            "stars": 3141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-themepack",
+          "description": "Various themes for tmux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-05-31T21:02:12Z",
+            "owner": "jimeh",
+            "repo": "tmux-themepack",
+            "stars": 1756
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nord tmux",
+          "description": "An arctic, north-bluish clean and elegant tmux color theme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-07T13:38:50Z",
+            "owner": "nordtheme",
+            "repo": "tmux",
+            "stars": 1196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-colors-solarized",
+          "description": "A color theme for the tmux terminal multiplexer using Ethan Schoonover’s Solarized color scheme",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-06-09T22:43:18Z",
+            "owner": "seebi",
+            "repo": "tmux-colors-solarized",
+            "stars": 1104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dracula/tmux",
+          "description": "🧛🏻‍♂️ The official dracula theme for tmux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T20:46:20Z",
+            "owner": "dracula",
+            "repo": "tmux",
+            "stars": 852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-power",
+          "description": "8 powerline style themes for tmux, easily to expand.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-01T07:59:11Z",
+            "owner": "wfxr",
+            "repo": "tmux-power",
+            "stars": 698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-gruvbox",
+          "description": "Light and dark tmux theme",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-05-29T11:21:57Z",
+            "owner": "egel",
+            "repo": "tmux-gruvbox",
+            "stars": 697
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tokyo-night-tmux",
+          "description": "tokyo-night theme for tmux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T20:30:51Z",
+            "owner": "janoamaral",
+            "repo": "tokyo-night-tmux",
+            "stars": 572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "minimal-tmux-status",
+          "description": "Minimal theme with only required information in status bar and prefix indicator. (changes only status bar)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-08T18:47:19Z",
+            "owner": "semi710",
+            "repo": "minimal-tmux-status",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rose-pine",
+          "description": "Soho vibes for tmux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-25T21:54:03Z",
+            "owner": "rose-pine",
+            "repo": "tmux",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-nova",
+          "description": "Fully customizable tmux theme",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-09-10T22:12:02Z",
+            "owner": "o0th",
+            "repo": "tmux-nova",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-kanagawa",
+          "description": "Dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-08T08:46:04Z",
+            "owner": "Nybkox",
+            "repo": "tmux-ukiyo",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-dark-notify",
+          "description": "Make tmux's theme follow macOS dark/light mode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-02-08T18:31:19Z",
+            "owner": "erikw",
+            "repo": "tmux-dark-notify",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-oasis",
+          "description": "Desert theme pack with 12 variants for every color of the rainbow and a dynamic statusline for all tmux modes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Just",
+            "last_commit": "2026-07-20T22:17:17Z",
+            "owner": "uhs-robert",
+            "repo": "tmux-oasis",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tomorrow",
+          "description": "5 flavors of Tomorrow theme based on specifications from Tomorrow Theme (i.e. dark/blue and light).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-10-24T16:02:25Z",
+            "owner": "edouard-lopez",
+            "repo": "tmux-tomorrow",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-base16-statusline",
+          "description": "Statusline based on base16-shell",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-09-17T20:26:19Z",
+            "owner": "jatap",
+            "repo": "tmux-base16-statusline",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-snazzy",
+          "description": "Elegant tmux theme with bright colors",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-07-31T11:50:24Z",
+            "owner": "ivnvxd",
+            "repo": "tmux-snazzy",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cole-tmux",
+          "description": "Stationery-inspired minimal theme displayed in vintage earth tones",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-29T14:24:48Z",
+            "owner": "thekylehuang",
+            "repo": "cole-tmux",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "amp",
+          "description": "tmux theme based on the Amp Code website colors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-02T18:30:55Z",
+            "owner": "ctrlmachine",
+            "repo": "tmux-amp-theme",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Themes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tmux-mem-cpu-load",
+          "description": "CPU, RAM memory, and load monitor for use with tmux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-04T19:24:10Z",
+            "owner": "thewtex",
+            "repo": "tmux-mem-cpu-load",
+            "stars": 1122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gitmux",
+          "description": "Show Git status in tmux status bar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-17T08:43:13Z",
+            "owner": "arl",
+            "repo": "gitmux",
+            "stars": 790
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-prefix-highlight",
+          "description": "Plugin that highlights when you press tmux prefix key",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-03-01T12:21:23Z",
+            "owner": "tmux-plugins",
+            "repo": "tmux-prefix-highlight",
+            "stars": 672
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-battery",
+          "description": "Plug and play battery percentage and icon indicator for Tmux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-12-30T15:13:55Z",
+            "owner": "tmux-plugins",
+            "repo": "tmux-battery",
+            "stars": 572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-cpu",
+          "description": "Show CPU load with easy icons",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-10-06T19:54:39Z",
+            "owner": "tmux-plugins",
+            "repo": "tmux-cpu",
+            "stars": 535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-pomodoro-plus",
+          "description": "Incorporate the Pomodoro technique into your tmux workflow",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-03-12T15:18:37Z",
+            "owner": "olimorris",
+            "repo": "tmux-pomodoro-plus",
+            "stars": 471
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux2k",
+          "description": "Highly customizable tmux status bar framework, providing you with a sleek and informative status bar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-09T16:16:13Z",
+            "owner": "2KAbhishek",
+            "repo": "tmux2k",
+            "stars": 448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-window-name",
+          "description": "Names your tmux windows smartly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-20T05:25:00Z",
+            "owner": "ofirgall",
+            "repo": "tmux-window-name",
+            "stars": 294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-nerd-font-window-name",
+          "description": "Nerd Font icons for your tmux windows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-04-10T16:00:41Z",
+            "owner": "joshmedeski",
+            "repo": "tmux-nerd-font-window-name",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-mode-indicator",
+          "description": "Displays prompt indicating currently active Tmux mode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-06-30T18:29:03Z",
+            "owner": "MunifTanjim",
+            "repo": "tmux-mode-indicator",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-online-status",
+          "description": "Tmux plugin that displays online status of your computer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-09-03T12:36:43Z",
+            "owner": "tmux-plugins",
+            "repo": "tmux-online-status",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-colortag",
+          "description": "a plugin/theme that colors the tmux window tags.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-04-28T00:04:55Z",
+            "owner": "Determinant",
+            "repo": "tmux-colortag",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-network-bandwidth",
+          "description": "Show network bandwidth",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-02-14T09:22:01Z",
+            "owner": "ilya-manin",
+            "repo": "tmux-network-bandwidth",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-weather",
+          "description": "Show current weather using wttr.in",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-09-09T01:28:03Z",
+            "owner": "ilya-manin",
+            "repo": "tmux-weather",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-spotify-info",
+          "description": "Spotify track info on your status bar (OSX)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "AppleScript",
+            "last_commit": "2018-03-05T06:28:55Z",
+            "owner": "jdx",
+            "repo": "tmux-spotify-info",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "muxbar",
+          "description": "configure the status bar in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-05-01T14:39:51Z",
+            "owner": "Dlurak",
+            "repo": "muxbar",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-df",
+          "description": "Show available disk space (output of df command)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-10-23T18:47:25Z",
+            "owner": "tassaron",
+            "repo": "tmux-df",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-maildir-counter",
+          "description": "Plugin that counts files on a specific mail directory",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-03-14T01:54:07Z",
+            "owner": "tmux-plugins",
+            "repo": "tmux-maildir-counter",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-world-clock",
+          "description": "Show multiple timezones using Olson tz database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-04-17T02:15:09Z",
+            "owner": "alexanderjeurissen",
+            "repo": "tmux-world-clock",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-tmux",
+          "description": "Tmux plugin that gives you access to some (potentially) useful information about AWS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-04-09T20:29:51Z",
+            "owner": "darko-mesaros",
+            "repo": "aws-tmux",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-weather",
+          "description": "Add weather status via forecast.io",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-01-12T20:56:21Z",
+            "owner": "jdx",
+            "repo": "tmux-weather",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-split-statusbar",
+          "description": "Plugin for splitting status bar into 2 parts - window + left/right status",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-10-30T14:45:26Z",
+            "owner": "charlietag",
+            "repo": "tmux-split-statusbar",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-session-dots",
+          "description": "Visual session indicator showing all sessions as dots with the current session highlighted.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-10T04:36:43Z",
+            "owner": "jtmcginty",
+            "repo": "tmux-session-dots",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-clima",
+          "description": "Displays the current temperature and weather condition using the OpenWeather API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-09-09T22:40:25Z",
+            "owner": "vascomfnunes",
+            "repo": "tmux-clima",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-transient-status",
+          "description": "Automatically make your tmux status bar vanish when unneded.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-25T08:22:52Z",
+            "owner": "TheSast",
+            "repo": "tmux-transient-status",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-nordvpn",
+          "description": "Monitor the current NordVPN connection status.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-05-07T09:27:15Z",
+            "owner": "maxrodrigo",
+            "repo": "tmux-nordvpn",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-plugin-playerctl",
+          "description": "Display MPRIS metadata in Tmux (Spotify, Clementine, VLC, etc)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-11-17T21:48:05Z",
+            "owner": "richin13",
+            "repo": "tmux-plugin-playerctl",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-cpu-info",
+          "description": "CPU usage gauge to status bar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-08-25T19:01:23Z",
+            "owner": "jdx",
+            "repo": "tmux-cpu-info",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-mullvad",
+          "description": "Keep track of Mullvad VPN status.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-08-24T18:48:32Z",
+            "owner": "jaclu",
+            "repo": "tmux-mullvad",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-spotify-info",
+          "description": "Spotify track info on your status bar (Linux)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-04-16T14:51:09Z",
+            "owner": "Feqzz",
+            "repo": "tmux-spotify-info",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-packet-loss",
+          "description": "Displays packet loss % if at or above the specified threshold level",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-21T16:09:42Z",
+            "owner": "jaclu",
+            "repo": "tmux-packet-loss",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-kubectx",
+          "description": "Show kubernetes context in statusbar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-30T12:02:49Z",
+            "owner": "tony-sol",
+            "repo": "tmux-kubectx",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-current-pane-hostname",
+          "description": "Show current user and hostname in ssh sessions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-12-15T15:31:01Z",
+            "owner": "tony-sol",
+            "repo": "tmux-current-pane-hostname",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-piavpn",
+          "description": "Keep track of your Private Internet Access VPN status.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-02-02T16:28:56Z",
+            "owner": "Brutuski",
+            "repo": "tmux-piavpn",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-code-time",
+          "description": "Tracks time spent in sessions. Displays session duration in your status bar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-09-21T15:54:43Z",
+            "owner": "theo64oliver",
+            "repo": "tmux-code-time",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-kripto",
+          "description": "Add a cryptocurrency stock price to the statusbar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-02-09T13:12:07Z",
+            "owner": "vascomfnunes",
+            "repo": "tmux-kripto",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-cpu-rs",
+          "description": "Blazingly fast, small Rust tool to display CPU usage with caching for efficiency and optional eye-candy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-17T17:31:14Z",
+            "owner": "playbahn",
+            "repo": "tmux-cpu-rs",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-workspace-usage",
+          "description": "Displays the memory and CPU usage of your workspace processes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-11-05T10:49:28Z",
+            "owner": "sjdonado",
+            "repo": "tmux-workspace-usage",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-mpv-info",
+          "description": "Displays the current song playing with MPV in your tmux status bar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-03-15T17:03:06Z",
+            "owner": "Feqzz",
+            "repo": "tmux-mpv-info",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-ludanta",
+          "description": "What's playing on an MPD local server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-11-17T00:25:54Z",
+            "owner": "vascomfnunes",
+            "repo": "tmux-ludanta",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-speedtest",
+          "description": "Run internet speed tests and display results in your status bar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-08T04:53:15Z",
+            "owner": "YousefHadder",
+            "repo": "tmux-speedtest",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-weather-info-yr",
+          "description": "Displays the current temperature and weather based on your location via yr.no",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-03-08T20:00:40Z",
+            "owner": "Feqzz",
+            "repo": "tmux-weather-info-yr",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-claude-status",
+          "description": "Show live Claude Code session status per window: animated badges, waiting durations and global summary.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-06T15:39:29Z",
+            "owner": "farnots",
+            "repo": "tmux-claude-status",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-caffeinated",
+          "description": "Status line indicator that shows when macOS caffeinate is keeping your Mac awake.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-16T11:28:00Z",
+            "owner": "eran-rom",
+            "repo": "tmux-caffeinated",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Status Bar"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tmux-fingers",
+          "description": "copy pasting in terminal with vimium/vimperator like hints.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Crystal",
+            "last_commit": "2026-06-22T18:10:06Z",
+            "owner": "Morantron",
+            "repo": "tmux-fingers",
+            "stars": 1462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opensessions",
+          "description": "Persistent tmux sidebar for session switching, agent status, git context, and instant jumps across sessions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-23T11:47:55Z",
+            "owner": "Ataraxy-Labs",
+            "repo": "opensessions",
+            "stars": 1213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "extrakto",
+          "description": "tmux clipboard copy and output completions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-02T21:40:52Z",
+            "owner": "laktak",
+            "repo": "extrakto",
+            "stars": 1136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-thumbs",
+          "description": "A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-04-20T05:12:22Z",
+            "owner": "fcsonline",
+            "repo": "tmux-thumbs",
+            "stars": 1095
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-better-mouse-mode",
+          "description": "A tmux plugin to better manage and configure the mouse.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-10-16T17:18:53Z",
+            "owner": "NHDaly",
+            "repo": "tmux-better-mouse-mode",
+            "stars": 986
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux2html",
+          "description": "cat2: Render full tmux windows or individual panes as HTML",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-20T10:19:59Z",
+            "owner": "tweekmonster",
+            "repo": "tmux2html",
+            "stars": 744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-fzf-url",
+          "description": "For opening urls from browser quickly without mouse.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T01:12:11Z",
+            "owner": "wfxr",
+            "repo": "tmux-fzf-url",
+            "stars": 728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-menus",
+          "description": "Popup menus to help with managing your environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T07:26:46Z",
+            "owner": "jaclu",
+            "repo": "tmux-menus",
+            "stars": 532
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-tilish",
+          "description": "Turn tmux into a dynamic window manager with intuitive keybindings (inspired by i3wm/sway)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-01-27T16:31:11Z",
+            "owner": "jabirali",
+            "repo": "tmux-tilish",
+            "stars": 494
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-jump",
+          "description": "Vimium/Easymotion like navigation for tmux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-23T14:29:42Z",
+            "owner": "schasse",
+            "repo": "tmux-jump",
+            "stars": 478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-palette",
+          "description": "Raycast-style command palette with fuzzy search, custom commands, themes, and aliases via JSON config.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-24T18:22:32Z",
+            "owner": "eduwass",
+            "repo": "tmux-palette",
+            "stars": 399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-1password",
+          "description": "Access your 1Password login items in a tmux pane.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-05-23T12:28:07Z",
+            "owner": "yardnsm",
+            "repo": "tmux-1password",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-notify",
+          "description": "A plugin to notify you when processes are finished.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-18T20:08:00Z",
+            "owner": "rickstaa",
+            "repo": "tmux-notify",
+            "stars": 272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-session-wizard",
+          "description": "One prefix to control all your session creation, naming, switching, etc using fzf & zoxide.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-02-28T05:06:28Z",
+            "owner": "27medkamal",
+            "repo": "tmux-session-wizard",
+            "stars": 259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-modal",
+          "description": "Execute complex tmux commands in just a few keystrokes with a modal mode that is designed to be efficient, easy to remember and comfortable.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-11-03T20:32:29Z",
+            "owner": "whame",
+            "repo": "tmux-modal",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dwm.tmux",
+          "description": "dwm-inspired tiling pane and window manager for Tmux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-04-30T14:48:41Z",
+            "owner": "saysjonathan",
+            "repo": "dwm.tmux",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "muxile",
+          "description": "View and control your tmux session from your mobile.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-04-11T17:03:33Z",
+            "owner": "bjesus",
+            "repo": "muxile",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-fuzzback",
+          "description": "Search your scrollback buffer using fzf.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-05-07T15:57:01Z",
+            "owner": "roosta",
+            "repo": "tmux-fuzzback",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-browser",
+          "description": "Web browser sessions attached to tmux sessions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-04-26T19:09:11Z",
+            "owner": "ofirgall",
+            "repo": "tmux-browser",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-spotify",
+          "description": "Show a nice menu to manage Spotify application",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-05-01T09:43:49Z",
+            "owner": "ilya-manin",
+            "repo": "tmux-spotify",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-autoreload",
+          "description": "Watches your tmux configuration file and automatically reloads it on change.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2024-02-16T12:08:46Z",
+            "owner": "b0o",
+            "repo": "tmux-autoreload",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-wormhole",
+          "description": "Use tmux to download files with magic wormhole",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-02-22T18:40:30Z",
+            "owner": "gcla",
+            "repo": "tmux-wormhole",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-grimoire",
+          "description": "Customizable popup shells (aka shpells) driven by custom scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-04-12T18:46:08Z",
+            "owner": "navahas",
+            "repo": "tmux-grimoire",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-easy-motion",
+          "description": "vim-easymotion like navigation for tmux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-16T06:41:21Z",
+            "owner": "IngoMeyer441",
+            "repo": "tmux-easy-motion",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-super-fingers",
+          "description": "like fingers, but also opens files in vim.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-23T15:03:57Z",
+            "owner": "artemave",
+            "repo": "tmux_super_fingers",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-fzf-session-switch",
+          "description": "Easy way to switch, when you have a ton of sessions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-19T07:11:12Z",
+            "owner": "cutbypham",
+            "repo": "tmux-fzf-session-switch",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-agent-indicator",
+          "description": "Track AI agent state (Claude, Codex, etc.) with pane borders, background colors, window titles, and status bar icons.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-10T07:04:18Z",
+            "owner": "accessd",
+            "repo": "tmux-agent-indicator",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-tilit",
+          "description": "Brings tiling window manager features and intuitive keybindings to your tmux workflow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-09T16:18:00Z",
+            "owner": "2KAbhishek",
+            "repo": "tmux-tilit",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-open-nvim",
+          "description": "A plugin to help open files in a running instance of Neovim. Pairs well with tmux-fingers or tmux-open.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-04-20T18:49:56Z",
+            "owner": "trevarj",
+            "repo": "tmux-open-nvim",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tabby",
+          "description": "Modern tab manager with a daemon-driven vertical sidebar, window grouping, and full mouse support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T13:12:13Z",
+            "owner": "brendandebeasi",
+            "repo": "tabby",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-copytk",
+          "description": "Multi utility rapid copy toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-20T07:25:27Z",
+            "owner": "CrispyConductor",
+            "repo": "tmux-copy-toolkit",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nunchux",
+          "description": "A fuzzy launcher for apps, files, and build tasks with live status, keyboard shortcuts, and task runner integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-19T19:07:29Z",
+            "owner": "datamadsen",
+            "repo": "nunchux",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-power-zoom",
+          "description": "Zoom pane to separate window, then unzoom it back into it's original location.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-30T22:34:30Z",
+            "owner": "jaclu",
+            "repo": "tmux-power-zoom",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-bitwarden",
+          "description": "Access your Bitwarden login items in a tmux pane.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-10T15:55:01Z",
+            "owner": "Alkindi42",
+            "repo": "tmux-bitwarden",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-easymotion",
+          "description": "EasyMotion-like plugin with pane jumping capabilities in tmux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-19T08:24:47Z",
+            "owner": "ddzero2c",
+            "repo": "tmux-easymotion",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-cht-sh",
+          "description": "Access cheatsheets easily in a popup",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-10-27T05:05:03Z",
+            "owner": "juni-purr",
+            "repo": "tmux-cht-sh",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-command-palette",
+          "description": "Search for keybindings and custom commands with fzf.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-09T02:09:31Z",
+            "owner": "lost-melody",
+            "repo": "tmux-command-palette",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-simple-git-status",
+          "description": "Show branch and number of changes in current git repository",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-11-15T10:33:02Z",
+            "owner": "kristijanhusak",
+            "repo": "tmux-simple-git-status",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-pane-focus",
+          "description": "Auto-Resizing splits to improve readability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-17T16:06:38Z",
+            "owner": "graemedavidson",
+            "repo": "tmux-pane-focus",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-scout",
+          "description": "A tmux plugin for monitoring and navigating AI coding sessions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-15T07:45:44Z",
+            "owner": "qeesung",
+            "repo": "tmux-scout",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "marmonitor",
+          "description": "Tmux status bar monitor for local AI coding sessions (Claude Code, Codex, Gemini). Track agent activity, enrich sessions with metadata, and provide interactive popups and session jumping.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-27T07:54:55Z",
+            "owner": "mjjo16",
+            "repo": "marmonitor",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-mouse-swipe",
+          "description": "Switch Window or Session by clicking right mouse button and swiping.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-01T16:30:42Z",
+            "owner": "jaclu",
+            "repo": "tmux-mouse-swipe",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-spotify-playlists",
+          "description": "Another Spotify plugin, but for saving and playing your favorite playlists",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-01-17T18:14:37Z",
+            "owner": "danjeltahko",
+            "repo": "spotify-tmux",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-devcontainers",
+          "description": "Manage and interact with (Devcontainers)[https://containers.dev]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-16T20:27:50Z",
+            "owner": "phil",
+            "repo": "tmux-devcontainers",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-compile",
+          "description": "Run compile commands directly inside tmux with automatic pane handling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-11-22T11:00:00Z",
+            "owner": "alexekdahl",
+            "repo": "tmux-compile",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-floating-plugin",
+          "description": "A popup floating terminal window in tmux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-29T04:32:52Z",
+            "owner": "lloydbond",
+            "repo": "tmux-floating-terminal",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-fzf-open-files-nvim",
+          "description": "A plugin that parses pane text for files for selection in fzf to open in neovim.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-20T03:51:31Z",
+            "owner": "Peter-McKinney",
+            "repo": "tmux-fzf-open-files-nvim",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-llm",
+          "description": "Get quick responses to your terminal contents from LLM assistants.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-10T12:52:31Z",
+            "owner": "hynek-urban",
+            "repo": "tmux-llm",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-claude-sessions",
+          "description": "Browse and resume Claude AI conversations from a fzf popup",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-22T03:19:00Z",
+            "owner": "aomerk",
+            "repo": "tmux-claude-sessions",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-toggle-scratch",
+          "description": "Toggle scratch popup sessions for quick note-taking and temporary work.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-08-13T23:09:47Z",
+            "owner": "momo-lab",
+            "repo": "tmux-toggle-scratch",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-filter",
+          "description": "Filter the current buffer by some text/pattern, very useful for viewing logs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-12-07T13:25:31Z",
+            "owner": "MaximilianGaedig",
+            "repo": "tmux-filter",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-keylocker",
+          "description": "Lock away your tmux keybinds temporarily.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-25T08:28:08Z",
+            "owner": "TheSast",
+            "repo": "tmux-keylocker",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kmux-status",
+          "description": "Tmux plugin to render kubernetes context and other indicators on the status-line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-02-09T10:54:12Z",
+            "owner": "tardunge",
+            "repo": "kmux-status",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-click-copy",
+          "description": "word/line copy on double/triple click without fixed timeout and without remaining stuck in copy mode",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-04-11T16:58:48Z",
+            "owner": "aless3",
+            "repo": "tmux-click-copy",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-pianobar",
+          "description": "A menu and status bar widget for Pianobar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-09-13T12:27:15Z",
+            "owner": "GoHarder",
+            "repo": "tmux-pianobar",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-port",
+          "description": "A tiny tmux plugin to view listening ports and kill processes — in a centered popup or split panes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-24T00:47:25Z",
+            "owner": "fiqryq",
+            "repo": "port",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-gh",
+          "description": "Tmux plugin to fetch the github helper profile. Displays, the currently actively authenticated git username.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-08-07T09:45:21Z",
+            "owner": "tardunge",
+            "repo": "tmux-gh",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "back-in-5",
+          "description": "display a \"Back soon\" message for remote collaboration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-04-26T12:17:08Z",
+            "owner": "hamolicious",
+            "repo": "back-in-5",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-ai-window-name",
+          "description": "Let an LLM automatically update your window names based on metadata about the window (Claude and local LLMs supported)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-25T12:35:33Z",
+            "owner": "ndom91",
+            "repo": "tmux-ai-window-name",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-timetrap",
+          "description": "Keep your time tracked directly with TMUX (The plugin is just a wrapper for timetrap)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-20T12:26:58Z",
+            "owner": "croxarens",
+            "repo": "tmux-timetrap",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-agent-view",
+          "description": "Claude Code-style agent view — jump to any AI agent pane (Claude Code, Codex, aider) across sessions from a popup picker, grouped by live state, with screen preview. No hooks or daemon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T07:04:59Z",
+            "owner": "luopeixiang",
+            "repo": "tmux-agent-view",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-ctrl",
+          "description": "Control tmux from the command line: session navigation, pane moving, and token extraction.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-10T14:35:41Z",
+            "owner": "MunifTanjim",
+            "repo": "tmux-ctrl",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "tmux-plugins",
+          "description": "Official tmux plugins",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "tmux-tpm",
+              "description": "Tmux Plugin Manager",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2026-05-17T16:41:25Z",
+                "owner": "tmux-plugins",
+                "repo": "tpm",
+                "stars": 14998
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tmux-resurrect",
+              "description": "Persists tmux environment across system restarts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2024-08-13T23:51:42Z",
+                "owner": "tmux-plugins",
+                "repo": "tmux-resurrect",
+                "stars": 13001
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tmux-continuum",
+              "description": "Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2024-08-02T10:44:53Z",
+                "owner": "tmux-plugins",
+                "repo": "tmux-continuum",
+                "stars": 4055
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tmux-yank",
+              "description": "Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2024-03-24T11:30:18Z",
+                "owner": "tmux-plugins",
+                "repo": "tmux-yank",
+                "stars": 3095
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tmux-logging",
+              "description": "Easy logging and screen capturing for Tmux.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2024-05-18T16:42:36Z",
+                "owner": "tmux-plugins",
+                "repo": "tmux-logging",
+                "stars": 1254
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tmux-copycat",
+              "description": "A plugin that enhances tmux search",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2023-05-21T21:00:27Z",
+                "owner": "tmux-plugins",
+                "repo": "tmux-copycat",
+                "stars": 1205
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tmux-pain-control",
+              "description": "standard pane key-bindings for tmux",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2021-08-11T11:01:36Z",
+                "owner": "tmux-plugins",
+                "repo": "tmux-pain-control",
+                "stars": 864
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tmux-open",
+              "description": "Tmux key bindings for quick opening of a highlighted file or url",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2024-06-18T05:59:11Z",
+                "owner": "tmux-plugins",
+                "repo": "tmux-open",
+                "stars": 735
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tmux-sidebar",
+              "description": "A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2022-12-08T08:58:28Z",
+                "owner": "tmux-plugins",
+                "repo": "tmux-sidebar",
+                "stars": 657
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tmux-sessionist",
+              "description": "Lightweight tmux utils for manipulating sessions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2023-05-16T17:13:16Z",
+                "owner": "tmux-plugins",
+                "repo": "tmux-sessionist",
+                "stars": 468
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tmux-fpp",
+              "description": "Quickly open any path on your terminal window in your $EDITOR of choice!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2024-01-29T18:23:00Z",
+                "owner": "tmux-plugins",
+                "repo": "tmux-fpp",
+                "stars": 322
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tmux-urlview",
+              "description": "Quickly open any url on your terminal window! (No commits since 2016, see tmux-urlscan or tmux-fzf-url for a maintained alternative.)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2021-05-12T09:44:14Z",
+                "owner": "tmux-plugins",
+                "repo": "tmux-urlview",
+                "stars": 290
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tmux-smooth-scroll",
+              "description": "Smooth scrolling for tmux",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2026-05-31T16:40:16Z",
+                "owner": "azorng",
+                "repo": "tmux-smooth-scroll",
+                "stars": 77
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tmux-example-plugin",
+          "description": "Example Tmux plugin that actually demonstrates how to build plugins for Tmux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2014-08-03T20:08:11Z",
+            "owner": "tmux-plugins",
+            "repo": "tmux-example-plugin",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gotmux",
+          "description": "A golang library to interact with tmux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-22T02:49:59Z",
+            "owner": "GianlucaP106",
+            "repo": "gotmux",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-test",
+          "description": "A small framework for isolated testing of tmux plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2019-04-19T10:50:11Z",
+            "owner": "tmux-plugins",
+            "repo": "tmux-test",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Development and testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tmuxai",
+          "description": "AI-Powered, Non-Intrusive Terminal Assistant",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-28T19:42:59Z",
+            "owner": "alvinunreal",
+            "repo": "tmuxai",
+            "stars": 1920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sixel-tmux",
+          "description": "a fork of tmux, with just one goal: having the most reliable support of graphics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-08-21T07:05:01Z",
+            "owner": "csdvrx",
+            "repo": "sixel-tmux",
+            "stars": 514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim-tmux",
+          "description": "vim plugin for tmux.conf",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2021-10-04T07:49:34Z",
+            "owner": "tmux-plugins",
+            "repo": "vim-tmux",
+            "stars": 342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-tail-f",
+          "description": "A tool to tail multiple files using tmux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-07-18T13:19:41Z",
+            "owner": "mapio",
+            "repo": "tmux-tail-f",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sublime-tmux",
+          "description": "Sublime Text plugin to interact with tmux sessions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-01-10T23:19:56Z",
+            "owner": "huntie",
+            "repo": "sublime-tmux",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T09:46:24.674Z",
+    "original_repository": "rothgar/awesome-tmux",
+    "original_repository_sha": "ecb96a6d2fb3d184b99168974a525d3d082f937d",
+    "enhanced_repository": "enhansome/enhansome-tmux",
+    "enhanced_repository_description": null,
+    "title": "Awesome tmux with stars"
+  }
+}
