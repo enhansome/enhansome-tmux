@@ -14,7 +14,7 @@
             "last_commit": "2026-08-08T15:52:45Z",
             "owner": "gpakosz",
             "repo": ".tmux",
-            "stars": 25294
+            "stars": 25296
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2026-07-10T15:17:11Z",
             "owner": "tmuxinator",
             "repo": "tmuxinator",
-            "stars": 13704
+            "stars": 13706
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2026-01-25T19:44:18Z",
             "owner": "christoomey",
             "repo": "vim-tmux-navigator",
-            "stars": 6268
+            "stars": 6269
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-13T04:17:59Z",
             "owner": "tmux-python",
             "repo": "tmuxp",
-            "stars": 4556
+            "stars": 4557
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2026-08-13T08:12:13Z",
             "owner": "SeemSeam",
             "repo": "claude_codex_bridge",
-            "stars": 3407
+            "stars": 3408
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2026-08-04T20:43:21Z",
             "owner": "joshmedeski",
             "repo": "sesh",
-            "stars": 2755
+            "stars": 2759
           }
         },
         {
@@ -339,10 +339,10 @@
           "repo_info": {
             "archived": false,
             "language": "Vim Script",
-            "last_commit": "2026-08-11T20:39:36Z",
+            "last_commit": "2026-08-13T18:18:45Z",
             "owner": "laktak",
             "repo": "tome",
-            "stars": 174
+            "stars": 175
           }
         },
         {
@@ -370,7 +370,7 @@
             "last_commit": "2025-07-09T05:46:36Z",
             "owner": "evnp",
             "repo": "tmex",
-            "stars": 123
+            "stars": 124
           }
         },
         {
@@ -440,7 +440,7 @@
             "last_commit": "2026-08-10T14:55:22Z",
             "owner": "timvw",
             "repo": "tmux-assistant-resurrect",
-            "stars": 73
+            "stars": 76
           }
         },
         {
@@ -782,7 +782,7 @@
             "last_commit": "2026-06-08T16:29:56Z",
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15675
+            "stars": 15678
           }
         },
         {
@@ -796,7 +796,7 @@
             "last_commit": "2026-06-18T19:10:58Z",
             "owner": "catppuccin",
             "repo": "tmux",
-            "stars": 3141
+            "stars": 3142
           }
         },
         {
@@ -1704,7 +1704,7 @@
             "last_commit": "2026-06-23T11:47:55Z",
             "owner": "Ataraxy-Labs",
             "repo": "opensessions",
-            "stars": 1213
+            "stars": 1214
           }
         },
         {
@@ -1830,7 +1830,7 @@
             "last_commit": "2026-06-24T18:22:32Z",
             "owner": "eduwass",
             "repo": "tmux-palette",
-            "stars": 399
+            "stars": 400
           }
         },
         {
@@ -2563,7 +2563,7 @@
                 "last_commit": "2026-05-17T16:41:25Z",
                 "owner": "tmux-plugins",
                 "repo": "tpm",
-                "stars": 14998
+                "stars": 14999
               }
             },
             {
@@ -2577,7 +2577,7 @@
                 "last_commit": "2024-08-13T23:51:42Z",
                 "owner": "tmux-plugins",
                 "repo": "tmux-resurrect",
-                "stars": 13001
+                "stars": 13003
               }
             },
             {
@@ -2717,7 +2717,7 @@
                 "last_commit": "2021-05-12T09:44:14Z",
                 "owner": "tmux-plugins",
                 "repo": "tmux-urlview",
-                "stars": 290
+                "stars": 291
               }
             },
             {
@@ -2801,7 +2801,7 @@
             "last_commit": "2026-07-28T19:42:59Z",
             "owner": "alvinunreal",
             "repo": "tmuxai",
-            "stars": 1920
+            "stars": 1921
           }
         },
         {
@@ -2865,7 +2865,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T09:46:24.674Z",
+    "last_updated": "2026-08-14T09:42:45.093Z",
     "original_repository": "rothgar/awesome-tmux",
     "original_repository_sha": "ecb96a6d2fb3d184b99168974a525d3d082f937d",
     "enhanced_repository": "enhansome/enhansome-tmux",
