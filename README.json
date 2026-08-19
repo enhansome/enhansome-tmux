@@ -15,7 +15,7 @@
             "last_commit": "2026-08-08T15:52:45Z",
             "owner": "gpakosz",
             "repo": ".tmux",
-            "stars": 25306
+            "stars": 25307
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-03-11T01:18:21Z",
             "owner": "powerline",
             "repo": "powerline",
-            "stars": 14800
+            "stars": 14799
           }
         },
         {
@@ -468,7 +468,7 @@
             "archived": false,
             "id": 1158008171,
             "language": "Shell",
-            "last_commit": "2026-08-16T06:50:06Z",
+            "last_commit": "2026-08-19T12:32:02Z",
             "owner": "timvw",
             "repo": "tmux-assistant-resurrect",
             "stars": 78
@@ -1914,7 +1914,7 @@
             "last_commit": "2026-08-18T21:14:54Z",
             "owner": "jaclu",
             "repo": "tmux-menus",
-            "stars": 534
+            "stars": 535
           }
         },
         {
@@ -2774,7 +2774,7 @@
                 "last_commit": "2024-08-02T10:44:53Z",
                 "owner": "tmux-plugins",
                 "repo": "tmux-continuum",
-                "stars": 4058
+                "stars": 4059
               }
             },
             {
@@ -2999,7 +2999,7 @@
             "last_commit": "2026-07-28T19:42:59Z",
             "owner": "alvinunreal",
             "repo": "tmuxai",
-            "stars": 1926
+            "stars": 1927
           }
         },
         {
@@ -3067,8 +3067,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:18:10.940Z",
+    "last_updated": "2026-08-19T12:55:38.651Z",
     "original_repository": "rothgar/awesome-tmux",
+    "original_repository_id": 55387399,
     "original_repository_sha": "ecb96a6d2fb3d184b99168974a525d3d082f937d",
     "enhanced_repository": "enhansome/enhansome-tmux",
     "enhanced_repository_description": null,
