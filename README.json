@@ -15,7 +15,7 @@
             "last_commit": "2026-08-08T15:52:45Z",
             "owner": "gpakosz",
             "repo": ".tmux",
-            "stars": 25317
+            "stars": 25321
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-03-11T01:18:21Z",
             "owner": "powerline",
             "repo": "powerline",
-            "stars": 14798
+            "stars": 14797
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-07-10T15:17:11Z",
             "owner": "tmuxinator",
             "repo": "tmuxinator",
-            "stars": 13708
+            "stars": 13709
           }
         },
         {
@@ -138,7 +138,7 @@
             "archived": false,
             "id": 12398170,
             "language": "Python",
-            "last_commit": "2026-08-16T14:12:42Z",
+            "last_commit": "2026-08-22T17:32:18Z",
             "owner": "tmux-python",
             "repo": "tmuxp",
             "stars": 4564
@@ -156,7 +156,7 @@
             "last_commit": "2026-07-27T15:05:12Z",
             "owner": "erikw",
             "repo": "tmux-powerline",
-            "stars": 3831
+            "stars": 3833
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-20T13:01:08Z",
             "owner": "SeemSeam",
             "repo": "claude_codex_bridge",
-            "stars": 3434
+            "stars": 3439
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-21T14:10:57Z",
             "owner": "joshmedeski",
             "repo": "sesh",
-            "stars": 2774
+            "stars": 2778
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2026-04-18T20:29:34Z",
             "owner": "omerxx",
             "repo": "tmux-sessionx",
-            "stars": 1364
+            "stars": 1365
           }
         },
         {
@@ -258,7 +258,7 @@
             "archived": false,
             "id": 59409425,
             "language": "Python",
-            "last_commit": "2026-08-16T18:32:00Z",
+            "last_commit": "2026-08-23T02:21:43Z",
             "owner": "tmux-python",
             "repo": "libtmux",
             "stars": 1203
@@ -276,7 +276,7 @@
             "last_commit": "2026-06-30T08:20:41Z",
             "owner": "ivaaaan",
             "repo": "smug",
-            "stars": 911
+            "stars": 912
           }
         },
         {
@@ -363,7 +363,7 @@
             "archived": false,
             "id": 796066605,
             "language": "Vim Script",
-            "last_commit": "2026-08-19T18:56:14Z",
+            "last_commit": "2026-08-22T19:14:34Z",
             "owner": "laktak",
             "repo": "tome",
             "stars": 175
@@ -837,7 +837,7 @@
             "last_commit": "2026-06-08T16:29:56Z",
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15694
+            "stars": 15695
           }
         },
         {
@@ -962,6 +962,21 @@
         },
         {
           "node_type": "item",
+          "title": "rose-pine",
+          "description": "Soho vibes for tmux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 639860022,
+            "language": "Shell",
+            "last_commit": "2026-07-25T21:54:03Z",
+            "owner": "rose-pine",
+            "repo": "tmux",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
           "title": "minimal-tmux-status",
           "description": "Minimal theme with only required information in status bar and prefix indicator. (changes only status bar)",
           "children": [],
@@ -973,21 +988,6 @@
             "owner": "semi710",
             "repo": "minimal-tmux-status",
             "stars": 275
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rose-pine",
-          "description": "Soho vibes for tmux",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 639860022,
-            "language": "Shell",
-            "last_commit": "2026-07-25T21:54:03Z",
-            "owner": "rose-pine",
-            "repo": "tmux",
-            "stars": 274
           }
         },
         {
@@ -1047,7 +1047,7 @@
             "last_commit": "2026-08-19T20:47:22Z",
             "owner": "uhs-robert",
             "repo": "tmux-oasis",
-            "stars": 71
+            "stars": 72
           }
         },
         {
@@ -1230,7 +1230,7 @@
             "archived": false,
             "id": 522734575,
             "language": "Shell",
-            "last_commit": "2026-08-20T06:53:42Z",
+            "last_commit": "2026-08-22T10:27:36Z",
             "owner": "2KAbhishek",
             "repo": "tmux2k",
             "stars": 452
@@ -2004,7 +2004,7 @@
             "last_commit": "2025-02-28T05:06:28Z",
             "owner": "27medkamal",
             "repo": "tmux-session-wizard",
-            "stars": 259
+            "stars": 260
           }
         },
         {
@@ -2744,7 +2744,7 @@
                 "last_commit": "2026-05-17T16:41:25Z",
                 "owner": "tmux-plugins",
                 "repo": "tpm",
-                "stars": 15015
+                "stars": 15014
               }
             },
             {
@@ -2759,7 +2759,7 @@
                 "last_commit": "2024-08-13T23:51:42Z",
                 "owner": "tmux-plugins",
                 "repo": "tmux-resurrect",
-                "stars": 13013
+                "stars": 13012
               }
             },
             {
@@ -2999,7 +2999,7 @@
             "last_commit": "2026-08-22T02:59:19Z",
             "owner": "alvinunreal",
             "repo": "tmuxai",
-            "stars": 1928
+            "stars": 1929
           }
         },
         {
@@ -3067,7 +3067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:02:38.636Z",
+    "last_updated": "2026-08-23T09:02:37.551Z",
     "original_repository": "rothgar/awesome-tmux",
     "original_repository_id": 55387399,
     "original_repository_sha": "ecb96a6d2fb3d184b99168974a525d3d082f937d",
