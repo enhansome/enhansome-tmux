@@ -186,7 +186,7 @@
             "last_commit": "2026-08-21T14:10:57Z",
             "owner": "joshmedeski",
             "repo": "sesh",
-            "stars": 2780
+            "stars": 2783
           }
         },
         {
@@ -867,7 +867,7 @@
             "last_commit": "2024-05-31T21:02:12Z",
             "owner": "jimeh",
             "repo": "tmux-themepack",
-            "stars": 1757
+            "stars": 1756
           }
         },
         {
@@ -897,7 +897,7 @@
             "last_commit": "2022-06-09T22:43:18Z",
             "owner": "seebi",
             "repo": "tmux-colors-solarized",
-            "stars": 1103
+            "stars": 1102
           }
         },
         {
@@ -2759,7 +2759,7 @@
                 "last_commit": "2024-08-13T23:51:42Z",
                 "owner": "tmux-plugins",
                 "repo": "tmux-resurrect",
-                "stars": 13014
+                "stars": 13013
               }
             },
             {
@@ -2774,7 +2774,7 @@
                 "last_commit": "2024-08-02T10:44:53Z",
                 "owner": "tmux-plugins",
                 "repo": "tmux-continuum",
-                "stars": 4063
+                "stars": 4062
               }
             },
             {
@@ -3067,7 +3067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:29:26.834Z",
+    "last_updated": "2026-08-24T13:52:58.477Z",
     "original_repository": "rothgar/awesome-tmux",
     "original_repository_id": 55387399,
     "original_repository_sha": "ecb96a6d2fb3d184b99168974a525d3d082f937d",
