@@ -438,7 +438,7 @@
             "archived": false,
             "id": 706782500,
             "language": "Shell",
-            "last_commit": "2026-08-25T05:38:49Z",
+            "last_commit": "2026-08-25T06:46:31Z",
             "owner": "2KAbhishek",
             "repo": "tmux-tea",
             "stars": 85
@@ -1230,7 +1230,7 @@
             "archived": false,
             "id": 522734575,
             "language": "Shell",
-            "last_commit": "2026-08-22T10:27:36Z",
+            "last_commit": "2026-08-25T09:06:55Z",
             "owner": "2KAbhishek",
             "repo": "tmux2k",
             "stars": 455
@@ -2211,7 +2211,7 @@
             "archived": false,
             "id": 572371577,
             "language": "Shell",
-            "last_commit": "2026-08-20T06:07:12Z",
+            "last_commit": "2026-08-25T06:46:16Z",
             "owner": "2KAbhishek",
             "repo": "tmux-tilit",
             "stars": 86
@@ -2406,7 +2406,7 @@
             "archived": false,
             "id": 1193559783,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T06:05:45Z",
+            "last_commit": "2026-08-25T05:57:23Z",
             "owner": "mjjo16",
             "repo": "marmonitor",
             "stars": 27
@@ -2721,7 +2721,7 @@
             "archived": false,
             "id": 1257913988,
             "language": "Go",
-            "last_commit": "2026-07-10T14:35:41Z",
+            "last_commit": "2026-08-25T07:54:23Z",
             "owner": "MunifTanjim",
             "repo": "tmux-ctrl",
             "stars": 0
@@ -2744,7 +2744,7 @@
                 "last_commit": "2026-05-17T16:41:25Z",
                 "owner": "tmux-plugins",
                 "repo": "tpm",
-                "stars": 15021
+                "stars": 15022
               }
             },
             {
@@ -2999,7 +2999,7 @@
             "last_commit": "2026-08-22T02:59:19Z",
             "owner": "alvinunreal",
             "repo": "tmuxai",
-            "stars": 1930
+            "stars": 1932
           }
         },
         {
@@ -3067,7 +3067,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:45:55.230Z",
+    "last_updated": "2026-08-25T09:19:00.256Z",
     "original_repository": "rothgar/awesome-tmux",
     "original_repository_id": 55387399,
     "original_repository_sha": "ecb96a6d2fb3d184b99168974a525d3d082f937d",
