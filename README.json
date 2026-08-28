@@ -15,8 +15,9 @@
             "last_commit": "2026-08-08T15:52:45Z",
             "owner": "gpakosz",
             "repo": ".tmux",
-            "stars": 25332
-          }
+            "stars": 25334
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "tony",
             "repo": "tmux-config",
             "stars": 1871
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "brandur",
             "repo": "tmux-extra",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "TomhetArkitektur",
             "repo": "mooks",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "jaclu",
             "repo": "tmux-keybtest",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         }
       ],
       "title": "Configuration"
@@ -96,8 +101,9 @@
             "last_commit": "2026-03-11T01:18:21Z",
             "owner": "powerline",
             "repo": "powerline",
-            "stars": 14803
-          }
+            "stars": 14805
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "tmuxinator",
             "repo": "tmuxinator",
             "stars": 13713
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -126,8 +133,9 @@
             "last_commit": "2026-01-25T19:44:18Z",
             "owner": "christoomey",
             "repo": "vim-tmux-navigator",
-            "stars": 6273
-          }
+            "stars": 6274
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -141,8 +149,9 @@
             "last_commit": "2026-08-22T17:32:18Z",
             "owner": "tmux-python",
             "repo": "tmuxp",
-            "stars": 4569
-          }
+            "stars": 4570
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -156,8 +165,9 @@
             "last_commit": "2026-07-27T15:05:12Z",
             "owner": "erikw",
             "repo": "tmux-powerline",
-            "stars": 3835
-          }
+            "stars": 3836
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -171,8 +181,9 @@
             "last_commit": "2026-08-27T14:50:43Z",
             "owner": "SeemSeam",
             "repo": "claude_codex_bridge",
-            "stars": 3454
-          }
+            "stars": 3462
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -186,8 +197,9 @@
             "last_commit": "2026-08-25T22:39:07Z",
             "owner": "joshmedeski",
             "repo": "sesh",
-            "stars": 2790
-          }
+            "stars": 2793
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "remi",
             "repo": "teamocil",
             "stars": 2409
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "greymd",
             "repo": "tmux-xpanes",
             "stars": 2104
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "jimeh",
             "repo": "tmuxifier",
             "stars": 1487
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "omerxx",
             "repo": "tmux-sessionx",
             "stars": 1365
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -261,8 +277,9 @@
             "last_commit": "2026-08-25T10:58:13Z",
             "owner": "tmux-python",
             "repo": "libtmux",
-            "stars": 1204
-          }
+            "stars": 1205
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "ivaaaan",
             "repo": "smug",
             "stars": 912
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -288,11 +306,12 @@
             "archived": false,
             "id": 635097749,
             "language": "Shell",
-            "last_commit": "2026-08-17T10:59:56Z",
+            "last_commit": "2026-08-28T06:02:20Z",
             "owner": "fabioluciano",
             "repo": "tmux-powerkit",
             "stars": 604
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "zdcthomas",
             "repo": "dmux",
             "stars": 371
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "joshmedeski",
             "repo": "t-smart-tmux-session-manager",
             "stars": 351
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "GianlucaP106",
             "repo": "mynav",
             "stars": 251
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "MunifTanjim",
             "repo": "tmux-suspend",
             "stars": 179
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "laktak",
             "repo": "tome",
             "stars": 175
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "predatorray",
             "repo": "kubectl-tmux-exec",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "evnp",
             "repo": "tmex",
             "stars": 124
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "jamesottaway",
             "repo": "tmux-up",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "zinic",
             "repo": "tmux-cssh",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "2KAbhishek",
             "repo": "tmux-tea",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -453,11 +482,12 @@
             "archived": false,
             "id": 1158008171,
             "language": "Shell",
-            "last_commit": "2026-08-27T16:03:36Z",
+            "last_commit": "2026-08-28T05:12:06Z",
             "owner": "timvw",
             "repo": "tmux-assistant-resurrect",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "chaitanyabsprip",
             "repo": "tmux-harpoon",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "vinnymeller",
             "repo": "twm",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -502,7 +534,8 @@
             "owner": "goerz",
             "repo": "tmuxpair",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -517,7 +550,8 @@
             "owner": "bcampolo",
             "repo": "tmux-lazy-restore",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -532,7 +566,8 @@
             "owner": "ryansmith3136",
             "repo": "tat",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -547,7 +582,8 @@
             "owner": "subbeh",
             "repo": "tmux-tpad",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -562,7 +598,8 @@
             "owner": "kesor",
             "repo": "tmux-player-ctl",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -577,7 +614,8 @@
             "owner": "YlanAllouche",
             "repo": "tmux-task-monitor",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -592,7 +630,8 @@
             "owner": "any-context",
             "repo": "lazyclaude",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -607,7 +646,8 @@
             "owner": "AranBorkum",
             "repo": "tmux-cookie-cutter",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -622,7 +662,8 @@
             "owner": "austinwilcox",
             "repo": "disconnected",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -637,7 +678,8 @@
             "owner": "sriramkandukuri",
             "repo": "automux",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -652,7 +694,8 @@
             "owner": "maxonvim",
             "repo": "tmux-underkeys",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -667,7 +710,8 @@
             "owner": "nkh",
             "repo": "tmuxake",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -682,7 +726,8 @@
             "owner": "Dlurak",
             "repo": "moxide",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -697,7 +742,8 @@
             "owner": "TheSast",
             "repo": "tmux-nav-master",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -712,7 +758,8 @@
             "owner": "juancruzfl",
             "repo": "tmux-layouts",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -727,7 +774,8 @@
             "owner": "sei40kr",
             "repo": "tmux-project",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -742,7 +790,8 @@
             "owner": "jaclu",
             "repo": "tmux-conf",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -757,7 +806,8 @@
             "owner": "AlextheYounga",
             "repo": "tuimux",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -772,7 +822,8 @@
             "owner": "leohenon",
             "repo": "tmux-tab",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -787,7 +838,8 @@
             "owner": "leohenon",
             "repo": "tmux-grip",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -802,7 +854,8 @@
             "owner": "dianoga-theory",
             "repo": "tmux-poltergeist",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -817,7 +870,8 @@
             "owner": "nickdiego",
             "repo": "tmux-pocket-pane",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         }
       ],
       "title": "Tools and session management"
@@ -837,8 +891,9 @@
             "last_commit": "2026-06-08T16:29:56Z",
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15705
-          }
+            "stars": 15707
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -853,7 +908,8 @@
             "owner": "catppuccin",
             "repo": "tmux",
             "stars": 3156
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -868,7 +924,8 @@
             "owner": "jimeh",
             "repo": "tmux-themepack",
             "stars": 1756
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -883,7 +940,8 @@
             "owner": "nordtheme",
             "repo": "tmux",
             "stars": 1197
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -898,7 +956,8 @@
             "owner": "seebi",
             "repo": "tmux-colors-solarized",
             "stars": 1102
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -913,7 +972,8 @@
             "owner": "dracula",
             "repo": "tmux",
             "stars": 852
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -928,7 +988,8 @@
             "owner": "egel",
             "repo": "tmux-gruvbox",
             "stars": 698
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -943,7 +1004,8 @@
             "owner": "wfxr",
             "repo": "tmux-power",
             "stars": 698
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -958,7 +1020,8 @@
             "owner": "janoamaral",
             "repo": "tokyo-night-tmux",
             "stars": 573
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -973,7 +1036,8 @@
             "owner": "rose-pine",
             "repo": "tmux",
             "stars": 277
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -988,7 +1052,8 @@
             "owner": "semi710",
             "repo": "minimal-tmux-status",
             "stars": 274
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1003,7 +1068,8 @@
             "owner": "o0th",
             "repo": "tmux-nova",
             "stars": 212
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1014,11 +1080,12 @@
             "archived": false,
             "id": 734141289,
             "language": "Shell",
-            "last_commit": "2026-06-08T08:46:04Z",
+            "last_commit": "2026-08-28T08:30:55Z",
             "owner": "Nybkox",
             "repo": "tmux-ukiyo",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1033,7 +1100,8 @@
             "owner": "erikw",
             "repo": "tmux-dark-notify",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1048,7 +1116,8 @@
             "owner": "uhs-robert",
             "repo": "tmux-oasis",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1063,7 +1132,8 @@
             "owner": "edouard-lopez",
             "repo": "tmux-tomorrow",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1078,7 +1148,8 @@
             "owner": "jatap",
             "repo": "tmux-base16-statusline",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1093,7 +1164,8 @@
             "owner": "ivnvxd",
             "repo": "tmux-snazzy",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1108,7 +1180,8 @@
             "owner": "thekylehuang",
             "repo": "cole-tmux",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1123,7 +1196,8 @@
             "owner": "ctrlmachine",
             "repo": "tmux-amp-theme",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         }
       ],
       "title": "Themes"
@@ -1144,7 +1218,8 @@
             "owner": "thewtex",
             "repo": "tmux-mem-cpu-load",
             "stars": 1125
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1159,7 +1234,8 @@
             "owner": "arl",
             "repo": "gitmux",
             "stars": 791
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1174,7 +1250,8 @@
             "owner": "tmux-plugins",
             "repo": "tmux-prefix-highlight",
             "stars": 673
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1189,7 +1266,8 @@
             "owner": "tmux-plugins",
             "repo": "tmux-battery",
             "stars": 573
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1203,8 +1281,9 @@
             "last_commit": "2024-10-06T19:54:39Z",
             "owner": "tmux-plugins",
             "repo": "tmux-cpu",
-            "stars": 537
-          }
+            "stars": 538
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1219,7 +1298,8 @@
             "owner": "olimorris",
             "repo": "tmux-pomodoro-plus",
             "stars": 471
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1234,7 +1314,8 @@
             "owner": "2KAbhishek",
             "repo": "tmux2k",
             "stars": 456
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1249,7 +1330,8 @@
             "owner": "ofirgall",
             "repo": "tmux-window-name",
             "stars": 297
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1264,7 +1346,8 @@
             "owner": "joshmedeski",
             "repo": "tmux-nerd-font-window-name",
             "stars": 224
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1279,7 +1362,8 @@
             "owner": "MunifTanjim",
             "repo": "tmux-mode-indicator",
             "stars": 199
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1294,7 +1378,8 @@
             "owner": "tmux-plugins",
             "repo": "tmux-online-status",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1309,7 +1394,8 @@
             "owner": "Determinant",
             "repo": "tmux-colortag",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1324,7 +1410,8 @@
             "owner": "ilya-manin",
             "repo": "tmux-network-bandwidth",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1339,7 +1426,8 @@
             "owner": "ilya-manin",
             "repo": "tmux-weather",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1354,7 +1442,8 @@
             "owner": "jdx",
             "repo": "tmux-spotify-info",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1369,7 +1458,8 @@
             "owner": "Dlurak",
             "repo": "muxbar",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1384,7 +1474,8 @@
             "owner": "tassaron",
             "repo": "tmux-df",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1399,7 +1490,8 @@
             "owner": "tmux-plugins",
             "repo": "tmux-maildir-counter",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1414,7 +1506,8 @@
             "owner": "alexanderjeurissen",
             "repo": "tmux-world-clock",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1429,7 +1522,8 @@
             "owner": "darko-mesaros",
             "repo": "aws-tmux",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1444,7 +1538,8 @@
             "owner": "jdx",
             "repo": "tmux-weather",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1459,7 +1554,8 @@
             "owner": "charlietag",
             "repo": "tmux-split-statusbar",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1474,7 +1570,8 @@
             "owner": "jtmcginty",
             "repo": "tmux-session-dots",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1489,7 +1586,8 @@
             "owner": "vascomfnunes",
             "repo": "tmux-clima",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1504,7 +1602,8 @@
             "owner": "TheSast",
             "repo": "tmux-transient-status",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1519,7 +1618,8 @@
             "owner": "maxrodrigo",
             "repo": "tmux-nordvpn",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1534,7 +1634,8 @@
             "owner": "richin13",
             "repo": "tmux-plugin-playerctl",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1549,7 +1650,8 @@
             "owner": "jdx",
             "repo": "tmux-cpu-info",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1564,7 +1666,8 @@
             "owner": "jaclu",
             "repo": "tmux-mullvad",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1579,7 +1682,8 @@
             "owner": "Feqzz",
             "repo": "tmux-spotify-info",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1594,7 +1698,8 @@
             "owner": "jaclu",
             "repo": "tmux-packet-loss",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1609,7 +1714,8 @@
             "owner": "tony-sol",
             "repo": "tmux-kubectx",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1624,7 +1730,8 @@
             "owner": "tony-sol",
             "repo": "tmux-current-pane-hostname",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1639,7 +1746,8 @@
             "owner": "Brutuski",
             "repo": "tmux-piavpn",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1654,7 +1762,8 @@
             "owner": "theo64oliver",
             "repo": "tmux-code-time",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1669,7 +1778,8 @@
             "owner": "vascomfnunes",
             "repo": "tmux-kripto",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1684,7 +1794,8 @@
             "owner": "playbahn",
             "repo": "tmux-cpu-rs",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1699,7 +1810,8 @@
             "owner": "sjdonado",
             "repo": "tmux-workspace-usage",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1714,7 +1826,8 @@
             "owner": "Feqzz",
             "repo": "tmux-mpv-info",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1729,7 +1842,8 @@
             "owner": "vascomfnunes",
             "repo": "tmux-ludanta",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1744,7 +1858,8 @@
             "owner": "YousefHadder",
             "repo": "tmux-speedtest",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1759,7 +1874,8 @@
             "owner": "Feqzz",
             "repo": "tmux-weather-info-yr",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1774,7 +1890,8 @@
             "owner": "farnots",
             "repo": "tmux-claude-status",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1789,7 +1906,8 @@
             "owner": "eran-rom",
             "repo": "tmux-caffeinated",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         }
       ],
       "title": "Status Bar"
@@ -1809,8 +1927,9 @@
             "last_commit": "2026-06-22T18:10:06Z",
             "owner": "Morantron",
             "repo": "tmux-fingers",
-            "stars": 1466
-          }
+            "stars": 1468
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1824,8 +1943,9 @@
             "last_commit": "2026-06-23T11:47:55Z",
             "owner": "Ataraxy-Labs",
             "repo": "opensessions",
-            "stars": 1217
-          }
+            "stars": 1221
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1839,8 +1959,9 @@
             "last_commit": "2026-03-02T21:40:52Z",
             "owner": "laktak",
             "repo": "extrakto",
-            "stars": 1138
-          }
+            "stars": 1139
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1855,7 +1976,8 @@
             "owner": "fcsonline",
             "repo": "tmux-thumbs",
             "stars": 1096
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1870,7 +1992,8 @@
             "owner": "NHDaly",
             "repo": "tmux-better-mouse-mode",
             "stars": 986
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1885,7 +2008,8 @@
             "owner": "tweekmonster",
             "repo": "tmux2html",
             "stars": 744
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1900,7 +2024,8 @@
             "owner": "wfxr",
             "repo": "tmux-fzf-url",
             "stars": 730
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1911,11 +2036,12 @@
             "archived": false,
             "id": 425347798,
             "language": "Shell",
-            "last_commit": "2026-08-23T13:11:46Z",
+            "last_commit": "2026-08-28T20:01:04Z",
             "owner": "jaclu",
             "repo": "tmux-menus",
             "stars": 535
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1930,7 +2056,8 @@
             "owner": "jabirali",
             "repo": "tmux-tilish",
             "stars": 493
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1945,7 +2072,8 @@
             "owner": "schasse",
             "repo": "tmux-jump",
             "stars": 478
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1960,7 +2088,8 @@
             "owner": "eduwass",
             "repo": "tmux-palette",
             "stars": 403
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1975,7 +2104,8 @@
             "owner": "yardnsm",
             "repo": "tmux-1password",
             "stars": 277
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -1990,7 +2120,8 @@
             "owner": "rickstaa",
             "repo": "tmux-notify",
             "stars": 274
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2005,7 +2136,8 @@
             "owner": "27medkamal",
             "repo": "tmux-session-wizard",
             "stars": 260
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2020,7 +2152,8 @@
             "owner": "whame",
             "repo": "tmux-modal",
             "stars": 219
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2035,7 +2168,8 @@
             "owner": "bjesus",
             "repo": "muxile",
             "stars": 191
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2050,7 +2184,8 @@
             "owner": "saysjonathan",
             "repo": "dwm.tmux",
             "stars": 190
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2065,7 +2200,8 @@
             "owner": "roosta",
             "repo": "tmux-fuzzback",
             "stars": 187
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2080,7 +2216,8 @@
             "owner": "ofirgall",
             "repo": "tmux-browser",
             "stars": 155
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2095,7 +2232,8 @@
             "owner": "ilya-manin",
             "repo": "tmux-spotify",
             "stars": 127
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2110,7 +2248,8 @@
             "owner": "b0o",
             "repo": "tmux-autoreload",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2125,7 +2264,8 @@
             "owner": "gcla",
             "repo": "tmux-wormhole",
             "stars": 122
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2140,7 +2280,8 @@
             "owner": "navahas",
             "repo": "tmux-grimoire",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2155,7 +2296,8 @@
             "owner": "IngoMeyer441",
             "repo": "tmux-easy-motion",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2170,7 +2312,8 @@
             "owner": "artemave",
             "repo": "tmux_super_fingers",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2185,7 +2328,8 @@
             "owner": "cutbypham",
             "repo": "tmux-fzf-session-switch",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2200,7 +2344,8 @@
             "owner": "accessd",
             "repo": "tmux-agent-indicator",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2215,7 +2360,8 @@
             "owner": "2KAbhishek",
             "repo": "tmux-tilit",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2230,7 +2376,8 @@
             "owner": "trevarj",
             "repo": "tmux-open-nvim",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2245,7 +2392,8 @@
             "owner": "brendandebeasi",
             "repo": "tabby",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2260,7 +2408,8 @@
             "owner": "CrispyConductor",
             "repo": "tmux-copy-toolkit",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2275,7 +2424,8 @@
             "owner": "datamadsen",
             "repo": "nunchux",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2290,7 +2440,8 @@
             "owner": "jaclu",
             "repo": "tmux-power-zoom",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2305,7 +2456,8 @@
             "owner": "Alkindi42",
             "repo": "tmux-bitwarden",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2320,7 +2472,8 @@
             "owner": "ddzero2c",
             "repo": "tmux-easymotion",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2335,7 +2488,8 @@
             "owner": "juni-purr",
             "repo": "tmux-cht-sh",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2350,7 +2504,8 @@
             "owner": "lost-melody",
             "repo": "tmux-command-palette",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2365,7 +2520,8 @@
             "owner": "kristijanhusak",
             "repo": "tmux-simple-git-status",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2379,8 +2535,9 @@
             "last_commit": "2026-07-15T07:45:44Z",
             "owner": "qeesung",
             "repo": "tmux-scout",
-            "stars": 29
-          }
+            "stars": 30
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2395,7 +2552,8 @@
             "owner": "graemedavidson",
             "repo": "tmux-pane-focus",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2410,7 +2568,8 @@
             "owner": "mjjo16",
             "repo": "marmonitor",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2425,7 +2584,8 @@
             "owner": "jaclu",
             "repo": "tmux-mouse-swipe",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2440,7 +2600,8 @@
             "owner": "danjeltahko",
             "repo": "spotify-tmux",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2455,7 +2616,8 @@
             "owner": "phil",
             "repo": "tmux-devcontainers",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2470,7 +2632,8 @@
             "owner": "alexekdahl",
             "repo": "tmux-compile",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2485,7 +2648,8 @@
             "owner": "lloydbond",
             "repo": "tmux-floating-terminal",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2500,7 +2664,8 @@
             "owner": "Peter-McKinney",
             "repo": "tmux-fzf-open-files-nvim",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2515,7 +2680,8 @@
             "owner": "hynek-urban",
             "repo": "tmux-llm",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2530,7 +2696,8 @@
             "owner": "aomerk",
             "repo": "tmux-claude-sessions",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2545,7 +2712,8 @@
             "owner": "momo-lab",
             "repo": "tmux-toggle-scratch",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2560,7 +2728,8 @@
             "owner": "MaximilianGaedig",
             "repo": "tmux-filter",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2575,7 +2744,8 @@
             "owner": "TheSast",
             "repo": "tmux-keylocker",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2590,7 +2760,8 @@
             "owner": "tardunge",
             "repo": "kmux-status",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2605,7 +2776,8 @@
             "owner": "aless3",
             "repo": "tmux-click-copy",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2620,7 +2792,8 @@
             "owner": "GoHarder",
             "repo": "tmux-pianobar",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2635,7 +2808,8 @@
             "owner": "fiqryq",
             "repo": "port",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2650,7 +2824,8 @@
             "owner": "tardunge",
             "repo": "tmux-gh",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2665,7 +2840,8 @@
             "owner": "hamolicious",
             "repo": "back-in-5",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2680,7 +2856,8 @@
             "owner": "ndom91",
             "repo": "tmux-ai-window-name",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2695,7 +2872,8 @@
             "owner": "croxarens",
             "repo": "tmux-timetrap",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2710,7 +2888,8 @@
             "owner": "luopeixiang",
             "repo": "tmux-agent-view",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -2725,7 +2904,8 @@
             "owner": "MunifTanjim",
             "repo": "tmux-ctrl",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "group",
@@ -2744,8 +2924,9 @@
                 "last_commit": "2026-05-17T16:41:25Z",
                 "owner": "tmux-plugins",
                 "repo": "tpm",
-                "stars": 15030
-              }
+                "stars": 15029
+              },
+              "first_seen": "2026-08-28T20:22:04.796Z"
             },
             {
               "node_type": "item",
@@ -2759,8 +2940,9 @@
                 "last_commit": "2024-08-13T23:51:42Z",
                 "owner": "tmux-plugins",
                 "repo": "tmux-resurrect",
-                "stars": 13016
-              }
+                "stars": 13018
+              },
+              "first_seen": "2026-08-28T20:22:04.796Z"
             },
             {
               "node_type": "item",
@@ -2775,7 +2957,8 @@
                 "owner": "tmux-plugins",
                 "repo": "tmux-continuum",
                 "stars": 4064
-              }
+              },
+              "first_seen": "2026-08-28T20:22:04.796Z"
             },
             {
               "node_type": "item",
@@ -2790,7 +2973,8 @@
                 "owner": "tmux-plugins",
                 "repo": "tmux-yank",
                 "stars": 3100
-              }
+              },
+              "first_seen": "2026-08-28T20:22:04.796Z"
             },
             {
               "node_type": "item",
@@ -2805,7 +2989,8 @@
                 "owner": "tmux-plugins",
                 "repo": "tmux-logging",
                 "stars": 1255
-              }
+              },
+              "first_seen": "2026-08-28T20:22:04.796Z"
             },
             {
               "node_type": "item",
@@ -2820,7 +3005,8 @@
                 "owner": "tmux-plugins",
                 "repo": "tmux-copycat",
                 "stars": 1204
-              }
+              },
+              "first_seen": "2026-08-28T20:22:04.796Z"
             },
             {
               "node_type": "item",
@@ -2835,7 +3021,8 @@
                 "owner": "tmux-plugins",
                 "repo": "tmux-pain-control",
                 "stars": 866
-              }
+              },
+              "first_seen": "2026-08-28T20:22:04.796Z"
             },
             {
               "node_type": "item",
@@ -2850,7 +3037,8 @@
                 "owner": "tmux-plugins",
                 "repo": "tmux-open",
                 "stars": 736
-              }
+              },
+              "first_seen": "2026-08-28T20:22:04.796Z"
             },
             {
               "node_type": "item",
@@ -2865,7 +3053,8 @@
                 "owner": "tmux-plugins",
                 "repo": "tmux-sidebar",
                 "stars": 661
-              }
+              },
+              "first_seen": "2026-08-28T20:22:04.796Z"
             },
             {
               "node_type": "item",
@@ -2880,7 +3069,8 @@
                 "owner": "tmux-plugins",
                 "repo": "tmux-sessionist",
                 "stars": 469
-              }
+              },
+              "first_seen": "2026-08-28T20:22:04.796Z"
             },
             {
               "node_type": "item",
@@ -2895,7 +3085,8 @@
                 "owner": "tmux-plugins",
                 "repo": "tmux-fpp",
                 "stars": 322
-              }
+              },
+              "first_seen": "2026-08-28T20:22:04.796Z"
             },
             {
               "node_type": "item",
@@ -2910,7 +3101,8 @@
                 "owner": "tmux-plugins",
                 "repo": "tmux-urlview",
                 "stars": 291
-              }
+              },
+              "first_seen": "2026-08-28T20:22:04.796Z"
             },
             {
               "node_type": "item",
@@ -2925,7 +3117,8 @@
                 "owner": "azorng",
                 "repo": "tmux-smooth-scroll",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T20:22:04.796Z"
             }
           ]
         },
@@ -2944,7 +3137,8 @@
                 "owner": "tmux-plugins",
                 "repo": "tmux-example-plugin",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T20:22:04.796Z"
             },
             {
               "node_type": "item",
@@ -2959,7 +3153,8 @@
                 "owner": "GianlucaP106",
                 "repo": "gotmux",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T20:22:04.796Z"
             },
             {
               "node_type": "item",
@@ -2974,7 +3169,8 @@
                 "owner": "tmux-plugins",
                 "repo": "tmux-test",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T20:22:04.796Z"
             }
           ],
           "description": null,
@@ -2996,11 +3192,12 @@
             "archived": false,
             "id": 968983324,
             "language": "Go",
-            "last_commit": "2026-08-25T19:46:40Z",
+            "last_commit": "2026-08-28T14:14:04Z",
             "owner": "alvinunreal",
             "repo": "tmuxai",
-            "stars": 1936
-          }
+            "stars": 1938
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -3015,7 +3212,8 @@
             "owner": "csdvrx",
             "repo": "sixel-tmux",
             "stars": 513
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -3030,7 +3228,8 @@
             "owner": "tmux-plugins",
             "repo": "vim-tmux",
             "stars": 342
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -3045,7 +3244,8 @@
             "owner": "mapio",
             "repo": "tmux-tail-f",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
           "node_type": "item",
@@ -3060,14 +3260,15 @@
             "owner": "huntie",
             "repo": "sublime-tmux",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
         }
       ],
       "title": "Miscellaneous"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:15:34.732Z",
+    "last_updated": "2026-08-28T20:22:04.796Z",
     "original_repository_info": {
       "archived": false,
       "id": 55387399,
@@ -3075,7 +3276,7 @@
       "last_commit": "2026-08-07T22:00:06Z",
       "owner": "rothgar",
       "repo": "awesome-tmux",
-      "stars": 10272
+      "stars": 10274
     },
     "original_repository_sha": "ecb96a6d2fb3d184b99168974a525d3d082f937d",
     "enhanced_repository": "enhansome/enhansome-tmux",
