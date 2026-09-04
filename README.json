@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "gpakosz",
             "repo": ".tmux",
-            "stars": 25355,
+            "stars": 25357,
             "topics": [
               "cli",
               "conf",
@@ -61,7 +61,7 @@
             "open_issues": 10,
             "owner": "tony",
             "repo": "tmux-config",
-            "stars": 1871,
+            "stars": 1870,
             "topics": [
               "configuration",
               "dot-config",
@@ -164,7 +164,7 @@
             "open_issues": 242,
             "owner": "powerline",
             "repo": "powerline",
-            "stars": 14809,
+            "stars": 14806,
             "topics": [
               "bash",
               "fish",
@@ -196,7 +196,7 @@
             "open_issues": 97,
             "owner": "tmuxinator",
             "repo": "tmuxinator",
-            "stars": 13714,
+            "stars": 13716,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -214,10 +214,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-01-25T19:44:18Z",
-            "open_issues": 89,
+            "open_issues": 90,
             "owner": "christoomey",
             "repo": "vim-tmux-navigator",
-            "stars": 6284,
+            "stars": 6285,
             "topics": [
               "tmux",
               "vim"
@@ -273,7 +273,7 @@
             "open_issues": 1,
             "owner": "erikw",
             "repo": "tmux-powerline",
-            "stars": 3837,
+            "stars": 3835,
             "topics": [
               "bash",
               "configuration",
@@ -306,11 +306,11 @@
             "id": 1083162948,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T08:11:05Z",
-            "open_issues": 100,
+            "last_commit": "2026-09-04T06:43:41Z",
+            "open_issues": 101,
             "owner": "SeemSeam",
             "repo": "claude_codex_bridge",
-            "stars": 3474,
+            "stars": 3475,
             "topics": [
               "ai-coding",
               "ai-collaboration",
@@ -348,11 +348,11 @@
             "id": 736435794,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-02T14:39:24Z",
-            "open_issues": 48,
+            "last_commit": "2026-09-04T05:36:27Z",
+            "open_issues": 50,
             "owner": "joshmedeski",
             "repo": "sesh",
-            "stars": 2804,
+            "stars": 2807,
             "topics": [
               "productivity",
               "session-management",
@@ -401,7 +401,7 @@
             "open_issues": 20,
             "owner": "greymd",
             "repo": "tmux-xpanes",
-            "stars": 2104,
+            "stars": 2105,
             "topics": [
               "bash",
               "bash-script",
@@ -430,7 +430,7 @@
             "open_issues": 43,
             "owner": "jimeh",
             "repo": "tmuxifier",
-            "stars": 1489,
+            "stars": 1490,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -623,7 +623,7 @@
             "id": 365169238,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2023-01-15T05:38:57Z",
+            "last_commit": "2026-09-04T08:03:31Z",
             "open_issues": 0,
             "owner": "MunifTanjim",
             "repo": "tmux-suspend",
@@ -845,7 +845,7 @@
             "open_issues": 2,
             "owner": "vinnymeller",
             "repo": "twm",
-            "stars": 61,
+            "stars": 60,
             "topics": [
               "terminal",
               "tmux",
@@ -1404,7 +1404,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15723,
+            "stars": 15724,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -1425,7 +1425,7 @@
             "open_issues": 42,
             "owner": "catppuccin",
             "repo": "tmux",
-            "stars": 3162,
+            "stars": 3161,
             "topics": [
               "catppuccin",
               "colors",
@@ -1509,7 +1509,7 @@
             "open_issues": 6,
             "owner": "seebi",
             "repo": "tmux-colors-solarized",
-            "stars": 1102,
+            "stars": 1101,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -1664,7 +1664,7 @@
             "open_issues": 1,
             "owner": "semi710",
             "repo": "minimal-tmux-status",
-            "stars": 274,
+            "stars": 275,
             "topics": [
               "minimal",
               "prefix-highlight",
@@ -2081,7 +2081,7 @@
             "id": 522734575,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-25T09:32:58Z",
+            "last_commit": "2026-09-03T17:14:24Z",
             "open_issues": 0,
             "owner": "2KAbhishek",
             "repo": "tmux2k",
@@ -3083,7 +3083,7 @@
             "open_issues": 24,
             "owner": "Ataraxy-Labs",
             "repo": "opensessions",
-            "stars": 1222,
+            "stars": 1223,
             "topics": [
               "agent-orchestration",
               "amp",
@@ -3216,7 +3216,7 @@
             "open_issues": 13,
             "owner": "wfxr",
             "repo": "tmux-fzf-url",
-            "stars": 730,
+            "stars": 731,
             "topics": [
               "cli",
               "fzf",
@@ -3243,7 +3243,7 @@
             "open_issues": 0,
             "owner": "jaclu",
             "repo": "tmux-menus",
-            "stars": 537,
+            "stars": 536,
             "topics": [
               "display-menu",
               "popup-dialog",
@@ -3814,7 +3814,7 @@
             "open_issues": 0,
             "owner": "brendandebeasi",
             "repo": "tabby",
-            "stars": 77,
+            "stars": 78,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4107,7 +4107,7 @@
             "open_issues": 4,
             "owner": "mjjo16",
             "repo": "marmonitor",
-            "stars": 28,
+            "stars": 27,
             "topics": [
               "ai-agent",
               "claude-code",
@@ -4598,7 +4598,7 @@
             "language": "Shell",
             "license": null,
             "last_commit": "2026-08-13T07:04:59Z",
-            "open_issues": 0,
+            "open_issues": 2,
             "owner": "luopeixiang",
             "repo": "tmux-agent-view",
             "stars": 0,
@@ -4682,7 +4682,7 @@
                 "open_issues": 303,
                 "owner": "tmux-plugins",
                 "repo": "tmux-resurrect",
-                "stars": 13032,
+                "stars": 13035,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4724,7 +4724,7 @@
                 "open_issues": 49,
                 "owner": "tmux-plugins",
                 "repo": "tmux-yank",
-                "stars": 3103,
+                "stars": 3104,
                 "topics": [
                   "clipboard",
                   "cygwin",
@@ -4817,7 +4817,7 @@
                 "open_issues": 29,
                 "owner": "tmux-plugins",
                 "repo": "tmux-open",
-                "stars": 736,
+                "stars": 737,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -5031,7 +5031,7 @@
             "open_issues": 6,
             "owner": "alvinunreal",
             "repo": "tmuxai",
-            "stars": 1940,
+            "stars": 1941,
             "topics": [
               "ai",
               "assistant",
@@ -5058,7 +5058,7 @@
             "open_issues": 2,
             "owner": "csdvrx",
             "repo": "sixel-tmux",
-            "stars": 513,
+            "stars": 514,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -5134,7 +5134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T13:00:04.454Z",
+    "last_updated": "2026-09-04T12:55:21.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for tmux",
@@ -5143,10 +5143,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-08-07T22:00:06Z",
-      "open_issues": 14,
+      "open_issues": 15,
       "owner": "rothgar",
       "repo": "awesome-tmux",
-      "stars": 10296,
+      "stars": 10304,
       "topics": [
         "awesome",
         "awesome-list",
