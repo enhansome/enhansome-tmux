@@ -16,10 +16,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-08-08T15:52:45Z",
-            "open_issues": 24,
+            "open_issues": 23,
             "owner": "gpakosz",
             "repo": ".tmux",
-            "stars": 25375,
+            "stars": 25379,
             "topics": [
               "cli",
               "conf",
@@ -164,7 +164,7 @@
             "open_issues": 242,
             "owner": "powerline",
             "repo": "powerline",
-            "stars": 14816,
+            "stars": 14819,
             "topics": [
               "bash",
               "fish",
@@ -241,7 +241,7 @@
             "open_issues": 137,
             "owner": "tmux-python",
             "repo": "tmuxp",
-            "stars": 4575,
+            "stars": 4576,
             "topics": [
               "cli",
               "cli-utilities",
@@ -307,10 +307,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-09T09:05:21Z",
-            "open_issues": 98,
+            "open_issues": 100,
             "owner": "SeemSeam",
             "repo": "claude_codex_bridge",
-            "stars": 3492,
+            "stars": 3493,
             "topics": [
               "ai-coding",
               "ai-collaboration",
@@ -352,7 +352,7 @@
             "open_issues": 50,
             "owner": "joshmedeski",
             "repo": "sesh",
-            "stars": 2821,
+            "stars": 2822,
             "topics": [
               "productivity",
               "session-management",
@@ -451,7 +451,7 @@
             "open_issues": 56,
             "owner": "omerxx",
             "repo": "tmux-sessionx",
-            "stars": 1375,
+            "stars": 1377,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -468,8 +468,8 @@
             "id": 59409425,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-12T10:57:30Z",
-            "open_issues": 158,
+            "last_commit": "2026-09-13T13:11:15Z",
+            "open_issues": 160,
             "owner": "tmux-python",
             "repo": "libtmux",
             "stars": 1206,
@@ -527,7 +527,7 @@
             "open_issues": 1,
             "owner": "fabioluciano",
             "repo": "tmux-powerkit",
-            "stars": 606,
+            "stars": 605,
             "topics": [
               "tmux",
               "tmux-framework",
@@ -1404,7 +1404,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15740,
+            "stars": 15741,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -1425,7 +1425,7 @@
             "open_issues": 43,
             "owner": "catppuccin",
             "repo": "tmux",
-            "stars": 3169,
+            "stars": 3168,
             "topics": [
               "catppuccin",
               "colors",
@@ -1475,7 +1475,7 @@
             "open_issues": 45,
             "owner": "nordtheme",
             "repo": "tmux",
-            "stars": 1196,
+            "stars": 1198,
             "topics": [
               "arctic",
               "clean",
@@ -1712,8 +1712,8 @@
             "id": 734141289,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T08:30:55Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-12T23:05:23Z",
+            "open_issues": 1,
             "owner": "Nybkox",
             "repo": "tmux-ukiyo",
             "stars": 146,
@@ -2059,7 +2059,7 @@
             "open_issues": 6,
             "owner": "olimorris",
             "repo": "tmux-pomodoro-plus",
-            "stars": 472,
+            "stars": 471,
             "topics": [
               "pomodoro",
               "tmux",
@@ -2159,7 +2159,7 @@
             "open_issues": 4,
             "owner": "MunifTanjim",
             "repo": "tmux-mode-indicator",
-            "stars": 200,
+            "stars": 201,
             "topics": [
               "tmux",
               "tmux-plugin",
@@ -2226,7 +2226,7 @@
             "open_issues": 6,
             "owner": "ilya-manin",
             "repo": "tmux-network-bandwidth",
-            "stars": 85,
+            "stars": 86,
             "topics": [
               "bandwidth-monitor",
               "network-monitoring",
@@ -2643,6 +2643,31 @@
         },
         {
           "node_type": "item",
+          "title": "tmux-packet-loss",
+          "description": "Displays packet loss % if at or above the specified threshold level",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "tmux plugin, Displays packet loss if at or above threshold",
+            "homepage": null,
+            "id": 472361806,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-08-19T08:02:12Z",
+            "open_issues": 1,
+            "owner": "jaclu",
+            "repo": "tmux-packet-loss",
+            "stars": 15,
+            "topics": [
+              "tmux",
+              "tmux-plugin",
+              "tmux-plugins"
+            ]
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
           "title": "tmux-spotify-info",
           "description": "Spotify track info on your status bar (Linux)",
           "children": [],
@@ -2664,31 +2689,6 @@
               "spotify",
               "tmux",
               "tmux-plugin"
-            ]
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tmux-packet-loss",
-          "description": "Displays packet loss % if at or above the specified threshold level",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "tmux plugin, Displays packet loss if at or above threshold",
-            "homepage": null,
-            "id": 472361806,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-08-19T08:02:12Z",
-            "open_issues": 1,
-            "owner": "jaclu",
-            "repo": "tmux-packet-loss",
-            "stars": 14,
-            "topics": [
-              "tmux",
-              "tmux-plugin",
-              "tmux-plugins"
             ]
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -2736,7 +2736,7 @@
             "open_issues": 0,
             "owner": "tony-sol",
             "repo": "tmux-current-pane-hostname",
-            "stars": 11,
+            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -2846,6 +2846,32 @@
         },
         {
           "node_type": "item",
+          "title": "tmux-speedtest",
+          "description": "Run internet speed tests and display results in your status bar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A tmux plugin to run internet speed tests and display results in your status bar",
+            "homepage": null,
+            "id": 1147413728,
+            "language": "Shell",
+            "license": null,
+            "last_commit": "2026-03-08T04:53:15Z",
+            "open_issues": 0,
+            "owner": "YousefHadder",
+            "repo": "tmux-speedtest",
+            "stars": 6,
+            "topics": [
+              "speedtest",
+              "status-bar",
+              "tmux",
+              "tmux-plugin"
+            ]
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
           "title": "tmux-workspace-usage",
           "description": "Displays the memory and CPU usage of your workspace processes.",
           "children": [],
@@ -2918,32 +2944,6 @@
               "mpd",
               "tmux",
               "tmux-plugins"
-            ]
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tmux-speedtest",
-          "description": "Run internet speed tests and display results in your status bar.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A tmux plugin to run internet speed tests and display results in your status bar",
-            "homepage": null,
-            "id": 1147413728,
-            "language": "Shell",
-            "license": null,
-            "last_commit": "2026-03-08T04:53:15Z",
-            "open_issues": 0,
-            "owner": "YousefHadder",
-            "repo": "tmux-speedtest",
-            "stars": 5,
-            "topics": [
-              "speedtest",
-              "status-bar",
-              "tmux",
-              "tmux-plugin"
             ]
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -3083,7 +3083,7 @@
             "open_issues": 24,
             "owner": "Ataraxy-Labs",
             "repo": "opensessions",
-            "stars": 1226,
+            "stars": 1228,
             "topics": [
               "agent-orchestration",
               "amp",
@@ -3142,7 +3142,7 @@
             "open_issues": 48,
             "owner": "fcsonline",
             "repo": "tmux-thumbs",
-            "stars": 1099,
+            "stars": 1100,
             "topics": [
               "rust",
               "tmux",
@@ -3326,7 +3326,7 @@
             "open_issues": 11,
             "owner": "eduwass",
             "repo": "tmux-palette",
-            "stars": 406,
+            "stars": 407,
             "topics": [
               "cli",
               "command-palette",
@@ -3493,7 +3493,7 @@
             "open_issues": 0,
             "owner": "saysjonathan",
             "repo": "dwm.tmux",
-            "stars": 190,
+            "stars": 191,
             "topics": [
               "shell",
               "terminal",
@@ -3814,7 +3814,7 @@
             "open_issues": 0,
             "owner": "brendandebeasi",
             "repo": "tabby",
-            "stars": 79,
+            "stars": 80,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4263,7 +4263,7 @@
             "open_issues": 0,
             "owner": "Peter-McKinney",
             "repo": "tmux-fzf-open-files-nvim",
-            "stars": 17,
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4661,7 +4661,7 @@
                 "open_issues": 146,
                 "owner": "tmux-plugins",
                 "repo": "tpm",
-                "stars": 15074,
+                "stars": 15075,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4682,7 +4682,7 @@
                 "open_issues": 303,
                 "owner": "tmux-plugins",
                 "repo": "tmux-resurrect",
-                "stars": 13047,
+                "stars": 13048,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4817,7 +4817,7 @@
                 "open_issues": 29,
                 "owner": "tmux-plugins",
                 "repo": "tmux-open",
-                "stars": 738,
+                "stars": 740,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4922,7 +4922,7 @@
                 "open_issues": 0,
                 "owner": "azorng",
                 "repo": "tmux-smooth-scroll",
-                "stars": 78,
+                "stars": 79,
                 "topics": [
                   "plugin",
                   "scroll",
@@ -5134,7 +5134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T12:21:41.683Z",
+    "last_updated": "2026-09-13T13:27:46.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for tmux",
@@ -5142,18 +5142,18 @@
       "id": 55387399,
       "language": null,
       "license": null,
-      "last_commit": "2026-08-07T22:00:06Z",
-      "open_issues": 19,
+      "last_commit": "2026-09-13T04:14:58Z",
+      "open_issues": 6,
       "owner": "rothgar",
       "repo": "awesome-tmux",
-      "stars": 10332,
+      "stars": 10337,
       "topics": [
         "awesome",
         "awesome-list",
         "tmux"
       ]
     },
-    "original_repository_sha": "ecb96a6d2fb3d184b99168974a525d3d082f937d",
+    "original_repository_sha": "91fa86a18fef5c633d8bed308ccc9926eac46706",
     "enhanced_repository": "enhansome/enhansome-tmux",
     "enhanced_repository_description": null,
     "title": "Awesome tmux with stars"
