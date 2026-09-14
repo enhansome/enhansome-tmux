@@ -16,10 +16,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-08-08T15:52:45Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "gpakosz",
             "repo": ".tmux",
-            "stars": 25379,
+            "stars": 25382,
             "topics": [
               "cli",
               "conf",
@@ -111,7 +111,7 @@
             "open_issues": 2,
             "owner": "TomhetArkitektur",
             "repo": "mooks",
-            "stars": 29,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -241,7 +241,7 @@
             "open_issues": 137,
             "owner": "tmux-python",
             "repo": "tmuxp",
-            "stars": 4576,
+            "stars": 4579,
             "topics": [
               "cli",
               "cli-utilities",
@@ -269,11 +269,11 @@
             "id": 4647320,
             "language": "Shell",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-07-27T15:05:12Z",
+            "last_commit": "2026-09-14T06:52:23Z",
             "open_issues": 1,
             "owner": "erikw",
             "repo": "tmux-powerline",
-            "stars": 3838,
+            "stars": 3840,
             "topics": [
               "bash",
               "configuration",
@@ -310,7 +310,7 @@
             "open_issues": 100,
             "owner": "SeemSeam",
             "repo": "claude_codex_bridge",
-            "stars": 3493,
+            "stars": 3495,
             "topics": [
               "ai-coding",
               "ai-collaboration",
@@ -352,7 +352,7 @@
             "open_issues": 50,
             "owner": "joshmedeski",
             "repo": "sesh",
-            "stars": 2822,
+            "stars": 2821,
             "topics": [
               "productivity",
               "session-management",
@@ -430,7 +430,7 @@
             "open_issues": 43,
             "owner": "jimeh",
             "repo": "tmuxifier",
-            "stars": 1490,
+            "stars": 1489,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -451,7 +451,7 @@
             "open_issues": 56,
             "owner": "omerxx",
             "repo": "tmux-sessionx",
-            "stars": 1377,
+            "stars": 1379,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -468,7 +468,7 @@
             "id": 59409425,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-13T13:11:15Z",
+            "last_commit": "2026-09-13T22:16:03Z",
             "open_issues": 160,
             "owner": "tmux-python",
             "repo": "libtmux",
@@ -527,7 +527,7 @@
             "open_issues": 1,
             "owner": "fabioluciano",
             "repo": "tmux-powerkit",
-            "stars": 605,
+            "stars": 606,
             "topics": [
               "tmux",
               "tmux-framework",
@@ -553,7 +553,7 @@
             "open_issues": 9,
             "owner": "zdcthomas",
             "repo": "dmux",
-            "stars": 372,
+            "stars": 373,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -627,7 +627,7 @@
             "open_issues": 0,
             "owner": "MunifTanjim",
             "repo": "tmux-suspend",
-            "stars": 179,
+            "stars": 180,
             "topics": [
               "tmux",
               "tmux-plugin",
@@ -794,7 +794,7 @@
             "open_issues": 0,
             "owner": "2KAbhishek",
             "repo": "tmux-tea",
-            "stars": 85,
+            "stars": 86,
             "topics": [
               "manager",
               "plugin",
@@ -1404,7 +1404,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15741,
+            "stars": 15744,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -1425,7 +1425,7 @@
             "open_issues": 43,
             "owner": "catppuccin",
             "repo": "tmux",
-            "stars": 3168,
+            "stars": 3170,
             "topics": [
               "catppuccin",
               "colors",
@@ -1530,7 +1530,7 @@
             "open_issues": 53,
             "owner": "dracula",
             "repo": "tmux",
-            "stars": 856,
+            "stars": 857,
             "topics": [
               "dark-theme",
               "dracula",
@@ -1585,7 +1585,7 @@
             "open_issues": 15,
             "owner": "egel",
             "repo": "tmux-gruvbox",
-            "stars": 698,
+            "stars": 699,
             "topics": [
               "gruvbox",
               "gruvbox-color-scheme",
@@ -1612,7 +1612,7 @@
             "open_issues": 5,
             "owner": "janoamaral",
             "repo": "tokyo-night-tmux",
-            "stars": 576,
+            "stars": 577,
             "topics": [
               "outrun",
               "theme",
@@ -1769,7 +1769,7 @@
             "open_issues": 0,
             "owner": "uhs-robert",
             "repo": "tmux-oasis",
-            "stars": 71,
+            "stars": 72,
             "topics": [
               "colors",
               "colorscheme",
@@ -1956,7 +1956,7 @@
             "open_issues": 9,
             "owner": "arl",
             "repo": "gitmux",
-            "stars": 795,
+            "stars": 794,
             "topics": [
               "bash",
               "cli",
@@ -2085,7 +2085,7 @@
             "open_issues": 1,
             "owner": "2KAbhishek",
             "repo": "tmux2k",
-            "stars": 463,
+            "stars": 466,
             "topics": [
               "cli",
               "plugin",
@@ -2695,33 +2695,6 @@
         },
         {
           "node_type": "item",
-          "title": "tmux-kubectx",
-          "description": "Show kubernetes context in statusbar",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Display kubernetes context in tmux status line",
-            "homepage": null,
-            "id": 811483083,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-06-30T12:02:49Z",
-            "open_issues": 0,
-            "owner": "tony-sol",
-            "repo": "tmux-kubectx",
-            "stars": 13,
-            "topics": [
-              "kubernetes",
-              "tmux",
-              "tmux-k8s",
-              "tmux-plugin",
-              "tmux-plugins"
-            ]
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
           "title": "tmux-current-pane-hostname",
           "description": "Show current user and hostname in ssh sessions",
           "children": [],
@@ -2738,6 +2711,33 @@
             "repo": "tmux-current-pane-hostname",
             "stars": 12,
             "topics": []
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-kubectx",
+          "description": "Show kubernetes context in statusbar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Display kubernetes context in tmux status line",
+            "homepage": null,
+            "id": 811483083,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-06-30T12:02:49Z",
+            "open_issues": 0,
+            "owner": "tony-sol",
+            "repo": "tmux-kubectx",
+            "stars": 12,
+            "topics": [
+              "kubernetes",
+              "tmux",
+              "tmux-k8s",
+              "tmux-plugin",
+              "tmux-plugins"
+            ]
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
         },
@@ -3054,7 +3054,7 @@
             "open_issues": 11,
             "owner": "Morantron",
             "repo": "tmux-fingers",
-            "stars": 1470,
+            "stars": 1471,
             "topics": [
               "hint",
               "keyboard-shortcuts",
@@ -3083,7 +3083,7 @@
             "open_issues": 24,
             "owner": "Ataraxy-Labs",
             "repo": "opensessions",
-            "stars": 1228,
+            "stars": 1227,
             "topics": [
               "agent-orchestration",
               "amp",
@@ -3216,7 +3216,7 @@
             "open_issues": 14,
             "owner": "wfxr",
             "repo": "tmux-fzf-url",
-            "stars": 732,
+            "stars": 733,
             "topics": [
               "cli",
               "fzf",
@@ -3239,7 +3239,7 @@
             "id": 425347798,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-12T12:02:02Z",
+            "last_commit": "2026-09-14T12:21:46Z",
             "open_issues": 0,
             "owner": "jaclu",
             "repo": "tmux-menus",
@@ -3326,11 +3326,40 @@
             "open_issues": 11,
             "owner": "eduwass",
             "repo": "tmux-palette",
-            "stars": 407,
+            "stars": 408,
             "topics": [
               "cli",
               "command-palette",
               "tmux"
+            ]
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-notify",
+          "description": "A plugin to notify you when processes are finished.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Tmux plugin to notify you when processes are finished.",
+            "homepage": null,
+            "id": 85560495,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-05-18T20:08:00Z",
+            "open_issues": 5,
+            "owner": "rickstaa",
+            "repo": "tmux-notify",
+            "stars": 277,
+            "topics": [
+              "notifications",
+              "notify-send",
+              "server-management",
+              "telegram",
+              "tmux",
+              "tmux-plugin",
+              "tmux-plugins"
             ]
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -3366,35 +3395,6 @@
         },
         {
           "node_type": "item",
-          "title": "tmux-notify",
-          "description": "A plugin to notify you when processes are finished.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Tmux plugin to notify you when processes are finished.",
-            "homepage": null,
-            "id": 85560495,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-05-18T20:08:00Z",
-            "open_issues": 5,
-            "owner": "rickstaa",
-            "repo": "tmux-notify",
-            "stars": 276,
-            "topics": [
-              "notifications",
-              "notify-send",
-              "server-management",
-              "telegram",
-              "tmux",
-              "tmux-plugin",
-              "tmux-plugins"
-            ]
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
           "title": "tmux-session-wizard",
           "description": "One prefix to control all your session creation, naming, switching, etc using fzf & zoxide.",
           "children": [],
@@ -3409,7 +3409,7 @@
             "open_issues": 0,
             "owner": "27medkamal",
             "repo": "tmux-session-wizard",
-            "stars": 260,
+            "stars": 261,
             "topics": [
               "dotfiles",
               "fzf",
@@ -3679,7 +3679,7 @@
             "open_issues": 8,
             "owner": "IngoMeyer441",
             "repo": "tmux-easy-motion",
-            "stars": 107,
+            "stars": 108,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -3814,7 +3814,7 @@
             "open_issues": 0,
             "owner": "brendandebeasi",
             "repo": "tabby",
-            "stars": 80,
+            "stars": 81,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -3862,7 +3862,7 @@
             "open_issues": 6,
             "owner": "CrispyConductor",
             "repo": "tmux-copy-toolkit",
-            "stars": 72,
+            "stars": 73,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4242,7 +4242,7 @@
             "open_issues": 0,
             "owner": "lloydbond",
             "repo": "tmux-floating-terminal",
-            "stars": 21,
+            "stars": 22,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4661,7 +4661,7 @@
                 "open_issues": 146,
                 "owner": "tmux-plugins",
                 "repo": "tpm",
-                "stars": 15075,
+                "stars": 15078,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4682,7 +4682,7 @@
                 "open_issues": 303,
                 "owner": "tmux-plugins",
                 "repo": "tmux-resurrect",
-                "stars": 13048,
+                "stars": 13051,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4703,7 +4703,7 @@
                 "open_issues": 96,
                 "owner": "tmux-plugins",
                 "repo": "tmux-continuum",
-                "stars": 4069,
+                "stars": 4072,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -5134,7 +5134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T13:27:46.264Z",
+    "last_updated": "2026-09-14T15:14:42.624Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for tmux",
@@ -5146,7 +5146,7 @@
       "open_issues": 6,
       "owner": "rothgar",
       "repo": "awesome-tmux",
-      "stars": 10337,
+      "stars": 10340,
       "topics": [
         "awesome",
         "awesome-list",
