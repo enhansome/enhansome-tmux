@@ -19,7 +19,7 @@
             "open_issues": 24,
             "owner": "gpakosz",
             "repo": ".tmux",
-            "stars": 25396,
+            "stars": 25395,
             "topics": [
               "cli",
               "conf",
@@ -164,7 +164,7 @@
             "open_issues": 242,
             "owner": "powerline",
             "repo": "powerline",
-            "stars": 14822,
+            "stars": 14821,
             "topics": [
               "bash",
               "fish",
@@ -237,7 +237,7 @@
             "id": 12398170,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-12T10:59:42Z",
+            "last_commit": "2026-09-20T11:40:48Z",
             "open_issues": 137,
             "owner": "tmux-python",
             "repo": "tmuxp",
@@ -269,7 +269,7 @@
             "id": 4647320,
             "language": "Shell",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-14T06:52:23Z",
+            "last_commit": "2026-09-20T07:12:57Z",
             "open_issues": 1,
             "owner": "erikw",
             "repo": "tmux-powerline",
@@ -310,7 +310,7 @@
             "open_issues": 99,
             "owner": "SeemSeam",
             "repo": "claude_codex_bridge",
-            "stars": 3512,
+            "stars": 3513,
             "topics": [
               "ai-coding",
               "ai-collaboration",
@@ -352,7 +352,7 @@
             "open_issues": 50,
             "owner": "joshmedeski",
             "repo": "sesh",
-            "stars": 2829,
+            "stars": 2828,
             "topics": [
               "productivity",
               "session-management",
@@ -401,7 +401,7 @@
             "open_issues": 20,
             "owner": "greymd",
             "repo": "tmux-xpanes",
-            "stars": 2108,
+            "stars": 2109,
             "topics": [
               "bash",
               "bash-script",
@@ -468,7 +468,7 @@
             "id": 59409425,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-17T22:29:37Z",
+            "last_commit": "2026-09-20T12:55:56Z",
             "open_issues": 161,
             "owner": "tmux-python",
             "repo": "libtmux",
@@ -1404,7 +1404,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15751,
+            "stars": 15754,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -2085,7 +2085,7 @@
             "open_issues": 0,
             "owner": "2KAbhishek",
             "repo": "tmux2k",
-            "stars": 467,
+            "stars": 468,
             "topics": [
               "cli",
               "plugin",
@@ -2111,8 +2111,8 @@
             "id": 462735031,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-04-20T05:25:00Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-20T12:58:22Z",
+            "open_issues": 7,
             "owner": "ofirgall",
             "repo": "tmux-window-name",
             "stars": 297,
@@ -2296,7 +2296,7 @@
             "open_issues": 0,
             "owner": "Dlurak",
             "repo": "muxbar",
-            "stars": 46,
+            "stars": 47,
             "topics": [
               "tmux",
               "tmux-statusline"
@@ -3054,7 +3054,7 @@
             "open_issues": 11,
             "owner": "Morantron",
             "repo": "tmux-fingers",
-            "stars": 1472,
+            "stars": 1473,
             "topics": [
               "hint",
               "keyboard-shortcuts",
@@ -3239,7 +3239,7 @@
             "id": 425347798,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-18T22:40:14Z",
+            "last_commit": "2026-09-19T17:03:31Z",
             "open_issues": 0,
             "owner": "jaclu",
             "repo": "tmux-menus",
@@ -3326,7 +3326,7 @@
             "open_issues": 11,
             "owner": "eduwass",
             "repo": "tmux-palette",
-            "stars": 408,
+            "stars": 409,
             "topics": [
               "cli",
               "command-palette",
@@ -3700,7 +3700,7 @@
             "open_issues": 5,
             "owner": "artemave",
             "repo": "tmux_super_fingers",
-            "stars": 106,
+            "stars": 107,
             "topics": [
               "tmux",
               "tmux-plugin",
@@ -3764,7 +3764,7 @@
             "open_issues": 5,
             "owner": "accessd",
             "repo": "tmux-agent-indicator",
-            "stars": 92,
+            "stars": 93,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -3814,7 +3814,7 @@
             "open_issues": 0,
             "owner": "brendandebeasi",
             "repo": "tabby",
-            "stars": 83,
+            "stars": 84,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4517,6 +4517,27 @@
         },
         {
           "node_type": "item",
+          "title": "tmux-ai-window-name",
+          "description": "Let an LLM automatically update your window names based on metadata about the window (Claude and local LLMs supported)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Dynamically update your tmux window names based on their content with AI",
+            "homepage": null,
+            "id": 1210690336,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-06-25T12:35:33Z",
+            "open_issues": 0,
+            "owner": "ndom91",
+            "repo": "tmux-ai-window-name",
+            "stars": 5,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
           "title": "tmux-gh",
           "description": "Tmux plugin to fetch the github helper profile. Displays, the currently actively authenticated git username.",
           "children": [],
@@ -4532,27 +4553,6 @@
             "owner": "tardunge",
             "repo": "tmux-gh",
             "stars": 5,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tmux-ai-window-name",
-          "description": "Let an LLM automatically update your window names based on metadata about the window (Claude and local LLMs supported)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Dynamically update your tmux window names based on their content with AI",
-            "homepage": null,
-            "id": 1210690336,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-06-25T12:35:33Z",
-            "open_issues": 0,
-            "owner": "ndom91",
-            "repo": "tmux-ai-window-name",
-            "stars": 4,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4661,7 +4661,7 @@
                 "open_issues": 145,
                 "owner": "tmux-plugins",
                 "repo": "tpm",
-                "stars": 15092,
+                "stars": 15095,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4817,7 +4817,7 @@
                 "open_issues": 29,
                 "owner": "tmux-plugins",
                 "repo": "tmux-open",
-                "stars": 740,
+                "stars": 741,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -5100,7 +5100,7 @@
             "open_issues": 0,
             "owner": "mapio",
             "repo": "tmux-tail-f",
-            "stars": 37,
+            "stars": 38,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -5134,7 +5134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T12:41:22.069Z",
+    "last_updated": "2026-09-20T13:12:40.559Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for tmux",
@@ -5146,7 +5146,7 @@
       "open_issues": 8,
       "owner": "rothgar",
       "repo": "awesome-tmux",
-      "stars": 10350,
+      "stars": 10351,
       "topics": [
         "awesome",
         "awesome-list",
