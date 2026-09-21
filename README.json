@@ -19,7 +19,7 @@
             "open_issues": 24,
             "owner": "gpakosz",
             "repo": ".tmux",
-            "stars": 25395,
+            "stars": 25396,
             "topics": [
               "cli",
               "conf",
@@ -196,7 +196,7 @@
             "open_issues": 97,
             "owner": "tmuxinator",
             "repo": "tmuxinator",
-            "stars": 13726,
+            "stars": 13728,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -217,7 +217,7 @@
             "open_issues": 90,
             "owner": "christoomey",
             "repo": "vim-tmux-navigator",
-            "stars": 6290,
+            "stars": 6291,
             "topics": [
               "tmux",
               "vim"
@@ -306,11 +306,11 @@
             "id": 1083162948,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-19T03:44:23Z",
-            "open_issues": 99,
+            "last_commit": "2026-09-21T02:23:27Z",
+            "open_issues": 101,
             "owner": "SeemSeam",
             "repo": "claude_codex_bridge",
-            "stars": 3513,
+            "stars": 3515,
             "topics": [
               "ai-coding",
               "ai-collaboration",
@@ -352,7 +352,7 @@
             "open_issues": 50,
             "owner": "joshmedeski",
             "repo": "sesh",
-            "stars": 2828,
+            "stars": 2831,
             "topics": [
               "productivity",
               "session-management",
@@ -378,7 +378,7 @@
             "open_issues": 22,
             "owner": "remi",
             "repo": "teamocil",
-            "stars": 2409,
+            "stars": 2410,
             "topics": [
               "tmux"
             ]
@@ -451,7 +451,7 @@
             "open_issues": 56,
             "owner": "omerxx",
             "repo": "tmux-sessionx",
-            "stars": 1379,
+            "stars": 1381,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -498,7 +498,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-06-30T08:20:41Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "ivaaaan",
             "repo": "smug",
             "stars": 911,
@@ -652,7 +652,7 @@
             "open_issues": 0,
             "owner": "laktak",
             "repo": "tome",
-            "stars": 176,
+            "stars": 177,
             "topics": [
               "automation",
               "history",
@@ -1404,7 +1404,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15754,
+            "stars": 15755,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -1475,7 +1475,7 @@
             "open_issues": 45,
             "owner": "nordtheme",
             "repo": "tmux",
-            "stars": 1200,
+            "stars": 1199,
             "topics": [
               "arctic",
               "clean",
@@ -2031,7 +2031,7 @@
             "open_issues": 20,
             "owner": "tmux-plugins",
             "repo": "tmux-cpu",
-            "stars": 538,
+            "stars": 539,
             "topics": [
               "bsd",
               "linux",
@@ -3054,7 +3054,7 @@
             "open_issues": 11,
             "owner": "Morantron",
             "repo": "tmux-fingers",
-            "stars": 1473,
+            "stars": 1472,
             "topics": [
               "hint",
               "keyboard-shortcuts",
@@ -3243,7 +3243,7 @@
             "open_issues": 0,
             "owner": "jaclu",
             "repo": "tmux-menus",
-            "stars": 540,
+            "stars": 541,
             "topics": [
               "display-menu",
               "popup-dialog",
@@ -4587,6 +4587,30 @@
         },
         {
           "node_type": "item",
+          "title": "tmux-ctrl",
+          "description": "Control tmux from the command line: session navigation, pane moving, and token extraction.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Nothing but a companion tool for Tmux",
+            "homepage": null,
+            "id": 1257913988,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-08-25T07:54:23Z",
+            "open_issues": 0,
+            "owner": "MunifTanjim",
+            "repo": "tmux-ctrl",
+            "stars": 1,
+            "topics": [
+              "tmux",
+              "tmux-plugin"
+            ]
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
           "title": "tmux-agent-view",
           "description": "Claude Code-style agent view — jump to any AI agent pane (Claude Code, Codex, aider) across sessions from a popup picker, grouped by live state, with screen preview. No hooks or daemon.",
           "children": [],
@@ -4617,30 +4641,6 @@
           "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
-          "node_type": "item",
-          "title": "tmux-ctrl",
-          "description": "Control tmux from the command line: session navigation, pane moving, and token extraction.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Nothing but a companion tool for Tmux",
-            "homepage": null,
-            "id": 1257913988,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2026-08-25T07:54:23Z",
-            "open_issues": 0,
-            "owner": "MunifTanjim",
-            "repo": "tmux-ctrl",
-            "stars": 0,
-            "topics": [
-              "tmux",
-              "tmux-plugin"
-            ]
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
           "node_type": "group",
           "title": "tmux-plugins",
           "description": "Official tmux plugins",
@@ -4661,7 +4661,7 @@
                 "open_issues": 145,
                 "owner": "tmux-plugins",
                 "repo": "tpm",
-                "stars": 15095,
+                "stars": 15096,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4682,7 +4682,7 @@
                 "open_issues": 304,
                 "owner": "tmux-plugins",
                 "repo": "tmux-resurrect",
-                "stars": 13066,
+                "stars": 13068,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4703,7 +4703,7 @@
                 "open_issues": 96,
                 "owner": "tmux-plugins",
                 "repo": "tmux-continuum",
-                "stars": 4076,
+                "stars": 4077,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4724,7 +4724,7 @@
                 "open_issues": 49,
                 "owner": "tmux-plugins",
                 "repo": "tmux-yank",
-                "stars": 3111,
+                "stars": 3112,
                 "topics": [
                   "clipboard",
                   "cygwin",
@@ -4922,7 +4922,7 @@
                 "open_issues": 0,
                 "owner": "azorng",
                 "repo": "tmux-smooth-scroll",
-                "stars": 79,
+                "stars": 80,
                 "topics": [
                   "plugin",
                   "scroll",
@@ -5134,7 +5134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T13:12:40.559Z",
+    "last_updated": "2026-09-21T15:19:32.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for tmux",
@@ -5146,7 +5146,7 @@
       "open_issues": 8,
       "owner": "rothgar",
       "repo": "awesome-tmux",
-      "stars": 10351,
+      "stars": 10350,
       "topics": [
         "awesome",
         "awesome-list",
