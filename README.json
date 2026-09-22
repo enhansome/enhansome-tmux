@@ -19,7 +19,7 @@
             "open_issues": 24,
             "owner": "gpakosz",
             "repo": ".tmux",
-            "stars": 25396,
+            "stars": 25394,
             "topics": [
               "cli",
               "conf",
@@ -164,7 +164,7 @@
             "open_issues": 242,
             "owner": "powerline",
             "repo": "powerline",
-            "stars": 14821,
+            "stars": 14822,
             "topics": [
               "bash",
               "fish",
@@ -214,7 +214,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-01-25T19:44:18Z",
-            "open_issues": 90,
+            "open_issues": 89,
             "owner": "christoomey",
             "repo": "vim-tmux-navigator",
             "stars": 6291,
@@ -241,7 +241,7 @@
             "open_issues": 137,
             "owner": "tmux-python",
             "repo": "tmuxp",
-            "stars": 4583,
+            "stars": 4584,
             "topics": [
               "cli",
               "cli-utilities",
@@ -310,7 +310,7 @@
             "open_issues": 101,
             "owner": "SeemSeam",
             "repo": "claude_codex_bridge",
-            "stars": 3515,
+            "stars": 3517,
             "topics": [
               "ai-coding",
               "ai-collaboration",
@@ -348,11 +348,11 @@
             "id": 736435794,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-17T14:50:52Z",
-            "open_issues": 50,
+            "last_commit": "2026-09-21T20:11:05Z",
+            "open_issues": 48,
             "owner": "joshmedeski",
             "repo": "sesh",
-            "stars": 2831,
+            "stars": 2833,
             "topics": [
               "productivity",
               "session-management",
@@ -451,7 +451,7 @@
             "open_issues": 56,
             "owner": "omerxx",
             "repo": "tmux-sessionx",
-            "stars": 1381,
+            "stars": 1382,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -1421,11 +1421,11 @@
             "id": 427086759,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-18T21:52:48Z",
-            "open_issues": 44,
+            "last_commit": "2026-09-21T21:33:28Z",
+            "open_issues": 42,
             "owner": "catppuccin",
             "repo": "tmux",
-            "stars": 3174,
+            "stars": 3171,
             "topics": [
               "catppuccin",
               "colors",
@@ -1509,7 +1509,7 @@
             "open_issues": 6,
             "owner": "seebi",
             "repo": "tmux-colors-solarized",
-            "stars": 1102,
+            "stars": 1101,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -1559,7 +1559,7 @@
             "open_issues": 6,
             "owner": "wfxr",
             "repo": "tmux-power",
-            "stars": 702,
+            "stars": 703,
             "topics": [
               "cli",
               "tmux",
@@ -1585,7 +1585,7 @@
             "open_issues": 15,
             "owner": "egel",
             "repo": "tmux-gruvbox",
-            "stars": 699,
+            "stars": 698,
             "topics": [
               "gruvbox",
               "gruvbox-color-scheme",
@@ -1765,7 +1765,7 @@
             "id": 1064891257,
             "language": "Just",
             "license": "MIT",
-            "last_commit": "2026-09-08T03:43:26Z",
+            "last_commit": "2026-09-22T13:34:47Z",
             "open_issues": 0,
             "owner": "uhs-robert",
             "repo": "tmux-oasis",
@@ -1930,7 +1930,7 @@
             "open_issues": 0,
             "owner": "thewtex",
             "repo": "tmux-mem-cpu-load",
-            "stars": 1129,
+            "stars": 1130,
             "topics": [
               "cpu-monitoring",
               "cross-platform",
@@ -1956,7 +1956,7 @@
             "open_issues": 9,
             "owner": "arl",
             "repo": "gitmux",
-            "stars": 795,
+            "stars": 794,
             "topics": [
               "bash",
               "cli",
@@ -2081,7 +2081,7 @@
             "id": 522734575,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-15T18:03:56Z",
+            "last_commit": "2026-09-21T21:54:31Z",
             "open_issues": 0,
             "owner": "2KAbhishek",
             "repo": "tmux2k",
@@ -2134,8 +2134,8 @@
             "id": 585976502,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-08-20T14:37:37Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-21T15:59:50Z",
+            "open_issues": 6,
             "owner": "joshmedeski",
             "repo": "tmux-nerd-font-window-name",
             "stars": 226,
@@ -2616,33 +2616,6 @@
         },
         {
           "node_type": "item",
-          "title": "tmux-mullvad",
-          "description": "Keep track of Mullvad VPN status.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Tmux plugin, keeps track of Mullvad VPN status",
-            "homepage": null,
-            "id": 427478559,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2024-08-24T18:48:32Z",
-            "open_issues": 0,
-            "owner": "jaclu",
-            "repo": "tmux-mullvad",
-            "stars": 15,
-            "topics": [
-              "mullvad",
-              "tmux",
-              "tmux-mullvad",
-              "tmux-plugin",
-              "tmux-plugins"
-            ]
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
           "title": "tmux-packet-loss",
           "description": "Displays packet loss % if at or above the specified threshold level",
           "children": [],
@@ -2689,6 +2662,33 @@
               "spotify",
               "tmux",
               "tmux-plugin"
+            ]
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-mullvad",
+          "description": "Keep track of Mullvad VPN status.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Tmux plugin, keeps track of Mullvad VPN status",
+            "homepage": null,
+            "id": 427478559,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2024-08-24T18:48:32Z",
+            "open_issues": 0,
+            "owner": "jaclu",
+            "repo": "tmux-mullvad",
+            "stars": 14,
+            "topics": [
+              "mullvad",
+              "tmux",
+              "tmux-mullvad",
+              "tmux-plugin",
+              "tmux-plugins"
             ]
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -3054,7 +3054,7 @@
             "open_issues": 11,
             "owner": "Morantron",
             "repo": "tmux-fingers",
-            "stars": 1472,
+            "stars": 1473,
             "topics": [
               "hint",
               "keyboard-shortcuts",
@@ -3142,7 +3142,7 @@
             "open_issues": 48,
             "owner": "fcsonline",
             "repo": "tmux-thumbs",
-            "stars": 1099,
+            "stars": 1100,
             "topics": [
               "rust",
               "tmux",
@@ -3169,7 +3169,7 @@
             "open_issues": 15,
             "owner": "NHDaly",
             "repo": "tmux-better-mouse-mode",
-            "stars": 986,
+            "stars": 985,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -3239,7 +3239,7 @@
             "id": 425347798,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-19T17:03:31Z",
+            "last_commit": "2026-09-21T19:13:03Z",
             "open_issues": 0,
             "owner": "jaclu",
             "repo": "tmux-menus",
@@ -3326,7 +3326,7 @@
             "open_issues": 11,
             "owner": "eduwass",
             "repo": "tmux-palette",
-            "stars": 409,
+            "stars": 410,
             "topics": [
               "cli",
               "command-palette",
@@ -3764,7 +3764,7 @@
             "open_issues": 5,
             "owner": "accessd",
             "repo": "tmux-agent-indicator",
-            "stars": 93,
+            "stars": 94,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4661,7 +4661,7 @@
                 "open_issues": 145,
                 "owner": "tmux-plugins",
                 "repo": "tpm",
-                "stars": 15096,
+                "stars": 15097,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4703,7 +4703,7 @@
                 "open_issues": 96,
                 "owner": "tmux-plugins",
                 "repo": "tmux-continuum",
-                "stars": 4077,
+                "stars": 4078,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -5134,7 +5134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T15:19:32.795Z",
+    "last_updated": "2026-09-22T13:39:46.518Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for tmux",
@@ -5146,7 +5146,7 @@
       "open_issues": 8,
       "owner": "rothgar",
       "repo": "awesome-tmux",
-      "stars": 10350,
+      "stars": 10348,
       "topics": [
         "awesome",
         "awesome-list",
