@@ -19,7 +19,7 @@
             "open_issues": 24,
             "owner": "gpakosz",
             "repo": ".tmux",
-            "stars": 25407,
+            "stars": 25409,
             "topics": [
               "cli",
               "conf",
@@ -196,7 +196,7 @@
             "open_issues": 97,
             "owner": "tmuxinator",
             "repo": "tmuxinator",
-            "stars": 13727,
+            "stars": 13729,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -217,7 +217,7 @@
             "open_issues": 89,
             "owner": "christoomey",
             "repo": "vim-tmux-navigator",
-            "stars": 6294,
+            "stars": 6296,
             "topics": [
               "tmux",
               "vim"
@@ -237,8 +237,8 @@
             "id": 12398170,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-26T12:37:46Z",
-            "open_issues": 137,
+            "last_commit": "2026-09-28T02:33:55Z",
+            "open_issues": 138,
             "owner": "tmux-python",
             "repo": "tmuxp",
             "stars": 4586,
@@ -306,11 +306,11 @@
             "id": 1083162948,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-27T07:25:40Z",
+            "last_commit": "2026-09-28T02:09:40Z",
             "open_issues": 102,
             "owner": "SeemSeam",
             "repo": "claude_codex_bridge",
-            "stars": 3525,
+            "stars": 3528,
             "topics": [
               "ai-coding",
               "ai-collaboration",
@@ -352,7 +352,7 @@
             "open_issues": 48,
             "owner": "joshmedeski",
             "repo": "sesh",
-            "stars": 2841,
+            "stars": 2843,
             "topics": [
               "productivity",
               "session-management",
@@ -451,7 +451,7 @@
             "open_issues": 56,
             "owner": "omerxx",
             "repo": "tmux-sessionx",
-            "stars": 1384,
+            "stars": 1386,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -468,11 +468,11 @@
             "id": 59409425,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-26T12:37:35Z",
-            "open_issues": 161,
+            "last_commit": "2026-09-28T02:54:05Z",
+            "open_issues": 162,
             "owner": "tmux-python",
             "repo": "libtmux",
-            "stars": 1210,
+            "stars": 1211,
             "topics": [
               "api",
               "cli",
@@ -501,7 +501,7 @@
             "open_issues": 12,
             "owner": "ivaaaan",
             "repo": "smug",
-            "stars": 910,
+            "stars": 911,
             "topics": [
               "go",
               "golang",
@@ -527,7 +527,7 @@
             "open_issues": 1,
             "owner": "fabioluciano",
             "repo": "tmux-powerkit",
-            "stars": 607,
+            "stars": 608,
             "topics": [
               "tmux",
               "tmux-framework",
@@ -549,7 +549,7 @@
             "id": 258881281,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2025-12-21T14:40:16Z",
+            "last_commit": "2026-09-27T21:43:26Z",
             "open_issues": 9,
             "owner": "zdcthomas",
             "repo": "dmux",
@@ -2085,7 +2085,7 @@
             "open_issues": 0,
             "owner": "2KAbhishek",
             "repo": "tmux2k",
-            "stars": 468,
+            "stars": 469,
             "topics": [
               "cli",
               "plugin",
@@ -2251,7 +2251,7 @@
             "open_issues": 14,
             "owner": "ilya-manin",
             "repo": "tmux-weather",
-            "stars": 82,
+            "stars": 83,
             "topics": [
               "tmux",
               "weather"
@@ -3083,7 +3083,7 @@
             "open_issues": 24,
             "owner": "Ataraxy-Labs",
             "repo": "opensessions",
-            "stars": 1229,
+            "stars": 1230,
             "topics": [
               "agent-orchestration",
               "amp",
@@ -3142,7 +3142,7 @@
             "open_issues": 48,
             "owner": "fcsonline",
             "repo": "tmux-thumbs",
-            "stars": 1099,
+            "stars": 1100,
             "topics": [
               "rust",
               "tmux",
@@ -3239,7 +3239,7 @@
             "id": 425347798,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-26T12:09:46Z",
+            "last_commit": "2026-09-28T15:04:51Z",
             "open_issues": 0,
             "owner": "jaclu",
             "repo": "tmux-menus",
@@ -3771,6 +3771,27 @@
         },
         {
           "node_type": "item",
+          "title": "tabby",
+          "description": "Modern tab manager with a daemon-driven vertical sidebar, window grouping, and full mouse support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Tabby - a vertical tmux tab manager with tab groups, themes and cats!",
+            "homepage": null,
+            "id": 1137988980,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-09-11T20:16:29Z",
+            "open_issues": 0,
+            "owner": "brendandebeasi",
+            "repo": "tabby",
+            "stars": 87,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
           "title": "tmux-tilit",
           "description": "Brings tiling window manager features and intuitive keybindings to your tmux workflow.",
           "children": [],
@@ -3795,27 +3816,6 @@
               "utility",
               "wm"
             ]
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tabby",
-          "description": "Modern tab manager with a daemon-driven vertical sidebar, window grouping, and full mouse support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Tabby - a vertical tmux tab manager with tab groups, themes and cats!",
-            "homepage": null,
-            "id": 1137988980,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2026-09-11T20:16:29Z",
-            "open_issues": 0,
-            "owner": "brendandebeasi",
-            "repo": "tabby",
-            "stars": 85,
-            "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
         },
@@ -4203,6 +4203,27 @@
         },
         {
           "node_type": "item",
+          "title": "tmux-floating-plugin",
+          "description": "A popup floating terminal window in tmux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Popup floating terminal pane in tmux",
+            "homepage": null,
+            "id": 870507710,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-01-29T04:32:52Z",
+            "open_issues": 0,
+            "owner": "lloydbond",
+            "repo": "tmux-floating-terminal",
+            "stars": 23,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
           "title": "tmux-compile",
           "description": "Run compile commands directly inside tmux with automatic pane handling.",
           "children": [],
@@ -4223,27 +4244,6 @@
               "tmux-plugin",
               "tmux-plugins"
             ]
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tmux-floating-plugin",
-          "description": "A popup floating terminal window in tmux.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Popup floating terminal pane in tmux",
-            "homepage": null,
-            "id": 870507710,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-01-29T04:32:52Z",
-            "open_issues": 0,
-            "owner": "lloydbond",
-            "repo": "tmux-floating-terminal",
-            "stars": 22,
-            "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
         },
@@ -4661,7 +4661,7 @@
                 "open_issues": 145,
                 "owner": "tmux-plugins",
                 "repo": "tpm",
-                "stars": 15104,
+                "stars": 15105,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4682,7 +4682,7 @@
                 "open_issues": 305,
                 "owner": "tmux-plugins",
                 "repo": "tmux-resurrect",
-                "stars": 13074,
+                "stars": 13077,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4724,7 +4724,7 @@
                 "open_issues": 49,
                 "owner": "tmux-plugins",
                 "repo": "tmux-yank",
-                "stars": 3115,
+                "stars": 3114,
                 "topics": [
                   "clipboard",
                   "cygwin",
@@ -5027,11 +5027,11 @@
             "id": 968983324,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T19:47:36Z",
+            "last_commit": "2026-09-28T16:59:08Z",
             "open_issues": 5,
             "owner": "alvinunreal",
             "repo": "tmuxai",
-            "stars": 1950,
+            "stars": 1951,
             "topics": [
               "ai",
               "assistant",
@@ -5134,7 +5134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T14:18:12.040Z",
+    "last_updated": "2026-09-28T17:00:40.459Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for tmux",
@@ -5146,7 +5146,7 @@
       "open_issues": 11,
       "owner": "rothgar",
       "repo": "awesome-tmux",
-      "stars": 10355,
+      "stars": 10359,
       "topics": [
         "awesome",
         "awesome-list",
