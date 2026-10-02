@@ -19,7 +19,7 @@
             "open_issues": 24,
             "owner": "gpakosz",
             "repo": ".tmux",
-            "stars": 25413,
+            "stars": 25415,
             "topics": [
               "cli",
               "conf",
@@ -214,7 +214,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-01-25T19:44:18Z",
-            "open_issues": 89,
+            "open_issues": 90,
             "owner": "christoomey",
             "repo": "vim-tmux-navigator",
             "stars": 6299,
@@ -310,7 +310,7 @@
             "open_issues": 102,
             "owner": "SeemSeam",
             "repo": "claude_codex_bridge",
-            "stars": 3541,
+            "stars": 3543,
             "topics": [
               "ai-coding",
               "ai-collaboration",
@@ -348,11 +348,11 @@
             "id": 736435794,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-30T21:13:07Z",
-            "open_issues": 48,
+            "last_commit": "2026-10-02T14:54:14Z",
+            "open_issues": 51,
             "owner": "joshmedeski",
             "repo": "sesh",
-            "stars": 2846,
+            "stars": 2847,
             "topics": [
               "productivity",
               "session-management",
@@ -468,11 +468,11 @@
             "id": 59409425,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-30T00:20:18Z",
+            "last_commit": "2026-10-02T14:57:24Z",
             "open_issues": 162,
             "owner": "tmux-python",
             "repo": "libtmux",
-            "stars": 1212,
+            "stars": 1214,
             "topics": [
               "api",
               "cli",
@@ -935,7 +935,7 @@
             "id": 893583628,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-01T05:29:12Z",
+            "last_commit": "2026-10-02T06:12:59Z",
             "open_issues": 0,
             "owner": "subbeh",
             "repo": "tmux-tpad",
@@ -1404,7 +1404,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15775,
+            "stars": 15776,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -1475,7 +1475,7 @@
             "open_issues": 45,
             "owner": "nordtheme",
             "repo": "tmux",
-            "stars": 1200,
+            "stars": 1201,
             "topics": [
               "arctic",
               "clean",
@@ -3113,7 +3113,7 @@
             "open_issues": 1,
             "owner": "laktak",
             "repo": "extrakto",
-            "stars": 1142,
+            "stars": 1143,
             "topics": [
               "autocomplete",
               "clipboard",
@@ -3239,7 +3239,7 @@
             "id": 425347798,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-30T14:00:50Z",
+            "last_commit": "2026-10-02T13:37:24Z",
             "open_issues": 0,
             "owner": "jaclu",
             "repo": "tmux-menus",
@@ -3299,7 +3299,7 @@
             "open_issues": 11,
             "owner": "schasse",
             "repo": "tmux-jump",
-            "stars": 480,
+            "stars": 481,
             "topics": [
               "ace-jump",
               "easymotion",
@@ -3711,6 +3711,27 @@
         },
         {
           "node_type": "item",
+          "title": "tmux-agent-indicator",
+          "description": "Track AI agent state (Claude, Codex, etc.) with pane borders, background colors, window titles, and status bar icons.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Tmux plugin that gives visual feedback for AI agent states (running/needs-input/done). Supports   Claude Code, Codex, and custom agents. Pane borders, window title colors, status bar icons.",
+            "homepage": null,
+            "id": 1158010253,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-09-30T08:21:03Z",
+            "open_issues": 5,
+            "owner": "accessd",
+            "repo": "tmux-agent-indicator",
+            "stars": 97,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
           "title": "tmux-fzf-session-switch",
           "description": "Easy way to switch, when you have a ton of sessions.",
           "children": [],
@@ -3745,27 +3766,6 @@
               "tmux-plugin",
               "tmux-plugins"
             ]
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tmux-agent-indicator",
-          "description": "Track AI agent state (Claude, Codex, etc.) with pane borders, background colors, window titles, and status bar icons.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Tmux plugin that gives visual feedback for AI agent states (running/needs-input/done). Supports   Claude Code, Codex, and custom agents. Pane borders, window title colors, status bar icons.",
-            "homepage": null,
-            "id": 1158010253,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-09-30T08:21:03Z",
-            "open_issues": 5,
-            "owner": "accessd",
-            "repo": "tmux-agent-indicator",
-            "stars": 96,
-            "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
         },
@@ -4203,6 +4203,27 @@
         },
         {
           "node_type": "item",
+          "title": "tmux-floating-plugin",
+          "description": "A popup floating terminal window in tmux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Popup floating terminal pane in tmux",
+            "homepage": null,
+            "id": 870507710,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-01-29T04:32:52Z",
+            "open_issues": 0,
+            "owner": "lloydbond",
+            "repo": "tmux-floating-terminal",
+            "stars": 24,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
           "title": "tmux-compile",
           "description": "Run compile commands directly inside tmux with automatic pane handling.",
           "children": [],
@@ -4223,27 +4244,6 @@
               "tmux-plugin",
               "tmux-plugins"
             ]
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tmux-floating-plugin",
-          "description": "A popup floating terminal window in tmux.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Popup floating terminal pane in tmux",
-            "homepage": null,
-            "id": 870507710,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-01-29T04:32:52Z",
-            "open_issues": 0,
-            "owner": "lloydbond",
-            "repo": "tmux-floating-terminal",
-            "stars": 23,
-            "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
         },
@@ -4682,7 +4682,7 @@
                 "open_issues": 305,
                 "owner": "tmux-plugins",
                 "repo": "tmux-resurrect",
-                "stars": 13078,
+                "stars": 13079,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4724,7 +4724,7 @@
                 "open_issues": 49,
                 "owner": "tmux-plugins",
                 "repo": "tmux-yank",
-                "stars": 3114,
+                "stars": 3115,
                 "topics": [
                   "clipboard",
                   "cygwin",
@@ -5031,7 +5031,7 @@
             "open_issues": 5,
             "owner": "alvinunreal",
             "repo": "tmuxai",
-            "stars": 1951,
+            "stars": 1950,
             "topics": [
               "ai",
               "assistant",
@@ -5134,7 +5134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T15:40:17.296Z",
+    "last_updated": "2026-10-02T15:00:13.409Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for tmux",
@@ -5146,7 +5146,7 @@
       "open_issues": 9,
       "owner": "rothgar",
       "repo": "awesome-tmux",
-      "stars": 10366,
+      "stars": 10367,
       "topics": [
         "awesome",
         "awesome-list",
