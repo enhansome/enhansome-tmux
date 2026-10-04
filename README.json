@@ -164,7 +164,7 @@
             "open_issues": 242,
             "owner": "powerline",
             "repo": "powerline",
-            "stars": 14820,
+            "stars": 14821,
             "topics": [
               "bash",
               "fish",
@@ -196,7 +196,7 @@
             "open_issues": 97,
             "owner": "tmuxinator",
             "repo": "tmuxinator",
-            "stars": 13732,
+            "stars": 13733,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -237,8 +237,8 @@
             "id": 12398170,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-03T11:33:01Z",
-            "open_issues": 138,
+            "last_commit": "2026-10-03T15:06:48Z",
+            "open_issues": 140,
             "owner": "tmux-python",
             "repo": "tmuxp",
             "stars": 4588,
@@ -310,7 +310,7 @@
             "open_issues": 102,
             "owner": "SeemSeam",
             "repo": "claude_codex_bridge",
-            "stars": 3544,
+            "stars": 3546,
             "topics": [
               "ai-coding",
               "ai-collaboration",
@@ -348,8 +348,8 @@
             "id": 736435794,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-02T15:07:54Z",
-            "open_issues": 50,
+            "last_commit": "2026-10-04T14:07:26Z",
+            "open_issues": 48,
             "owner": "joshmedeski",
             "repo": "sesh",
             "stars": 2852,
@@ -451,7 +451,7 @@
             "open_issues": 56,
             "owner": "omerxx",
             "repo": "tmux-sessionx",
-            "stars": 1388,
+            "stars": 1387,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -468,8 +468,8 @@
             "id": 59409425,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-03T11:31:34Z",
-            "open_issues": 162,
+            "last_commit": "2026-10-04T13:45:03Z",
+            "open_issues": 163,
             "owner": "tmux-python",
             "repo": "libtmux",
             "stars": 1214,
@@ -527,7 +527,7 @@
             "open_issues": 0,
             "owner": "fabioluciano",
             "repo": "tmux-powerkit",
-            "stars": 608,
+            "stars": 610,
             "topics": [
               "tmux",
               "tmux-framework",
@@ -1404,7 +1404,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15775,
+            "stars": 15777,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -1425,7 +1425,7 @@
             "open_issues": 43,
             "owner": "catppuccin",
             "repo": "tmux",
-            "stars": 3186,
+            "stars": 3188,
             "topics": [
               "catppuccin",
               "colors",
@@ -3083,7 +3083,7 @@
             "open_issues": 24,
             "owner": "Ataraxy-Labs",
             "repo": "opensessions",
-            "stars": 1230,
+            "stars": 1231,
             "topics": [
               "agent-orchestration",
               "amp",
@@ -3110,10 +3110,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-03-02T21:40:52Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "laktak",
             "repo": "extrakto",
-            "stars": 1143,
+            "stars": 1144,
             "topics": [
               "autocomplete",
               "clipboard",
@@ -3142,7 +3142,7 @@
             "open_issues": 48,
             "owner": "fcsonline",
             "repo": "tmux-thumbs",
-            "stars": 1102,
+            "stars": 1104,
             "topics": [
               "rust",
               "tmux",
@@ -3239,7 +3239,7 @@
             "id": 425347798,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-02T20:48:40Z",
+            "last_commit": "2026-10-03T20:27:23Z",
             "open_issues": 0,
             "owner": "jaclu",
             "repo": "tmux-menus",
@@ -3296,7 +3296,7 @@
             "language": "Ruby",
             "license": "GPL-3.0",
             "last_commit": "2026-07-23T14:29:42Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "schasse",
             "repo": "tmux-jump",
             "stars": 482,
@@ -3523,7 +3523,7 @@
             "open_issues": 4,
             "owner": "roosta",
             "repo": "tmux-fuzzback",
-            "stars": 188,
+            "stars": 189,
             "topics": [
               "fuzzy-search",
               "fzf",
@@ -4661,7 +4661,7 @@
                 "open_issues": 145,
                 "owner": "tmux-plugins",
                 "repo": "tpm",
-                "stars": 15105,
+                "stars": 15108,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4682,7 +4682,7 @@
                 "open_issues": 305,
                 "owner": "tmux-plugins",
                 "repo": "tmux-resurrect",
-                "stars": 13080,
+                "stars": 13084,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4724,7 +4724,7 @@
                 "open_issues": 49,
                 "owner": "tmux-plugins",
                 "repo": "tmux-yank",
-                "stars": 3115,
+                "stars": 3116,
                 "topics": [
                   "clipboard",
                   "cygwin",
@@ -5134,7 +5134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T13:54:31.921Z",
+    "last_updated": "2026-10-04T14:22:07.904Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for tmux",
@@ -5146,7 +5146,7 @@
       "open_issues": 10,
       "owner": "rothgar",
       "repo": "awesome-tmux",
-      "stars": 10369,
+      "stars": 10370,
       "topics": [
         "awesome",
         "awesome-list",
