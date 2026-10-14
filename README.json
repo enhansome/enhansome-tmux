@@ -273,7 +273,7 @@
             "open_issues": 0,
             "owner": "erikw",
             "repo": "tmux-powerline",
-            "stars": 3841,
+            "stars": 3842,
             "topics": [
               "bash",
               "configuration",
@@ -307,10 +307,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-13T16:26:06Z",
-            "open_issues": 105,
+            "open_issues": 104,
             "owner": "SeemSeam",
             "repo": "claude_codex_bridge",
-            "stars": 3570,
+            "stars": 3573,
             "topics": [
               "ai-coding",
               "ai-collaboration",
@@ -352,7 +352,7 @@
             "open_issues": 48,
             "owner": "joshmedeski",
             "repo": "sesh",
-            "stars": 2864,
+            "stars": 2867,
             "topics": [
               "productivity",
               "session-management",
@@ -501,7 +501,7 @@
             "open_issues": 12,
             "owner": "ivaaaan",
             "repo": "smug",
-            "stars": 911,
+            "stars": 912,
             "topics": [
               "go",
               "golang",
@@ -527,7 +527,7 @@
             "open_issues": 2,
             "owner": "fabioluciano",
             "repo": "tmux-powerkit",
-            "stars": 610,
+            "stars": 611,
             "topics": [
               "tmux",
               "tmux-framework",
@@ -627,7 +627,7 @@
             "open_issues": 0,
             "owner": "MunifTanjim",
             "repo": "tmux-suspend",
-            "stars": 180,
+            "stars": 181,
             "topics": [
               "tmux",
               "tmux-plugin",
@@ -773,7 +773,7 @@
             "open_issues": 2,
             "owner": "timvw",
             "repo": "tmux-assistant-resurrect",
-            "stars": 102,
+            "stars": 103,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -870,11 +870,32 @@
             "open_issues": 0,
             "owner": "subbeh",
             "repo": "tmux-tpad",
-            "stars": 49,
+            "stars": 50,
             "topics": [
               "tmux",
               "tmux-plugins"
             ]
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-lazy-restore",
+          "description": "A session manager that allows sessions to be lazily restored in order to save memory and CPU cycles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A tmux session manager plugin that allows sessions to be lazily restored in order to save memory and processing power, when compared to other session managers which generally restore all of your sessions at once.",
+            "homepage": null,
+            "id": 1027340977,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-01-29T00:40:49Z",
+            "open_issues": 3,
+            "owner": "bcampolo",
+            "repo": "tmux-lazy-restore",
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
         },
@@ -902,27 +923,6 @@
               "terminal",
               "tmux"
             ]
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tmux-lazy-restore",
-          "description": "A session manager that allows sessions to be lazily restored in order to save memory and CPU cycles.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A tmux session manager plugin that allows sessions to be lazily restored in order to save memory and processing power, when compared to other session managers which generally restore all of your sessions at once.",
-            "homepage": null,
-            "id": 1027340977,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-01-29T00:40:49Z",
-            "open_issues": 3,
-            "owner": "bcampolo",
-            "repo": "tmux-lazy-restore",
-            "stars": 45,
-            "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
         },
@@ -1315,6 +1315,27 @@
         },
         {
           "node_type": "item",
+          "title": "tmux-poltergeist",
+          "description": "Clipboard-like popup for injecting up to 10 text buffers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1125621668,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-01-18T03:56:05Z",
+            "open_issues": 0,
+            "owner": "dianoga-theory",
+            "repo": "tmux-poltergeist",
+            "stars": 5,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
           "title": "tmux-grip",
           "description": "Pin tmux sessions to fixed numbered slots with direct key jumps and a popup manager",
           "children": [],
@@ -1334,27 +1355,6 @@
               "tmux-plugins",
               "tpm"
             ]
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tmux-poltergeist",
-          "description": "Clipboard-like popup for injecting up to 10 text buffers",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1125621668,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-01-18T03:56:05Z",
-            "open_issues": 0,
-            "owner": "dianoga-theory",
-            "repo": "tmux-poltergeist",
-            "stars": 4,
-            "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
         },
@@ -1404,7 +1404,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15783,
+            "stars": 15785,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -1425,7 +1425,7 @@
             "open_issues": 43,
             "owner": "catppuccin",
             "repo": "tmux",
-            "stars": 3194,
+            "stars": 3195,
             "topics": [
               "catppuccin",
               "colors",
@@ -1475,7 +1475,7 @@
             "open_issues": 45,
             "owner": "nordtheme",
             "repo": "tmux",
-            "stars": 1203,
+            "stars": 1204,
             "topics": [
               "arctic",
               "clean",
@@ -1526,8 +1526,8 @@
             "id": 247190148,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-08-22T06:25:32Z",
-            "open_issues": 58,
+            "last_commit": "2026-10-14T06:28:31Z",
+            "open_issues": 57,
             "owner": "dracula",
             "repo": "tmux",
             "stars": 858,
@@ -1559,7 +1559,7 @@
             "open_issues": 6,
             "owner": "wfxr",
             "repo": "tmux-power",
-            "stars": 703,
+            "stars": 704,
             "topics": [
               "cli",
               "tmux",
@@ -2045,6 +2045,36 @@
         },
         {
           "node_type": "item",
+          "title": "tmux2k",
+          "description": "Highly customizable tmux status bar framework, providing you with a sleek and informative status bar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Make tmux powerful and pretty 🥊💅",
+            "homepage": null,
+            "id": 522734575,
+            "language": "Shell",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-23T16:47:10Z",
+            "open_issues": 0,
+            "owner": "2KAbhishek",
+            "repo": "tmux2k",
+            "stars": 473,
+            "topics": [
+              "cli",
+              "plugin",
+              "powerline",
+              "pretty",
+              "tmux",
+              "tools",
+              "tpm",
+              "utility"
+            ]
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
           "title": "tmux-pomodoro-plus",
           "description": "Incorporate the Pomodoro technique into your tmux workflow",
           "children": [],
@@ -2065,36 +2095,6 @@
               "tmux",
               "tmux-plugin",
               "tmux-plugins"
-            ]
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tmux2k",
-          "description": "Highly customizable tmux status bar framework, providing you with a sleek and informative status bar.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Make tmux powerful and pretty 🥊💅",
-            "homepage": null,
-            "id": 522734575,
-            "language": "Shell",
-            "license": "GPL-3.0",
-            "last_commit": "2026-09-23T16:47:10Z",
-            "open_issues": 0,
-            "owner": "2KAbhishek",
-            "repo": "tmux2k",
-            "stars": 471,
-            "topics": [
-              "cli",
-              "plugin",
-              "powerline",
-              "pretty",
-              "tmux",
-              "tools",
-              "tpm",
-              "utility"
             ]
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -3142,7 +3142,7 @@
             "open_issues": 48,
             "owner": "fcsonline",
             "repo": "tmux-thumbs",
-            "stars": 1102,
+            "stars": 1103,
             "topics": [
               "rust",
               "tmux",
@@ -3190,7 +3190,7 @@
             "open_issues": 6,
             "owner": "tweekmonster",
             "repo": "tmux2html",
-            "stars": 742,
+            "stars": 743,
             "topics": [
               "animation",
               "capture",
@@ -4661,7 +4661,7 @@
                 "open_issues": 145,
                 "owner": "tmux-plugins",
                 "repo": "tpm",
-                "stars": 15129,
+                "stars": 15132,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4682,7 +4682,7 @@
                 "open_issues": 306,
                 "owner": "tmux-plugins",
                 "repo": "tmux-resurrect",
-                "stars": 13095,
+                "stars": 13100,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4703,7 +4703,7 @@
                 "open_issues": 96,
                 "owner": "tmux-plugins",
                 "repo": "tmux-continuum",
-                "stars": 4090,
+                "stars": 4092,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4754,7 +4754,7 @@
                 "open_issues": 38,
                 "owner": "tmux-plugins",
                 "repo": "tmux-logging",
-                "stars": 1260,
+                "stars": 1259,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4856,7 +4856,7 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2023-05-16T17:13:16Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "tmux-plugins",
                 "repo": "tmux-sessionist",
                 "stars": 473,
@@ -5134,7 +5134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T16:26:33.962Z",
+    "last_updated": "2026-10-14T14:02:25.621Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for tmux",
@@ -5146,7 +5146,7 @@
       "open_issues": 10,
       "owner": "rothgar",
       "repo": "awesome-tmux",
-      "stars": 10385,
+      "stars": 10387,
       "topics": [
         "awesome",
         "awesome-list",
