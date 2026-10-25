@@ -19,7 +19,7 @@
             "open_issues": 24,
             "owner": "gpakosz",
             "repo": ".tmux",
-            "stars": 25444,
+            "stars": 25446,
             "topics": [
               "cli",
               "conf",
@@ -164,7 +164,7 @@
             "open_issues": 242,
             "owner": "powerline",
             "repo": "powerline",
-            "stars": 14832,
+            "stars": 14833,
             "topics": [
               "bash",
               "fish",
@@ -196,7 +196,7 @@
             "open_issues": 97,
             "owner": "tmuxinator",
             "repo": "tmuxinator",
-            "stars": 13736,
+            "stars": 13738,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -217,7 +217,7 @@
             "open_issues": 90,
             "owner": "christoomey",
             "repo": "vim-tmux-navigator",
-            "stars": 6313,
+            "stars": 6314,
             "topics": [
               "tmux",
               "vim"
@@ -237,11 +237,11 @@
             "id": 12398170,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-24T10:58:45Z",
+            "last_commit": "2026-10-25T01:45:05Z",
             "open_issues": 142,
             "owner": "tmux-python",
             "repo": "tmuxp",
-            "stars": 4589,
+            "stars": 4590,
             "topics": [
               "cli",
               "cli-utilities",
@@ -273,7 +273,7 @@
             "open_issues": 0,
             "owner": "erikw",
             "repo": "tmux-powerline",
-            "stars": 3843,
+            "stars": 3844,
             "topics": [
               "bash",
               "configuration",
@@ -310,7 +310,7 @@
             "open_issues": 104,
             "owner": "SeemSeam",
             "repo": "claude_codex_bridge",
-            "stars": 3592,
+            "stars": 3594,
             "topics": [
               "ai-coding",
               "ai-collaboration",
@@ -352,7 +352,7 @@
             "open_issues": 53,
             "owner": "joshmedeski",
             "repo": "sesh",
-            "stars": 2899,
+            "stars": 2901,
             "topics": [
               "productivity",
               "session-management",
@@ -468,7 +468,7 @@
             "id": 59409425,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-22T03:19:26Z",
+            "last_commit": "2026-10-25T01:42:58Z",
             "open_issues": 174,
             "owner": "tmux-python",
             "repo": "libtmux",
@@ -553,7 +553,7 @@
             "open_issues": 9,
             "owner": "zdcthomas",
             "repo": "dmux",
-            "stars": 376,
+            "stars": 377,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -738,6 +738,27 @@
         },
         {
           "node_type": "item",
+          "title": "tmux-assistant-resurrect",
+          "description": "Persist and restore AI assistant sessions (Claude Code, Codex CLI, etc.) across tmux restarts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Persist and restore AI coding assistant sessions (Claude Code, OpenCode, Codex CLI, Pi) across tmux restarts",
+            "homepage": null,
+            "id": 1158008171,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-10-21T15:23:15Z",
+            "open_issues": 6,
+            "owner": "timvw",
+            "repo": "tmux-assistant-resurrect",
+            "stars": 105,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
           "title": "tmux-cssh",
           "description": "Tmux with a \"ClusterSSH\"-like behavior",
           "children": [],
@@ -759,27 +780,6 @@
         },
         {
           "node_type": "item",
-          "title": "tmux-assistant-resurrect",
-          "description": "Persist and restore AI assistant sessions (Claude Code, Codex CLI, etc.) across tmux restarts",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Persist and restore AI coding assistant sessions (Claude Code, OpenCode, Codex CLI, Pi) across tmux restarts",
-            "homepage": null,
-            "id": 1158008171,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-10-21T15:23:15Z",
-            "open_issues": 6,
-            "owner": "timvw",
-            "repo": "tmux-assistant-resurrect",
-            "stars": 104,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
           "title": "tmux-tea",
           "description": "Session manager with previews, integrations with tmuxinator, fzf, neovim and more.",
           "children": [],
@@ -790,7 +790,7 @@
             "id": 706782500,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-25T06:46:31Z",
+            "last_commit": "2026-10-24T16:15:01Z",
             "open_issues": 0,
             "owner": "2KAbhishek",
             "repo": "tmux-tea",
@@ -1189,6 +1189,27 @@
         },
         {
           "node_type": "item",
+          "title": "tuimux",
+          "description": "A fast Rust TUI for everything tmux, with full CRUD support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A fast Rust TUI for everything tmux, with full CRUD support.",
+            "homepage": null,
+            "id": 1187562750,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-10-05T03:29:04Z",
+            "open_issues": 1,
+            "owner": "AlextheYounga",
+            "repo": "tuimux",
+            "stars": 8,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
           "title": "tmux-canvas",
           "description": "Create, save, and automate session layouts using executable shell script blueprints.",
           "children": [],
@@ -1263,27 +1284,6 @@
               "tmux-plugins",
               "tpm"
             ]
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tuimux",
-          "description": "A fast Rust TUI for everything tmux, with full CRUD support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A fast Rust TUI for everything tmux, with full CRUD support.",
-            "homepage": null,
-            "id": 1187562750,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2026-10-05T03:29:04Z",
-            "open_issues": 1,
-            "owner": "AlextheYounga",
-            "repo": "tuimux",
-            "stars": 7,
-            "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
         },
@@ -1425,7 +1425,7 @@
             "open_issues": 42,
             "owner": "catppuccin",
             "repo": "tmux",
-            "stars": 3204,
+            "stars": 3202,
             "topics": [
               "catppuccin",
               "colors",
@@ -1530,7 +1530,7 @@
             "open_issues": 55,
             "owner": "dracula",
             "repo": "tmux",
-            "stars": 859,
+            "stars": 857,
             "topics": [
               "dark-theme",
               "dracula",
@@ -1612,7 +1612,7 @@
             "open_issues": 5,
             "owner": "janoamaral",
             "repo": "tokyo-night-tmux",
-            "stars": 579,
+            "stars": 577,
             "topics": [
               "outrun",
               "theme",
@@ -1956,7 +1956,7 @@
             "open_issues": 9,
             "owner": "arl",
             "repo": "gitmux",
-            "stars": 798,
+            "stars": 799,
             "topics": [
               "bash",
               "cli",
@@ -2089,7 +2089,7 @@
             "open_issues": 6,
             "owner": "olimorris",
             "repo": "tmux-pomodoro-plus",
-            "stars": 473,
+            "stars": 472,
             "topics": [
               "pomodoro",
               "tmux",
@@ -3113,7 +3113,7 @@
             "open_issues": 2,
             "owner": "laktak",
             "repo": "extrakto",
-            "stars": 1150,
+            "stars": 1151,
             "topics": [
               "autocomplete",
               "clipboard",
@@ -3243,7 +3243,7 @@
             "open_issues": 0,
             "owner": "jaclu",
             "repo": "tmux-menus",
-            "stars": 542,
+            "stars": 543,
             "topics": [
               "display-menu",
               "popup-dialog",
@@ -3802,7 +3802,7 @@
             "id": 572371577,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-05T04:27:43Z",
+            "last_commit": "2026-10-24T16:16:03Z",
             "open_issues": 0,
             "owner": "2KAbhishek",
             "repo": "tmux-tilit",
@@ -4472,7 +4472,7 @@
             "id": 1047822843,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-10-20T08:52:54Z",
+            "last_commit": "2026-10-25T09:10:14Z",
             "open_issues": 0,
             "owner": "fiqryq",
             "repo": "port",
@@ -4661,7 +4661,7 @@
                 "open_issues": 144,
                 "owner": "tmux-plugins",
                 "repo": "tpm",
-                "stars": 15142,
+                "stars": 15146,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4682,7 +4682,7 @@
                 "open_issues": 310,
                 "owner": "tmux-plugins",
                 "repo": "tmux-resurrect",
-                "stars": 13111,
+                "stars": 13113,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4724,7 +4724,7 @@
                 "open_issues": 49,
                 "owner": "tmux-plugins",
                 "repo": "tmux-yank",
-                "stars": 3125,
+                "stars": 3126,
                 "topics": [
                   "clipboard",
                   "cygwin",
@@ -4754,7 +4754,7 @@
                 "open_issues": 38,
                 "owner": "tmux-plugins",
                 "repo": "tmux-logging",
-                "stars": 1261,
+                "stars": 1262,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -5031,7 +5031,7 @@
             "open_issues": 8,
             "owner": "alvinunreal",
             "repo": "tmuxai",
-            "stars": 1965,
+            "stars": 1966,
             "topics": [
               "ai",
               "assistant",
@@ -5134,7 +5134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T12:55:24.302Z",
+    "last_updated": "2026-10-25T13:21:06.609Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for tmux",
@@ -5146,7 +5146,7 @@
       "open_issues": 12,
       "owner": "rothgar",
       "repo": "awesome-tmux",
-      "stars": 10410,
+      "stars": 10415,
       "topics": [
         "awesome",
         "awesome-list",
