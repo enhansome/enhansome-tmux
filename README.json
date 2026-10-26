@@ -19,7 +19,7 @@
             "open_issues": 24,
             "owner": "gpakosz",
             "repo": ".tmux",
-            "stars": 25446,
+            "stars": 25448,
             "topics": [
               "cli",
               "conf",
@@ -164,7 +164,7 @@
             "open_issues": 242,
             "owner": "powerline",
             "repo": "powerline",
-            "stars": 14833,
+            "stars": 14834,
             "topics": [
               "bash",
               "fish",
@@ -237,11 +237,11 @@
             "id": 12398170,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-25T01:45:05Z",
-            "open_issues": 142,
+            "last_commit": "2026-10-25T15:33:58Z",
+            "open_issues": 143,
             "owner": "tmux-python",
             "repo": "tmuxp",
-            "stars": 4590,
+            "stars": 4591,
             "topics": [
               "cli",
               "cli-utilities",
@@ -306,11 +306,11 @@
             "id": 1083162948,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T01:29:24Z",
-            "open_issues": 104,
+            "last_commit": "2026-10-26T06:30:43Z",
+            "open_issues": 105,
             "owner": "SeemSeam",
             "repo": "claude_codex_bridge",
-            "stars": 3594,
+            "stars": 3595,
             "topics": [
               "ai-coding",
               "ai-collaboration",
@@ -348,7 +348,7 @@
             "id": 736435794,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-22T16:24:03Z",
+            "last_commit": "2026-10-25T15:43:54Z",
             "open_issues": 53,
             "owner": "joshmedeski",
             "repo": "sesh",
@@ -401,7 +401,7 @@
             "open_issues": 20,
             "owner": "greymd",
             "repo": "tmux-xpanes",
-            "stars": 2112,
+            "stars": 2111,
             "topics": [
               "bash",
               "bash-script",
@@ -451,7 +451,7 @@
             "open_issues": 53,
             "owner": "omerxx",
             "repo": "tmux-sessionx",
-            "stars": 1402,
+            "stars": 1403,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -468,8 +468,8 @@
             "id": 59409425,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-25T01:42:58Z",
-            "open_issues": 174,
+            "last_commit": "2026-10-26T09:02:49Z",
+            "open_issues": 175,
             "owner": "tmux-python",
             "repo": "libtmux",
             "stars": 1216,
@@ -749,7 +749,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-10-21T15:23:15Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "timvw",
             "repo": "tmux-assistant-resurrect",
             "stars": 105,
@@ -1189,6 +1189,30 @@
         },
         {
           "node_type": "item",
+          "title": "tmux-canvas",
+          "description": "Create, save, and automate session layouts using executable shell script blueprints.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Create and update custom session layouts for tmux",
+            "homepage": null,
+            "id": 1141008805,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-05-21T00:15:26Z",
+            "open_issues": 0,
+            "owner": "juancruzfl",
+            "repo": "tmux-layouts",
+            "stars": 9,
+            "topics": [
+              "tmux",
+              "tmux-plugin"
+            ]
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
           "title": "tuimux",
           "description": "A fast Rust TUI for everything tmux, with full CRUD support.",
           "children": [],
@@ -1205,30 +1229,6 @@
             "repo": "tuimux",
             "stars": 8,
             "topics": []
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tmux-canvas",
-          "description": "Create, save, and automate session layouts using executable shell script blueprints.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Create and update custom session layouts for tmux",
-            "homepage": null,
-            "id": 1141008805,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-05-21T00:15:26Z",
-            "open_issues": 0,
-            "owner": "juancruzfl",
-            "repo": "tmux-layouts",
-            "stars": 8,
-            "topics": [
-              "tmux",
-              "tmux-plugin"
-            ]
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
         },
@@ -1404,7 +1404,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15803,
+            "stars": 15809,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -1425,7 +1425,7 @@
             "open_issues": 42,
             "owner": "catppuccin",
             "repo": "tmux",
-            "stars": 3202,
+            "stars": 3204,
             "topics": [
               "catppuccin",
               "colors",
@@ -1475,7 +1475,7 @@
             "open_issues": 45,
             "owner": "nordtheme",
             "repo": "tmux",
-            "stars": 1205,
+            "stars": 1206,
             "topics": [
               "arctic",
               "clean",
@@ -1559,7 +1559,7 @@
             "open_issues": 6,
             "owner": "wfxr",
             "repo": "tmux-power",
-            "stars": 704,
+            "stars": 705,
             "topics": [
               "cli",
               "tmux",
@@ -1930,7 +1930,7 @@
             "open_issues": 1,
             "owner": "thewtex",
             "repo": "tmux-mem-cpu-load",
-            "stars": 1131,
+            "stars": 1132,
             "topics": [
               "cpu-monitoring",
               "cross-platform",
@@ -3083,7 +3083,7 @@
             "open_issues": 25,
             "owner": "Ataraxy-Labs",
             "repo": "opensessions",
-            "stars": 1234,
+            "stars": 1235,
             "topics": [
               "agent-orchestration",
               "amp",
@@ -3113,7 +3113,7 @@
             "open_issues": 2,
             "owner": "laktak",
             "repo": "extrakto",
-            "stars": 1151,
+            "stars": 1152,
             "topics": [
               "autocomplete",
               "clipboard",
@@ -3380,7 +3380,7 @@
             "open_issues": 5,
             "owner": "yardnsm",
             "repo": "tmux-1password",
-            "stars": 277,
+            "stars": 278,
             "topics": [
               "1password",
               "1password-cli",
@@ -3493,7 +3493,7 @@
             "open_issues": 0,
             "owner": "saysjonathan",
             "repo": "dwm.tmux",
-            "stars": 191,
+            "stars": 192,
             "topics": [
               "shell",
               "terminal",
@@ -4462,35 +4462,6 @@
         },
         {
           "node_type": "item",
-          "title": "tmux-port",
-          "description": "A tiny tmux plugin to view listening ports and kill processes — in a centered popup or split panes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A tiny tmux plugin to view listening ports, kill processes, and tunnel them out — in an fzf-driven popup.",
-            "homepage": null,
-            "id": 1047822843,
-            "language": "Shell",
-            "license": null,
-            "last_commit": "2026-10-25T09:10:14Z",
-            "open_issues": 0,
-            "owner": "fiqryq",
-            "repo": "port",
-            "stars": 7,
-            "topics": [
-              "lsof",
-              "nvim",
-              "plugins",
-              "port",
-              "terminal",
-              "tmux",
-              "vim"
-            ]
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
           "title": "back-in-5",
           "description": "display a \"Back soon\" message for remote collaboration",
           "children": [],
@@ -4661,7 +4632,7 @@
                 "open_issues": 144,
                 "owner": "tmux-plugins",
                 "repo": "tpm",
-                "stars": 15146,
+                "stars": 15148,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4682,7 +4653,7 @@
                 "open_issues": 310,
                 "owner": "tmux-plugins",
                 "repo": "tmux-resurrect",
-                "stars": 13113,
+                "stars": 13112,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -5027,11 +4998,11 @@
             "id": 968983324,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T07:16:48Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-25T20:46:12Z",
+            "open_issues": 7,
             "owner": "alvinunreal",
             "repo": "tmuxai",
-            "stars": 1966,
+            "stars": 1965,
             "topics": [
               "ai",
               "assistant",
@@ -5134,7 +5105,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T13:21:06.609Z",
+    "last_updated": "2026-10-26T15:28:05.484Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for tmux",
@@ -5146,7 +5117,7 @@
       "open_issues": 12,
       "owner": "rothgar",
       "repo": "awesome-tmux",
-      "stars": 10415,
+      "stars": 10417,
       "topics": [
         "awesome",
         "awesome-list",
