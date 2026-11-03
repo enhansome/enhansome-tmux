@@ -19,7 +19,7 @@
             "open_issues": 24,
             "owner": "gpakosz",
             "repo": ".tmux",
-            "stars": 25466,
+            "stars": 25464,
             "topics": [
               "cli",
               "conf",
@@ -348,8 +348,8 @@
             "id": 736435794,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-02T16:36:58Z",
-            "open_issues": 58,
+            "last_commit": "2026-11-03T16:24:07Z",
+            "open_issues": 60,
             "owner": "joshmedeski",
             "repo": "sesh",
             "stars": 2920,
@@ -468,7 +468,7 @@
             "id": 59409425,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-01T22:00:34Z",
+            "last_commit": "2026-11-03T07:24:36Z",
             "open_issues": 190,
             "owner": "tmux-python",
             "repo": "libtmux",
@@ -523,8 +523,8 @@
             "id": 635097749,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-27T06:21:33Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-02T20:13:52Z",
+            "open_issues": 1,
             "owner": "fabioluciano",
             "repo": "tmux-powerkit",
             "stars": 617,
@@ -1404,7 +1404,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15827,
+            "stars": 15826,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -1425,7 +1425,7 @@
             "open_issues": 42,
             "owner": "catppuccin",
             "repo": "tmux",
-            "stars": 3213,
+            "stars": 3212,
             "topics": [
               "catppuccin",
               "colors",
@@ -1454,7 +1454,7 @@
             "open_issues": 32,
             "owner": "jimeh",
             "repo": "tmux-themepack",
-            "stars": 1757,
+            "stars": 1756,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -3113,7 +3113,7 @@
             "open_issues": 2,
             "owner": "laktak",
             "repo": "extrakto",
-            "stars": 1157,
+            "stars": 1158,
             "topics": [
               "autocomplete",
               "clipboard",
@@ -3142,7 +3142,7 @@
             "open_issues": 48,
             "owner": "fcsonline",
             "repo": "tmux-thumbs",
-            "stars": 1105,
+            "stars": 1104,
             "topics": [
               "rust",
               "tmux",
@@ -3216,7 +3216,7 @@
             "open_issues": 14,
             "owner": "wfxr",
             "repo": "tmux-fzf-url",
-            "stars": 739,
+            "stars": 740,
             "topics": [
               "cli",
               "fzf",
@@ -3239,11 +3239,11 @@
             "id": 425347798,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-02T13:01:16Z",
+            "last_commit": "2026-11-02T23:46:47Z",
             "open_issues": 0,
             "owner": "jaclu",
             "repo": "tmux-menus",
-            "stars": 544,
+            "stars": 543,
             "topics": [
               "display-menu",
               "popup-dialog",
@@ -3326,7 +3326,7 @@
             "open_issues": 13,
             "owner": "eduwass",
             "repo": "tmux-palette",
-            "stars": 412,
+            "stars": 411,
             "topics": [
               "cli",
               "command-palette",
@@ -3351,7 +3351,7 @@
             "open_issues": 12,
             "owner": "rickstaa",
             "repo": "tmux-notify",
-            "stars": 283,
+            "stars": 284,
             "topics": [
               "notifications",
               "notify-send",
@@ -3409,7 +3409,7 @@
             "open_issues": 1,
             "owner": "27medkamal",
             "repo": "tmux-session-wizard",
-            "stars": 266,
+            "stars": 267,
             "topics": [
               "dotfiles",
               "fzf",
@@ -4139,8 +4139,32 @@
             "open_issues": 0,
             "owner": "lloydbond",
             "repo": "tmux-floating-terminal",
-            "stars": 25,
+            "stars": 26,
             "topics": []
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-devcontainers",
+          "description": "Manage and interact with (Devcontainers)[https://containers.dev]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Tmux plugin for working with dev containers",
+            "homepage": null,
+            "id": 955454040,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-06-16T20:27:50Z",
+            "open_issues": 6,
+            "owner": "phil",
+            "repo": "tmux-devcontainers",
+            "stars": 25,
+            "topics": [
+              "tmux-plugin",
+              "tmux-plugins"
+            ]
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
         },
@@ -4194,30 +4218,6 @@
               "plugin",
               "spotify",
               "tmux"
-            ]
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tmux-devcontainers",
-          "description": "Manage and interact with (Devcontainers)[https://containers.dev]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Tmux plugin for working with dev containers",
-            "homepage": null,
-            "id": 955454040,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-06-16T20:27:50Z",
-            "open_issues": 6,
-            "owner": "phil",
-            "repo": "tmux-devcontainers",
-            "stars": 24,
-            "topics": [
-              "tmux-plugin",
-              "tmux-plugins"
             ]
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -5105,7 +5105,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T18:49:46.803Z",
+    "last_updated": "2026-11-03T16:32:54.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for tmux",
@@ -5117,7 +5117,7 @@
       "open_issues": 14,
       "owner": "rothgar",
       "repo": "awesome-tmux",
-      "stars": 10433,
+      "stars": 10435,
       "topics": [
         "awesome",
         "awesome-list",
