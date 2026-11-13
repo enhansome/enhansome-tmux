@@ -19,7 +19,7 @@
             "open_issues": 24,
             "owner": "gpakosz",
             "repo": ".tmux",
-            "stars": 25471,
+            "stars": 25472,
             "topics": [
               "cli",
               "conf",
@@ -196,7 +196,7 @@
             "open_issues": 97,
             "owner": "tmuxinator",
             "repo": "tmuxinator",
-            "stars": 13748,
+            "stars": 13744,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -237,11 +237,11 @@
             "id": 12398170,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-12T01:26:03Z",
-            "open_issues": 141,
+            "last_commit": "2026-11-13T04:40:18Z",
+            "open_issues": 142,
             "owner": "tmux-python",
             "repo": "tmuxp",
-            "stars": 4597,
+            "stars": 4601,
             "topics": [
               "cli",
               "cli-utilities",
@@ -378,7 +378,7 @@
             "open_issues": 22,
             "owner": "remi",
             "repo": "teamocil",
-            "stars": 2406,
+            "stars": 2407,
             "topics": [
               "tmux"
             ]
@@ -401,7 +401,7 @@
             "open_issues": 20,
             "owner": "greymd",
             "repo": "tmux-xpanes",
-            "stars": 2114,
+            "stars": 2115,
             "topics": [
               "bash",
               "bash-script",
@@ -451,7 +451,7 @@
             "open_issues": 53,
             "owner": "omerxx",
             "repo": "tmux-sessionx",
-            "stars": 1407,
+            "stars": 1408,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -501,7 +501,7 @@
             "open_issues": 12,
             "owner": "ivaaaan",
             "repo": "smug",
-            "stars": 915,
+            "stars": 911,
             "topics": [
               "go",
               "golang",
@@ -749,7 +749,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-11-09T14:38:11Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "timvw",
             "repo": "tmux-assistant-resurrect",
             "stars": 108,
@@ -1404,7 +1404,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15838,
+            "stars": 15836,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -1425,7 +1425,7 @@
             "open_issues": 42,
             "owner": "catppuccin",
             "repo": "tmux",
-            "stars": 3220,
+            "stars": 3221,
             "topics": [
               "catppuccin",
               "colors",
@@ -1581,8 +1581,8 @@
             "id": 64149901,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2025-05-29T11:21:57Z",
-            "open_issues": 15,
+            "last_commit": "2026-11-13T13:02:29Z",
+            "open_issues": 13,
             "owner": "egel",
             "repo": "tmux-gruvbox",
             "stars": 703,
@@ -1690,7 +1690,7 @@
             "open_issues": 2,
             "owner": "o0th",
             "repo": "tmux-nova",
-            "stars": 216,
+            "stars": 217,
             "topics": [
               "dracula-color-scheme",
               "nord-color-scheme",
@@ -3588,6 +3588,27 @@
         },
         {
           "node_type": "item",
+          "title": "tmux-wormhole",
+          "description": "Use tmux to download files with magic wormhole",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "tmux-wormhole - download files and directories with tmux!",
+            "homepage": null,
+            "id": 354670306,
+            "language": "Go",
+            "license": null,
+            "last_commit": "2024-02-22T18:40:30Z",
+            "open_issues": 3,
+            "owner": "gcla",
+            "repo": "tmux-wormhole",
+            "stars": 124,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
           "title": "tmux-autoreload",
           "description": "Watches your tmux configuration file and automatically reloads it on change.",
           "children": [],
@@ -3609,27 +3630,6 @@
               "tmux-plugin",
               "tmux-plugins"
             ]
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tmux-wormhole",
-          "description": "Use tmux to download files with magic wormhole",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "tmux-wormhole - download files and directories with tmux!",
-            "homepage": null,
-            "id": 354670306,
-            "language": "Go",
-            "license": null,
-            "last_commit": "2024-02-22T18:40:30Z",
-            "open_issues": 3,
-            "owner": "gcla",
-            "repo": "tmux-wormhole",
-            "stars": 123,
-            "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
         },
@@ -3725,7 +3725,7 @@
             "open_issues": 6,
             "owner": "accessd",
             "repo": "tmux-agent-indicator",
-            "stars": 102,
+            "stars": 103,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4653,7 +4653,7 @@
                 "open_issues": 311,
                 "owner": "tmux-plugins",
                 "repo": "tmux-resurrect",
-                "stars": 13137,
+                "stars": 13141,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4674,7 +4674,7 @@
                 "open_issues": 96,
                 "owner": "tmux-plugins",
                 "repo": "tmux-continuum",
-                "stars": 4112,
+                "stars": 4113,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -5105,7 +5105,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T17:04:05.484Z",
+    "last_updated": "2026-11-13T16:43:48.753Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for tmux",
@@ -5117,7 +5117,7 @@
       "open_issues": 15,
       "owner": "rothgar",
       "repo": "awesome-tmux",
-      "stars": 10459,
+      "stars": 10463,
       "topics": [
         "awesome",
         "awesome-list",
