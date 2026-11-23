@@ -19,7 +19,7 @@
             "open_issues": 24,
             "owner": "gpakosz",
             "repo": ".tmux",
-            "stars": 25477,
+            "stars": 25478,
             "topics": [
               "cli",
               "conf",
@@ -164,7 +164,7 @@
             "open_issues": 243,
             "owner": "powerline",
             "repo": "powerline",
-            "stars": 14854,
+            "stars": 14856,
             "topics": [
               "bash",
               "fish",
@@ -196,7 +196,7 @@
             "open_issues": 97,
             "owner": "tmuxinator",
             "repo": "tmuxinator",
-            "stars": 13745,
+            "stars": 13744,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -214,7 +214,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-11-18T01:38:07Z",
-            "open_issues": 90,
+            "open_issues": 91,
             "owner": "christoomey",
             "repo": "vim-tmux-navigator",
             "stars": 6322,
@@ -237,8 +237,8 @@
             "id": 12398170,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-22T15:48:45Z",
-            "open_issues": 143,
+            "last_commit": "2026-11-23T01:31:01Z",
+            "open_issues": 142,
             "owner": "tmux-python",
             "repo": "tmuxp",
             "stars": 4601,
@@ -296,48 +296,6 @@
         },
         {
           "node_type": "item",
-          "title": "ccb",
-          "description": "A CLI tool to orchestrate multiple LLMs (Claude, Gemini, etc.) in tmux panes with cross-agent interaction",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, Cursor, Copilot, Pi, OpenCode, and other AI coding agents",
-            "homepage": null,
-            "id": 1083162948,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-11-20T04:40:51Z",
-            "open_issues": 106,
-            "owner": "SeemSeam",
-            "repo": "claude_codex_bridge",
-            "stars": 3630,
-            "topics": [
-              "ai-coding",
-              "ai-collaboration",
-              "antigravity",
-              "claude-code",
-              "cli",
-              "codex",
-              "coding-agent",
-              "crush",
-              "cursor-agent",
-              "gemini",
-              "github-copilot",
-              "kimi",
-              "kiro",
-              "multi-agent-cli",
-              "multi-agent-systems",
-              "opencode",
-              "pi-coding-agent",
-              "qwen-code",
-              "terminal",
-              "tmux"
-            ]
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
           "title": "sesh",
           "description": "Smart session manager for the terminal",
           "children": [],
@@ -348,11 +306,11 @@
             "id": 736435794,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-20T17:40:09Z",
+            "last_commit": "2026-11-23T16:29:57Z",
             "open_issues": 52,
             "owner": "joshmedeski",
             "repo": "sesh",
-            "stars": 2936,
+            "stars": 2937,
             "topics": [
               "productivity",
               "session-management",
@@ -468,8 +426,8 @@
             "id": 59409425,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-22T16:27:31Z",
-            "open_issues": 174,
+            "last_commit": "2026-11-23T03:15:00Z",
+            "open_issues": 182,
             "owner": "tmux-python",
             "repo": "libtmux",
             "stars": 1218,
@@ -738,27 +696,6 @@
         },
         {
           "node_type": "item",
-          "title": "tmux-assistant-resurrect",
-          "description": "Persist and restore AI assistant sessions (Claude Code, Codex CLI, etc.) across tmux restarts",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Persist and restore AI coding assistant sessions (Claude Code, OpenCode, Codex CLI, Pi) across tmux restarts",
-            "homepage": null,
-            "id": 1158008171,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-11-19T06:47:58Z",
-            "open_issues": 2,
-            "owner": "timvw",
-            "repo": "tmux-assistant-resurrect",
-            "stars": 110,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
           "title": "tmux-cssh",
           "description": "Tmux with a \"ClusterSSH\"-like behavior",
           "children": [],
@@ -997,27 +934,6 @@
         },
         {
           "node_type": "item",
-          "title": "lazyclaude",
-          "description": "A lazygit-inspired TUI for managing multiple Claude Code sessions with live previews, activity tracking, and permission prompts in a tmux popup",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Claude AI session manager for tmux",
-            "homepage": null,
-            "id": 1179753174,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2026-04-16T10:19:31Z",
-            "open_issues": 2,
-            "owner": "any-context",
-            "repo": "lazyclaude",
-            "stars": 24,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
           "title": "tmux-cookie-cutter",
           "description": "A YAML based session builder, configuring windows, panes and environments automatically",
           "children": [],
@@ -1189,7 +1105,28 @@
         },
         {
           "node_type": "item",
-          "title": "tmux-canvas",
+          "title": "tuimux",
+          "description": "A fast Rust TUI for everything tmux, with full CRUD support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A fast Rust TUI for everything tmux, with full CRUD support.",
+            "homepage": null,
+            "id": 1187562750,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-10-28T16:44:58Z",
+            "open_issues": 0,
+            "owner": "AlextheYounga",
+            "repo": "tuimux",
+            "stars": 9,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-layouts",
           "description": "Create, save, and automate session layouts using executable shell script blueprints.",
           "children": [],
           "repo_info": {
@@ -1208,27 +1145,6 @@
               "tmux",
               "tmux-plugin"
             ]
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tuimux",
-          "description": "A fast Rust TUI for everything tmux, with full CRUD support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A fast Rust TUI for everything tmux, with full CRUD support.",
-            "homepage": null,
-            "id": 1187562750,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2026-10-28T16:44:58Z",
-            "open_issues": 0,
-            "owner": "AlextheYounga",
-            "repo": "tuimux",
-            "stars": 8,
-            "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
         },
@@ -1360,6 +1276,34 @@
         },
         {
           "node_type": "item",
+          "title": "glazier",
+          "description": "Declaratively manage tmux sessions, windows, panes and other things with Terraform-like HCL-based configuration files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Declaratively manage tmux sessions, windows, panes and other things with HCL-based configuration files.",
+            "homepage": null,
+            "id": 1267331153,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-11-23T17:09:23Z",
+            "open_issues": 2,
+            "owner": "wilhelm-murdoch",
+            "repo": "glazier",
+            "stars": 2,
+            "topics": [
+              "developer-tools",
+              "devtools",
+              "go",
+              "golang",
+              "hcl2",
+              "tmux"
+            ]
+          },
+          "first_seen": "2026-11-23T20:33:07.298Z"
+        },
+        {
+          "node_type": "item",
           "title": "tmux-pocket-pane",
           "description": "Easily toggle named side panes in tmux. Launch on demand, hide when done, recall with the same shell session intact.",
           "children": [],
@@ -1386,6 +1330,355 @@
       "title": "Tools and session management"
     },
     {
+      "description": "Tools and plugins for running, monitoring, and managing AI coding agents in tmux.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ccb",
+          "description": "A CLI tool to orchestrate multiple LLMs (Claude, Gemini, etc.) in tmux panes with cross-agent interaction",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Visible multi-agent CLI workspace for mixing Codex, Claude, Gemini, Kimi, Qwen, Cursor, Copilot, Pi, OpenCode, and other AI coding agents",
+            "homepage": null,
+            "id": 1083162948,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-23T06:48:08Z",
+            "open_issues": 106,
+            "owner": "SeemSeam",
+            "repo": "claude_codex_bridge",
+            "stars": 3633,
+            "topics": [
+              "ai-coding",
+              "ai-collaboration",
+              "antigravity",
+              "claude-code",
+              "cli",
+              "codex",
+              "coding-agent",
+              "crush",
+              "cursor-agent",
+              "gemini",
+              "github-copilot",
+              "kimi",
+              "kiro",
+              "multi-agent-cli",
+              "multi-agent-systems",
+              "opencode",
+              "pi-coding-agent",
+              "qwen-code",
+              "terminal",
+              "tmux"
+            ]
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
+          "title": "tmuxai",
+          "description": "AI-Powered, Non-Intrusive Terminal Assistant",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "AI-Powered, Non-Intrusive Terminal Assistant",
+            "homepage": "https://tmuxai.dev",
+            "id": 968983324,
+            "language": "Go",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-21T19:39:04Z",
+            "open_issues": 7,
+            "owner": "alvinunreal",
+            "repo": "tmuxai",
+            "stars": 1984,
+            "topics": [
+              "ai",
+              "assistant",
+              "chatgpt",
+              "tmux",
+              "warp"
+            ]
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-ide",
+          "description": "Terminal app for tmux that shows which coding agents (Claude Code, Codex, etc.) are working, blocked or done across sessions, with notifications and session restore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The open-source tmux GUI/TUI for your coding agents",
+            "homepage": "https://tmux-ide.com",
+            "id": 1179069237,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-11-23T19:23:33Z",
+            "open_issues": 12,
+            "owner": "wavyrai",
+            "repo": "tmux-ide",
+            "stars": 570,
+            "topics": [
+              "agent-orchestration",
+              "claude-code",
+              "codex",
+              "coding-agent",
+              "coding-agents",
+              "tmux",
+              "tmux-conf"
+            ]
+          },
+          "first_seen": "2026-11-23T20:33:07.298Z"
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-assistant-resurrect",
+          "description": "Persist and restore AI assistant sessions (Claude Code, Codex CLI, etc.) across tmux restarts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Persist and restore AI coding assistant sessions (Claude Code, OpenCode, Codex CLI, Pi) across tmux restarts",
+            "homepage": null,
+            "id": 1158008171,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-11-19T06:47:58Z",
+            "open_issues": 4,
+            "owner": "timvw",
+            "repo": "tmux-assistant-resurrect",
+            "stars": 110,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-agent-indicator",
+          "description": "Track AI agent state (Claude, Codex, etc.) with pane borders, background colors, window titles, and status bar icons.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Tmux plugin that gives visual feedback for AI agent states (running/needs-input/done). Supports   Claude Code, Codex, and custom agents. Pane borders, window title colors, status bar icons.",
+            "homepage": null,
+            "id": 1158010253,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-10-26T18:16:24Z",
+            "open_issues": 6,
+            "owner": "accessd",
+            "repo": "tmux-agent-indicator",
+            "stars": 103,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-scout",
+          "description": "A tmux plugin for monitoring and navigating AI coding sessions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Monitor and navigate AI coding agent sessions in tmux with an fzf picker, status widget, and crash detection.",
+            "homepage": null,
+            "id": 1178455970,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-11-05T12:00:52Z",
+            "open_issues": 1,
+            "owner": "qeesung",
+            "repo": "tmux-scout",
+            "stars": 30,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
+          "title": "marmonitor",
+          "description": "Tmux status bar monitor for local AI coding sessions (Claude Code, Codex, Gemini). Track agent activity, enrich sessions with metadata, and provide interactive popups and session jumping.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "tmux status bar monitor for AI coding agents — track Claude, Codex, Gemini sessions in real time",
+            "homepage": null,
+            "id": 1193559783,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-11-11T14:03:38Z",
+            "open_issues": 2,
+            "owner": "mjjo16",
+            "repo": "marmonitor",
+            "stars": 27,
+            "topics": [
+              "ai-agent",
+              "claude-code",
+              "cli",
+              "codex",
+              "developer-tools",
+              "gemini",
+              "monitor",
+              "statusbar",
+              "terminal",
+              "tmux"
+            ]
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
+          "title": "lazyclaude",
+          "description": "A lazygit-inspired TUI for managing multiple Claude Code sessions with live previews, activity tracking, and permission prompts in a tmux popup",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Claude AI session manager for tmux",
+            "homepage": null,
+            "id": 1179753174,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-04-16T10:19:31Z",
+            "open_issues": 2,
+            "owner": "any-context",
+            "repo": "lazyclaude",
+            "stars": 24,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-llm",
+          "description": "Get quick responses to your terminal contents from LLM assistants.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Get quick LLM insights in a tmux popup window.",
+            "homepage": null,
+            "id": 1011028313,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-08-23T19:27:15Z",
+            "open_issues": 0,
+            "owner": "hynek-urban",
+            "repo": "tmux-llm",
+            "stars": 16,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-claude-sessions",
+          "description": "Browse and resume Claude AI conversations from a fzf popup",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Browse and resume Claude AI conversations from tmux",
+            "homepage": null,
+            "id": 1163585218,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-02-22T03:19:00Z",
+            "open_issues": 1,
+            "owner": "aomerk",
+            "repo": "tmux-claude-sessions",
+            "stars": 13,
+            "topics": [
+              "ai",
+              "claude",
+              "claude-ai",
+              "developer-tools",
+              "fzf",
+              "tmux",
+              "tmux-plugin"
+            ]
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-ai-window-name",
+          "description": "Let an LLM automatically update your window names based on metadata about the window (Claude and local LLMs supported)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Dynamically update your tmux window names based on their content with AI",
+            "homepage": null,
+            "id": 1210690336,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-06-25T12:35:33Z",
+            "open_issues": 0,
+            "owner": "ndom91",
+            "repo": "tmux-ai-window-name",
+            "stars": 5,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-claude-status",
+          "description": "Show live Claude Code session status per window: animated badges, waiting durations and global summary.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Live Claude Code session status in your tmux status bar: per-window badges, animated spinner, waiting durations, global summary, jump-to-session",
+            "homepage": null,
+            "id": 1287187205,
+            "language": "Shell",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-29T15:44:23Z",
+            "open_issues": 4,
+            "owner": "farnots",
+            "repo": "tmux-claude-status",
+            "stars": 2,
+            "topics": [
+              "claude",
+              "claude-code",
+              "statusbar",
+              "tmux",
+              "tmux-plugin"
+            ]
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-agent-view",
+          "description": "Claude Code-style agent view — jump to any AI agent pane (Claude Code, Codex, aider) across sessions from a popup picker, grouped by live state, with screen preview. No hooks or daemon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Claude Code-style agent view for tmux — jump to any AI agent pane across all sessions in one keystroke. Zero configuration.",
+            "homepage": null,
+            "id": 1286993483,
+            "language": "Shell",
+            "license": null,
+            "last_commit": "2026-08-13T07:04:59Z",
+            "open_issues": 0,
+            "owner": "luopeixiang",
+            "repo": "tmux-agent-view",
+            "stars": 0,
+            "topics": [
+              "ai-agents",
+              "aider",
+              "claude-code",
+              "cli",
+              "codex",
+              "developer-tools",
+              "fzf",
+              "tmux",
+              "tmux-plugin"
+            ]
+          },
+          "first_seen": "2026-08-28T20:22:04.796Z"
+        }
+      ],
+      "title": "AI agent management"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -1404,7 +1697,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15845,
+            "stars": 15847,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -1530,7 +1823,7 @@
             "open_issues": 57,
             "owner": "dracula",
             "repo": "tmux",
-            "stars": 861,
+            "stars": 860,
             "topics": [
               "dark-theme",
               "dracula",
@@ -1702,8 +1995,8 @@
         },
         {
           "node_type": "item",
-          "title": "tmux-kanagawa",
-          "description": "Dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.",
+          "title": "tmux-ukiyo",
+          "description": "Multi-theme status bar (formerly tmux-kanagawa) with a menu for on-the-fly config changes.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2101,6 +2394,56 @@
         },
         {
           "node_type": "item",
+          "title": "kube-tmux",
+          "description": "Show the current Kubernetes context and namespace in the tmux status bar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Kubernetes status line for tmux",
+            "homepage": null,
+            "id": 125621871,
+            "language": "Shell",
+            "license": "Apache-2.0",
+            "last_commit": "2026-05-25T13:05:38Z",
+            "open_issues": 1,
+            "owner": "jonmosco",
+            "repo": "kube-tmux",
+            "stars": 387,
+            "topics": []
+          },
+          "first_seen": "2026-11-23T20:33:07.298Z"
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-dotbar",
+          "description": "a simple and minimalist status bar theme for tmux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "a simple and minimalist status bar theme for tmux ☯︎",
+            "homepage": null,
+            "id": 975204454,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-10-13T20:48:07Z",
+            "open_issues": 1,
+            "owner": "vaaleyard",
+            "repo": "tmux-dotbar",
+            "stars": 302,
+            "topics": [
+              "ayu",
+              "ayu-theme",
+              "colors",
+              "colorscheme",
+              "hacktoberfest",
+              "tmux",
+              "tmux-dotbar"
+            ]
+          },
+          "first_seen": "2026-11-23T20:33:07.298Z"
+        },
+        {
+          "node_type": "item",
           "title": "tmux-window-name",
           "description": "Names your tmux windows smartly.",
           "children": [],
@@ -2261,27 +2604,6 @@
         },
         {
           "node_type": "item",
-          "title": "tmux-spotify-info",
-          "description": "Spotify track info on your status bar (OSX)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Shows current song playing on spotify in your tmux status line",
-            "homepage": null,
-            "id": 22541906,
-            "language": "AppleScript",
-            "license": "ISC",
-            "last_commit": "2018-03-05T06:28:55Z",
-            "open_issues": 3,
-            "owner": "jdx",
-            "repo": "tmux-spotify-info",
-            "stars": 79,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
           "title": "muxbar",
           "description": "configure the status bar in Rust.",
           "children": [],
@@ -2399,27 +2721,6 @@
               "plugin",
               "tmux"
             ]
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tmux-weather",
-          "description": "Add weather status via forecast.io",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Show weather in tmux status line. No powerline needed.",
-            "homepage": null,
-            "id": 52056461,
-            "language": "JavaScript",
-            "license": "ISC",
-            "last_commit": "2024-01-12T20:56:21Z",
-            "open_issues": 7,
-            "owner": "jdx",
-            "repo": "tmux-weather",
-            "stars": 34,
-            "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
         },
@@ -2950,6 +3251,27 @@
         },
         {
           "node_type": "item",
+          "title": "tmux-wireguard",
+          "description": "Show active WireGuard (and Tailscale) interfaces, with data transfer and last handshake in verbose mode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "WireGuard/Tailscale connection indicator for tmux status line",
+            "homepage": null,
+            "id": 1002202984,
+            "language": "Shell",
+            "license": null,
+            "last_commit": "2026-06-10T22:37:23Z",
+            "open_issues": 0,
+            "owner": "mgalgs",
+            "repo": "tmux-wireguard",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-11-23T20:33:07.298Z"
+        },
+        {
+          "node_type": "item",
           "title": "tmux-weather-info-yr",
           "description": "Displays the current temperature and weather based on your location via yr.no",
           "children": [],
@@ -2973,33 +3295,6 @@
               "tmux-plugin",
               "weather",
               "yr"
-            ]
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tmux-claude-status",
-          "description": "Show live Claude Code session status per window: animated badges, waiting durations and global summary.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Live Claude Code session status in your tmux status bar: per-window badges, animated spinner, waiting durations, global summary, jump-to-session",
-            "homepage": null,
-            "id": 1287187205,
-            "language": "Shell",
-            "license": "Apache-2.0",
-            "last_commit": "2026-09-29T15:44:23Z",
-            "open_issues": 4,
-            "owner": "farnots",
-            "repo": "tmux-claude-status",
-            "stars": 2,
-            "topics": [
-              "claude",
-              "claude-code",
-              "statusbar",
-              "tmux",
-              "tmux-plugin"
             ]
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -3054,7 +3349,7 @@
             "open_issues": 11,
             "owner": "Morantron",
             "repo": "tmux-fingers",
-            "stars": 1488,
+            "stars": 1489,
             "topics": [
               "hint",
               "keyboard-shortcuts",
@@ -3083,7 +3378,7 @@
             "open_issues": 25,
             "owner": "Ataraxy-Labs",
             "repo": "opensessions",
-            "stars": 1240,
+            "stars": 1241,
             "topics": [
               "agent-orchestration",
               "amp",
@@ -3169,7 +3464,7 @@
             "open_issues": 15,
             "owner": "NHDaly",
             "repo": "tmux-better-mouse-mode",
-            "stars": 989,
+            "stars": 990,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -3243,7 +3538,7 @@
             "open_issues": 0,
             "owner": "jaclu",
             "repo": "tmux-menus",
-            "stars": 547,
+            "stars": 548,
             "topics": [
               "display-menu",
               "popup-dialog",
@@ -3270,7 +3565,7 @@
             "open_issues": 2,
             "owner": "jabirali",
             "repo": "tmux-tilish",
-            "stars": 493,
+            "stars": 494,
             "topics": [
               "dwm",
               "i3",
@@ -3609,32 +3904,6 @@
         },
         {
           "node_type": "item",
-          "title": "tmux-autoreload",
-          "description": "Watches your tmux configuration file and automatically reloads it on change.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "🧐 Automatically reload your tmux config file on change",
-            "homepage": null,
-            "id": 401229499,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2024-02-16T12:08:46Z",
-            "open_issues": 2,
-            "owner": "b0o",
-            "repo": "tmux-autoreload",
-            "stars": 123,
-            "topics": [
-              "tmux",
-              "tmux-autoreload",
-              "tmux-plugin",
-              "tmux-plugins"
-            ]
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
           "title": "tmux-grimoire",
           "description": "Customizable popup shells (aka shpells) driven by custom scripts.",
           "children": [],
@@ -3705,66 +3974,6 @@
               "tmux",
               "tmux-plugin",
               "vim"
-            ]
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tmux-agent-indicator",
-          "description": "Track AI agent state (Claude, Codex, etc.) with pane borders, background colors, window titles, and status bar icons.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Tmux plugin that gives visual feedback for AI agent states (running/needs-input/done). Supports   Claude Code, Codex, and custom agents. Pane borders, window title colors, status bar icons.",
-            "homepage": null,
-            "id": 1158010253,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-10-26T18:16:24Z",
-            "open_issues": 6,
-            "owner": "accessd",
-            "repo": "tmux-agent-indicator",
-            "stars": 103,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tmux-fzf-session-switch",
-          "description": "Easy way to switch, when you have a ton of sessions.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Easy ways to switch between tons of tmux sessions",
-            "homepage": null,
-            "id": 406222883,
-            "language": "Shell",
-            "license": "GPL-3.0",
-            "last_commit": "2026-07-19T07:11:12Z",
-            "open_issues": 3,
-            "owner": "cutbypham",
-            "repo": "tmux-fzf-session-switch",
-            "stars": 97,
-            "topics": [
-              "cli",
-              "cli-app",
-              "command-line",
-              "command-line-tool",
-              "fzf",
-              "fzf-command",
-              "fzf-plugin",
-              "fzf-scripts",
-              "productivity",
-              "terminal",
-              "terminal-based",
-              "tmux",
-              "tmux-conf",
-              "tmux-configs",
-              "tmux-configuration",
-              "tmux-plugin",
-              "tmux-plugins"
             ]
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -3869,6 +4078,27 @@
         },
         {
           "node_type": "item",
+          "title": "tmux-fzf-links",
+          "description": "Search the pane for URLs, files, git addresses and code errors, pick one with fzf, and open it in your editor or browser. Resolves OSC 8 hyperlinks and accepts user-defined schemes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🚀 Open any kind of link with highly customizable matching patterns",
+            "homepage": null,
+            "id": 912997206,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-18T14:32:01Z",
+            "open_issues": 1,
+            "owner": "alberti42",
+            "repo": "tmux-fzf-links",
+            "stars": 66,
+            "topics": []
+          },
+          "first_seen": "2026-11-23T20:33:07.298Z"
+        },
+        {
+          "node_type": "item",
           "title": "nunchux",
           "description": "A fuzzy launcher for apps, files, and build tasks with live status, keyboard shortcuts, and task runner integration.",
           "children": [],
@@ -3883,7 +4113,7 @@
             "open_issues": 0,
             "owner": "datamadsen",
             "repo": "nunchux",
-            "stars": 66,
+            "stars": 65,
             "topics": [
               "bash",
               "command-palette",
@@ -4048,27 +4278,6 @@
         },
         {
           "node_type": "item",
-          "title": "tmux-scout",
-          "description": "A tmux plugin for monitoring and navigating AI coding sessions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Monitor and navigate AI coding agent sessions in tmux with an fzf picker, status widget, and crash detection.",
-            "homepage": null,
-            "id": 1178455970,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-11-05T12:00:52Z",
-            "open_issues": 1,
-            "owner": "qeesung",
-            "repo": "tmux-scout",
-            "stars": 30,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
           "title": "tmux-pane-focus",
           "description": "Auto-Resizing splits to improve readability.",
           "children": [],
@@ -4087,38 +4296,6 @@
             "topics": [
               "tmux",
               "tmux-plugins"
-            ]
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
-          "title": "marmonitor",
-          "description": "Tmux status bar monitor for local AI coding sessions (Claude Code, Codex, Gemini). Track agent activity, enrich sessions with metadata, and provide interactive popups and session jumping.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "tmux status bar monitor for AI coding agents — track Claude, Codex, Gemini sessions in real time",
-            "homepage": null,
-            "id": 1193559783,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-11-11T14:03:38Z",
-            "open_issues": 2,
-            "owner": "mjjo16",
-            "repo": "marmonitor",
-            "stars": 27,
-            "topics": [
-              "ai-agent",
-              "claude-code",
-              "cli",
-              "codex",
-              "developer-tools",
-              "gemini",
-              "monitor",
-              "statusbar",
-              "terminal",
-              "tmux"
             ]
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4147,7 +4324,7 @@
         {
           "node_type": "item",
           "title": "tmux-devcontainers",
-          "description": "Manage and interact with (Devcontainers)[https://containers.dev]",
+          "description": "Manage and interact with Devcontainers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4265,56 +4442,6 @@
             "repo": "tmux-fzf-open-files-nvim",
             "stars": 19,
             "topics": []
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tmux-llm",
-          "description": "Get quick responses to your terminal contents from LLM assistants.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Get quick LLM insights in a tmux popup window.",
-            "homepage": null,
-            "id": 1011028313,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-08-23T19:27:15Z",
-            "open_issues": 0,
-            "owner": "hynek-urban",
-            "repo": "tmux-llm",
-            "stars": 16,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tmux-claude-sessions",
-          "description": "Browse and resume Claude AI conversations from a fzf popup",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Browse and resume Claude AI conversations from tmux",
-            "homepage": null,
-            "id": 1163585218,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-02-22T03:19:00Z",
-            "open_issues": 1,
-            "owner": "aomerk",
-            "repo": "tmux-claude-sessions",
-            "stars": 13,
-            "topics": [
-              "ai",
-              "claude",
-              "claude-ai",
-              "developer-tools",
-              "fzf",
-              "tmux",
-              "tmux-plugin"
-            ]
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
         },
@@ -4488,27 +4615,6 @@
         },
         {
           "node_type": "item",
-          "title": "tmux-ai-window-name",
-          "description": "Let an LLM automatically update your window names based on metadata about the window (Claude and local LLMs supported)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Dynamically update your tmux window names based on their content with AI",
-            "homepage": null,
-            "id": 1210690336,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-06-25T12:35:33Z",
-            "open_issues": 0,
-            "owner": "ndom91",
-            "repo": "tmux-ai-window-name",
-            "stars": 5,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
           "title": "tmux-gh",
           "description": "Tmux plugin to fetch the github helper profile. Displays, the currently actively authenticated git username.",
           "children": [],
@@ -4581,37 +4687,6 @@
           "first_seen": "2026-08-28T20:22:04.796Z"
         },
         {
-          "node_type": "item",
-          "title": "tmux-agent-view",
-          "description": "Claude Code-style agent view — jump to any AI agent pane (Claude Code, Codex, aider) across sessions from a popup picker, grouped by live state, with screen preview. No hooks or daemon.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Claude Code-style agent view for tmux — jump to any AI agent pane across all sessions in one keystroke. Zero configuration.",
-            "homepage": null,
-            "id": 1286993483,
-            "language": "Shell",
-            "license": null,
-            "last_commit": "2026-08-13T07:04:59Z",
-            "open_issues": 0,
-            "owner": "luopeixiang",
-            "repo": "tmux-agent-view",
-            "stars": 0,
-            "topics": [
-              "ai-agents",
-              "aider",
-              "claude-code",
-              "cli",
-              "codex",
-              "developer-tools",
-              "fzf",
-              "tmux",
-              "tmux-plugin"
-            ]
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
           "node_type": "group",
           "title": "tmux-plugins",
           "description": "Official tmux plugins",
@@ -4632,7 +4707,7 @@
                 "open_issues": 145,
                 "owner": "tmux-plugins",
                 "repo": "tpm",
-                "stars": 15188,
+                "stars": 15189,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4653,7 +4728,7 @@
                 "open_issues": 312,
                 "owner": "tmux-plugins",
                 "repo": "tmux-resurrect",
-                "stars": 13154,
+                "stars": 13153,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4695,7 +4770,7 @@
                 "open_issues": 49,
                 "owner": "tmux-plugins",
                 "repo": "tmux-yank",
-                "stars": 3123,
+                "stars": 3122,
                 "topics": [
                   "clipboard",
                   "cygwin",
@@ -4859,7 +4934,7 @@
             {
               "node_type": "item",
               "title": "tmux-urlview",
-              "description": "Quickly open any url on your terminal window! (No commits since 2016, see tmux-urlscan or tmux-fzf-url for a maintained alternative.)",
+              "description": "Quickly open any url on your terminal window! (No commits since 2016, see tmux-urlscan, tmux-fzf-url or tmux-fzf-links for a maintained alternative.)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4988,33 +5063,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "tmuxai",
-          "description": "AI-Powered, Non-Intrusive Terminal Assistant",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "AI-Powered, Non-Intrusive Terminal Assistant",
-            "homepage": "https://tmuxai.dev",
-            "id": 968983324,
-            "language": "Go",
-            "license": "Apache-2.0",
-            "last_commit": "2026-11-21T19:39:04Z",
-            "open_issues": 7,
-            "owner": "alvinunreal",
-            "repo": "tmuxai",
-            "stars": 1984,
-            "topics": [
-              "ai",
-              "assistant",
-              "chatgpt",
-              "tmux",
-              "warp"
-            ]
-          },
-          "first_seen": "2026-08-28T20:22:04.796Z"
-        },
-        {
-          "node_type": "item",
           "title": "sixel-tmux",
           "description": "a fork of tmux, with just one goal: having the most reliable support of graphics",
           "children": [],
@@ -5029,7 +5077,7 @@
             "open_issues": 2,
             "owner": "csdvrx",
             "repo": "sixel-tmux",
-            "stars": 514,
+            "stars": 515,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -5105,7 +5153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T16:37:49.110Z",
+    "last_updated": "2026-11-23T20:33:07.298Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for tmux",
@@ -5113,8 +5161,8 @@
       "id": 55387399,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-05T15:55:04Z",
-      "open_issues": 15,
+      "last_commit": "2026-11-23T16:37:03Z",
+      "open_issues": 5,
       "owner": "rothgar",
       "repo": "awesome-tmux",
       "stars": 10477,
@@ -5124,7 +5172,7 @@
         "tmux"
       ]
     },
-    "original_repository_sha": "f8784368bd148e5c6e9f8e0c85bb756f03fe1801",
+    "original_repository_sha": "362bf43728c4ff1404038d7afeeba55ddc26d795",
     "enhanced_repository": "enhansome/enhansome-tmux",
     "enhanced_repository_description": null,
     "title": "Awesome tmux with stars"
