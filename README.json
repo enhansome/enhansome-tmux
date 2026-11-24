@@ -19,7 +19,7 @@
             "open_issues": 24,
             "owner": "gpakosz",
             "repo": ".tmux",
-            "stars": 25478,
+            "stars": 25476,
             "topics": [
               "cli",
               "conf",
@@ -164,7 +164,7 @@
             "open_issues": 243,
             "owner": "powerline",
             "repo": "powerline",
-            "stars": 14856,
+            "stars": 14855,
             "topics": [
               "bash",
               "fish",
@@ -196,7 +196,7 @@
             "open_issues": 97,
             "owner": "tmuxinator",
             "repo": "tmuxinator",
-            "stars": 13744,
+            "stars": 13743,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -310,7 +310,7 @@
             "open_issues": 52,
             "owner": "joshmedeski",
             "repo": "sesh",
-            "stars": 2937,
+            "stars": 2940,
             "topics": [
               "productivity",
               "session-management",
@@ -426,8 +426,8 @@
             "id": 59409425,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-23T03:15:00Z",
-            "open_issues": 182,
+            "last_commit": "2026-11-24T03:01:28Z",
+            "open_issues": 149,
             "owner": "tmux-python",
             "repo": "libtmux",
             "stars": 1218,
@@ -1286,8 +1286,8 @@
             "id": 1267331153,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-23T17:09:23Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-24T04:00:26Z",
+            "open_issues": 0,
             "owner": "wilhelm-murdoch",
             "repo": "glazier",
             "stars": 2,
@@ -1348,7 +1348,7 @@
             "open_issues": 106,
             "owner": "SeemSeam",
             "repo": "claude_codex_bridge",
-            "stars": 3633,
+            "stars": 3634,
             "topics": [
               "ai-coding",
               "ai-collaboration",
@@ -1413,8 +1413,8 @@
             "id": 1179069237,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-23T19:23:33Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-24T14:31:15Z",
+            "open_issues": 15,
             "owner": "wavyrai",
             "repo": "tmux-ide",
             "stars": 570,
@@ -1442,8 +1442,8 @@
             "id": 1158008171,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-19T06:47:58Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-24T09:14:04Z",
+            "open_issues": 3,
             "owner": "timvw",
             "repo": "tmux-assistant-resurrect",
             "stars": 110,
@@ -1524,6 +1524,32 @@
             ]
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
+        },
+        {
+          "node_type": "item",
+          "title": "forestui",
+          "description": "A Rust TUI for managing Git worktrees in tmux, with Claude Code session tracking and GitHub issue integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "tmux-based worktree manager for Claude",
+            "homepage": null,
+            "id": 1134429300,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-10-14T21:05:25Z",
+            "open_issues": 5,
+            "owner": "flipbit03",
+            "repo": "forestui",
+            "stars": 26,
+            "topics": [
+              "claude-code",
+              "tmux",
+              "tui",
+              "worktree-manager"
+            ]
+          },
+          "first_seen": "2026-11-24T19:41:54.733Z"
         },
         {
           "node_type": "item",
@@ -1619,6 +1645,38 @@
         },
         {
           "node_type": "item",
+          "title": "tmux-claude-status-tabs",
+          "description": "Per-window Claude Code session state in the tab bar: animated spinner, input, permission and done indicators. Event-driven via hooks, no polling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Every Claude Code session's state, live in your tmux tab bar — animated, event-driven, zero polling",
+            "homepage": "https://jordiwippert.nl/posts/2026-08-31-tmux-claude-status-tabs/",
+            "id": 1191020292,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-09-14T05:54:09Z",
+            "open_issues": 0,
+            "owner": "LiveNL",
+            "repo": "tmux-claude-status-tabs",
+            "stars": 5,
+            "topics": [
+              "ai",
+              "anthropic",
+              "claude",
+              "claude-code",
+              "developer-tools",
+              "status-bar",
+              "terminal",
+              "tmux",
+              "tmux-plugin",
+              "zsh"
+            ]
+          },
+          "first_seen": "2026-11-24T19:41:54.733Z"
+        },
+        {
+          "node_type": "item",
           "title": "tmux-claude-status",
           "description": "Show live Claude Code session status per window: animated badges, waiting durations and global summary.",
           "children": [],
@@ -1697,7 +1755,7 @@
             "open_issues": 159,
             "owner": "morhetz",
             "repo": "gruvbox",
-            "stars": 15847,
+            "stars": 15845,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -1768,7 +1826,7 @@
             "open_issues": 45,
             "owner": "nordtheme",
             "repo": "tmux",
-            "stars": 1210,
+            "stars": 1211,
             "topics": [
               "arctic",
               "clean",
@@ -1823,7 +1881,7 @@
             "open_issues": 57,
             "owner": "dracula",
             "repo": "tmux",
-            "stars": 860,
+            "stars": 859,
             "topics": [
               "dark-theme",
               "dracula",
@@ -1905,7 +1963,7 @@
             "open_issues": 5,
             "owner": "janoamaral",
             "repo": "tokyo-night-tmux",
-            "stars": 582,
+            "stars": 583,
             "topics": [
               "outrun",
               "theme",
@@ -1931,7 +1989,7 @@
             "open_issues": 5,
             "owner": "rose-pine",
             "repo": "tmux",
-            "stars": 282,
+            "stars": 284,
             "topics": [
               "app",
               "terminal",
@@ -3408,7 +3466,7 @@
             "open_issues": 2,
             "owner": "laktak",
             "repo": "extrakto",
-            "stars": 1158,
+            "stars": 1159,
             "topics": [
               "autocomplete",
               "clipboard",
@@ -3437,7 +3495,7 @@
             "open_issues": 48,
             "owner": "fcsonline",
             "repo": "tmux-thumbs",
-            "stars": 1103,
+            "stars": 1104,
             "topics": [
               "rust",
               "tmux",
@@ -3464,7 +3522,7 @@
             "open_issues": 15,
             "owner": "NHDaly",
             "repo": "tmux-better-mouse-mode",
-            "stars": 990,
+            "stars": 991,
             "topics": []
           },
           "first_seen": "2026-08-28T20:22:04.796Z"
@@ -3511,7 +3569,7 @@
             "open_issues": 14,
             "owner": "wfxr",
             "repo": "tmux-fzf-url",
-            "stars": 741,
+            "stars": 742,
             "topics": [
               "cli",
               "fzf",
@@ -3969,7 +4027,7 @@
             "open_issues": 5,
             "owner": "artemave",
             "repo": "tmux_super_fingers",
-            "stars": 108,
+            "stars": 109,
             "topics": [
               "tmux",
               "tmux-plugin",
@@ -4707,7 +4765,7 @@
                 "open_issues": 145,
                 "owner": "tmux-plugins",
                 "repo": "tpm",
-                "stars": 15189,
+                "stars": 15188,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -4884,7 +4942,7 @@
                 "open_issues": 15,
                 "owner": "tmux-plugins",
                 "repo": "tmux-sidebar",
-                "stars": 666,
+                "stars": 667,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:22:04.796Z"
@@ -5153,7 +5211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T20:33:07.298Z",
+    "last_updated": "2026-11-24T19:41:54.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome resources for tmux",
@@ -5161,18 +5219,18 @@
       "id": 55387399,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-23T16:37:03Z",
-      "open_issues": 5,
+      "last_commit": "2026-11-24T07:37:16Z",
+      "open_issues": 4,
       "owner": "rothgar",
       "repo": "awesome-tmux",
-      "stars": 10477,
+      "stars": 10480,
       "topics": [
         "awesome",
         "awesome-list",
         "tmux"
       ]
     },
-    "original_repository_sha": "362bf43728c4ff1404038d7afeeba55ddc26d795",
+    "original_repository_sha": "f22cbd007a74ed725fdbada4220f534992061bb7",
     "enhanced_repository": "enhansome/enhansome-tmux",
     "enhanced_repository_description": null,
     "title": "Awesome tmux with stars"
